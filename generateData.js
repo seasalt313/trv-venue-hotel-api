@@ -7,7 +7,7 @@ for (var i = 1; i <= 1000; i++) {
         id: i,
         name: faker.company.companyName() + ' Hotel',
         address: faker.address.streetAddress(),
-        icon: faker.image.avatar(),
+        icon: faker.image.image(),
         cost: '$' + faker.commerce.price() + '/night',
     });
 }
