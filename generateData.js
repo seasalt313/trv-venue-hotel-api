@@ -1,36 +1,61 @@
 var faker = require('faker');
 
 var database = { hotels: [] };
-var https = true;
 
 
-for (var i = 1; i <= 100; i++) {
+for (var i = 1; i <= 30; i++) {
     database.hotels.push({
         id: i,
         name: faker.company.companyName() + ' Hotel',
+        description: faker.lorem.paragraph(),
+        distance_to_venue: faker.random.number({ 'min': 1, 'max': 400 }) + ' meters',
+        rating: faker.random.number({ 'min': 1, 'max': 5, 'precision': 0.01 }),
+        price_category: faker.random.arrayElement(['low', 'medium', 'high']),
+        amenities: {
+            first: faker.random.arrayElement([' WIFI ', ' A/C ', ' Breakfast Included ']),
+            second: faker.random.arrayElement([' Free Parking ', ' Swimming Pool ', ' Spa ']),
+            third: faker.random.arrayElement([' Pets Allowed ', ' Gym ', ' Laundry Services '])
+        },
         address: faker.address.streetAddress(),
         city: faker.address.city(1),
         country: faker.address.country(),
-        icon: "https://loremflickr.com/50/50/business?/random=" + i,
         phone: faker.phone.phoneNumber(),
         date: faker.date.between('2015-01-01', '2015-12-31', '##-##-##'),
-        cost: '$' + faker.commerce.price() + '/night',
+        image: faker.random.arrayElement(
+            [
+                '../assets/hotel1.jpg',
+                '../assets/hotel2.jpg',
+                '../assets/hotel3.jpg',
+                '../assets/hotel4.jpg',
+                '../assets/hotel5.jpg',
+                '../assets/hotel6.jpg',
+                '../assets/hotel7.jpg',
+            ]
+        ),
+        room1: {
+            id: i,
+            name: faker.company.companyName() + ' Room',
+            description: faker.lorem.paragraph(),
+            "max_occupancy": faker.random.number({ 'min': 1, 'max': 4 }),
+            price_in_usd: '$' + faker.random.number({ 'min': 1, 'max': 100, 'precision': 0.01 }) + '/night',
+        },
+        room2: {
+            id: i,
+            name: faker.company.companyName() + ' Room',
+            description: faker.lorem.paragraph(),
+            "max_occupancy": faker.random.number({ 'min': 1, 'max': 4 }),
+            price_in_usd: '$' + faker.random.number({ 'min': 1, 'max': 100, 'precision': 0.01 }) + '/night',
+        },
+        room3: {
+            id: i,
+            name: faker.company.companyName() + ' Room',
+            description: faker.lorem.paragraph(),
+            "max_occupancy": faker.random.number({ 'min': 1, 'max': 4 }),
+            price_in_usd: '$' + faker.random.number({ 'min': 1, 'max': 100, 'precision': 0.01 }) + '/night',
+        }
     });
 }
 
-for (var i = 101; i <= 200; i++) {
-    database.hotels.push({
-        id: i,
-        name: faker.company.companyName() + ' Hotel',
-        address: faker.address.streetAddress(),
-        city: 'Leipzig',
-        country: 'Germany',
-        icon: "https://loremflickr.com/50/50/business?/random=" + i,
-        phone: faker.phone.phoneNumber(),
-        date: faker.date.between('2015-01-01', '2015-12-31', '##-##-##'),
-        cost: faker.commerce.price(10, 115, 2, "$") + '/night',
-    });
-}
 
 console.log(JSON.stringify(database));
 
