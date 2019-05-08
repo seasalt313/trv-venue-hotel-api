@@ -2,1202 +2,1202 @@
     "hotels": [
         {
             "id": 1,
-            "name": "Prosacco Group Hotel",
-            "description": "Voluptas modi laboriosam eius ut. Quos et vitae voluptatem. Dolores est ut aspernatur laboriosam provident sed odio. Voluptates ex eius. Quidem non cum voluptas tenetur.",
-            "distance_to_venue": "94 meters",
-            "rating": 4.7700000000000005,
-            "price_category": "high",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Free Parking ",
-                "third": " Pets Allowed "
-            },
-            "address": "278 Hoeger Spur",
-            "city": "East Webster",
-            "country": "Barbados",
-            "phone": "1-362-349-2963 x6194",
-            "date": "2015-09-24T12:35:33.966Z",
-            "image": "../assets/hotel4.jpg",
+            "name": "DuBuque, Koelpin and Macejkovic Hotel",
+            "description": "Fugiat mollitia perspiciatis similique delectus ex aut. Aut et enim consequatur necessitatibus omnis reiciendis consequatur. Non voluptas voluptatum hic voluptate architecto ullam. Qui distinctio aliquid delectus. Repellat minus enim. Velit sed molestias at.",
+            "distance_to_venue": "49 meters",
+            "rating": 1,
+            "price_category": "low",
+            "amenities": [
+                " WIFI",
+                " Swimming Pool",
+                " Laundry Services"
+            ],
+            "address": "293 Heidenreich Fall",
+            "city": "Port Octavia",
+            "country": "Mali",
+            "phone": "1-867-050-4174 x4217",
+            "date": "2015-01-31T08:31:23.751Z",
+            "image": "../assets/hotel6.jpg",
             "room1": {
-                "id": 1,
-                "name": "Beatty - Berge Room",
-                "description": "Ratione dignissimos modi. Eaque quasi cum rem possimus deserunt assumenda quas blanditiis. Adipisci repudiandae et ut autem cum tempora accusantium. Dolore quo provident omnis impedit voluptas dignissimos quasi rerum. Ut quae et. Quam qui aliquam dolorem assumenda.",
-                "max_occupancy": 4,
-                "price_in_usd": "$12.74/night"
+                "id": 2,
+                "name": "Bartoletti, Ryan and Lemke Room",
+                "description": "Delectus nisi laudantium optio et et aut dolore quia. Impedit voluptas molestias. Consequatur qui ut ipsa voluptates. Omnis iure eveniet voluptatem fuga. Quo rem non ut pariatur qui placeat voluptas non.",
+                "max_occupancy": 3,
+                "price_in_usd": "$11.06/night"
             },
             "room2": {
-                "id": 1,
-                "name": "Reynolds - Harris Room",
-                "description": "Reprehenderit commodi molestias voluptatem ut a molestiae debitis est adipisci. Harum deserunt assumenda et consectetur. Minima ullam ut placeat veritatis error asperiores ullam.",
+                "id": 3,
+                "name": "Gutkowski, Aufderhar and Lynch Room",
+                "description": "Est laboriosam nisi quae voluptate. Et aperiam sequi corporis illum expedita non est suscipit ullam. Distinctio quis possimus nihil odit dolor dicta aliquid qui voluptate. Sit qui aliquam dolorem impedit omnis magni exercitationem quo.",
                 "max_occupancy": 1,
-                "price_in_usd": "$36.44/night"
+                "price_in_usd": "$54.71/night"
             },
             "room3": {
-                "id": 1,
-                "name": "Schumm, Zulauf and Ryan Room",
-                "description": "Rem fuga vitae aut quasi ullam perspiciatis vitae. Vero exercitationem eum tempore. Officia id modi recusandae cum dolorum non debitis aut. Et omnis est voluptatum nemo hic. Corporis alias aut qui fugiat ut. Molestiae autem recusandae quae consequatur.",
-                "max_occupancy": 4,
-                "price_in_usd": "$50.76/night"
+                "id": 4,
+                "name": "Lang Group Room",
+                "description": "Blanditiis sed sit voluptatem exercitationem aut odio iste iure id. Sunt nemo quidem. Aut molestiae nihil amet. Dolor fugiat recusandae unde quia quia voluptatum. Molestias et repellendus. Repudiandae deserunt aut.",
+                "max_occupancy": 1,
+                "price_in_usd": "$25.93/night"
             }
         },
         {
             "id": 2,
-            "name": "Olson Group Hotel",
-            "description": "Ea omnis voluptatibus quod et molestias. Nisi reprehenderit asperiores. Et maxime quidem magni dolores.",
-            "distance_to_venue": "388 meters",
-            "rating": 1.94,
-            "price_category": "low",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Free Parking ",
-                "third": " Laundry Services "
-            },
-            "address": "40585 Corkery Canyon",
-            "city": "West Mohammad",
-            "country": "Albania",
-            "phone": "(382) 276-1176 x12063",
-            "date": "2015-10-06T10:01:32.565Z",
-            "image": "../assets/hotel6.jpg",
+            "name": "Russel LLC Hotel",
+            "description": "Quaerat debitis velit nostrum explicabo. Aut eligendi dolor ducimus a a doloribus cupiditate. Vitae ad est et. Odit facilis quis quo. Modi perferendis nam fuga.",
+            "distance_to_venue": "148 meters",
+            "rating": 3,
+            "price_category": "high",
+            "amenities": [
+                " WIFI",
+                " Swimming Pool",
+                " Gym"
+            ],
+            "address": "8027 Ophelia Run",
+            "city": "New Robbie",
+            "country": "Guatemala",
+            "phone": "1-269-000-0082",
+            "date": "2015-09-24T13:07:24.381Z",
+            "image": "../assets/hotel1.jpg",
             "room1": {
-                "id": 2,
-                "name": "Beier - Hyatt Room",
-                "description": "Porro et quibusdam qui qui natus eaque. Et perspiciatis consequatur nesciunt consequatur eaque sit veniam deleniti autem. Accusantium voluptatibus rerum. Alias accusamus error cum aperiam rerum dolore ratione.",
+                "id": 3,
+                "name": "Nicolas, Bruen and Graham Room",
+                "description": "Mollitia corporis voluptas. Ipsum sed ut delectus nostrum autem iure laboriosam fuga voluptatem. Ut rem et voluptates modi voluptates ut nihil exercitationem.",
                 "max_occupancy": 1,
-                "price_in_usd": "$46.51/night"
+                "price_in_usd": "$91.64/night"
             },
             "room2": {
-                "id": 2,
-                "name": "Ferry Inc Room",
-                "description": "Dolore dolorum esse quia quis repellendus laudantium maiores qui. Repellendus ut ut cupiditate dolore minus nesciunt iusto et dolorem. Earum voluptatibus nihil corrupti sint aut vel. Similique enim ad omnis id eos.",
+                "id": 4,
+                "name": "Lesch, Grady and Wolf Room",
+                "description": "Aut eius aut dolore qui. Illo quaerat voluptatibus facere cumque. Ut et sit.",
                 "max_occupancy": 3,
-                "price_in_usd": "$65.07000000000001/night"
+                "price_in_usd": "$23.6/night"
             },
             "room3": {
-                "id": 2,
-                "name": "White, Lind and Hudson Room",
-                "description": "Voluptatem quis magnam. Quod est quas consequatur rem omnis reprehenderit similique sequi quasi. Aspernatur enim eius reiciendis quibusdam. Nulla et vitae ab quibusdam voluptas magnam omnis eveniet aut. Iste beatae voluptas et ut aut quod cumque qui ut. Harum corrupti sapiente velit quia consequuntur et fuga.",
-                "max_occupancy": 1,
-                "price_in_usd": "$62.82/night"
+                "id": 5,
+                "name": "Bergstrom - Cronin Room",
+                "description": "Sed tenetur nisi in blanditiis animi maiores deserunt sint velit. Est est provident corporis molestias omnis nihil blanditiis ea optio. Et aut omnis sunt sint ad voluptas. Cumque quidem voluptate qui nihil.",
+                "max_occupancy": 2,
+                "price_in_usd": "$90.93/night"
             }
         },
         {
             "id": 3,
-            "name": "Jacobs and Sons Hotel",
-            "description": "Eum voluptatem modi ipsa est voluptatem eum dignissimos possimus odio. Quibusdam sequi beatae ut voluptatem. Rerum et dolor nostrum aut quae. Optio ipsum autem. Corrupti rem nihil et quidem labore ex rerum doloremque.",
-            "distance_to_venue": "161 meters",
-            "rating": 3.8200000000000003,
-            "price_category": "medium",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Free Parking ",
-                "third": " Laundry Services "
-            },
-            "address": "1925 Jermain Curve",
-            "city": "West Dasia",
-            "country": "Slovenia",
-            "phone": "1-310-415-6712 x423",
-            "date": "2015-10-29T20:56:14.299Z",
-            "image": "../assets/hotel4.jpg",
+            "name": "Rempel LLC Hotel",
+            "description": "Dicta voluptas sunt minus officia enim omnis alias. Ipsa laboriosam et corporis enim natus amet quisquam est perferendis. Sunt odio eos temporibus eum ea. Nesciunt assumenda repellendus libero beatae nihil earum et laudantium. Unde et qui.",
+            "distance_to_venue": "246 meters",
+            "rating": 4,
+            "price_category": "low",
+            "amenities": [
+                " Breakfast Included",
+                " Spa",
+                " Gym"
+            ],
+            "address": "44410 West Way",
+            "city": "Port Zachary",
+            "country": "Pitcairn Islands",
+            "phone": "1-753-799-0665 x29351",
+            "date": "2015-07-07T17:12:11.020Z",
+            "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 3,
-                "name": "Brown, Mertz and Heller Room",
-                "description": "Consequatur inventore reiciendis eum rem perferendis sit dolor. Ducimus reprehenderit qui vero numquam quis assumenda. Eum quia ullam.",
+                "id": 4,
+                "name": "Aufderhar - Grant Room",
+                "description": "Ipsum deserunt voluptas autem dolores facilis a beatae aut. Laborum aut et voluptatem aliquam soluta sint. Et velit quas recusandae. Sed ipsum cum ea provident. Ipsam et qui maxime qui consequatur quam debitis amet. Ut sed doloribus ad tempore voluptas.",
                 "max_occupancy": 1,
-                "price_in_usd": "$37.15/night"
+                "price_in_usd": "$89.16/night"
             },
             "room2": {
-                "id": 3,
-                "name": "Legros, Moore and Ledner Room",
-                "description": "Adipisci id doloribus rem rerum consequatur fugiat corporis quia. Eligendi minus ipsa illum. Qui minima ex omnis sed. Nemo sunt eum voluptatibus dignissimos.",
+                "id": 5,
+                "name": "Krajcik, Lind and Franecki Room",
+                "description": "Quaerat quia rerum aut vel molestiae dolor suscipit fugit consectetur. Et ut qui. Quo possimus et sit.",
                 "max_occupancy": 2,
-                "price_in_usd": "$65.59/night"
+                "price_in_usd": "$43.03/night"
             },
             "room3": {
-                "id": 3,
-                "name": "Tromp LLC Room",
-                "description": "Excepturi itaque magnam et consequuntur porro perspiciatis voluptatem cum pariatur. Tempore animi et. Architecto corporis inventore quis natus sed omnis eveniet.",
-                "max_occupancy": 4,
-                "price_in_usd": "$21.05/night"
+                "id": 6,
+                "name": "Skiles - Wolf Room",
+                "description": "Qui assumenda autem temporibus quidem. Laboriosam accusantium voluptatem et similique laborum ut nulla doloribus ex. Eos vero dolorem reprehenderit est fugiat quo. Qui aut quia perferendis amet et est deleniti eaque.",
+                "max_occupancy": 1,
+                "price_in_usd": "$25.5/night"
             }
         },
         {
             "id": 4,
-            "name": "Schuppe, Beier and Emmerich Hotel",
-            "description": "Excepturi ut ut hic adipisci et nisi. Aut et molestiae necessitatibus qui ducimus qui qui. Ut adipisci eum debitis soluta. Quia cupiditate libero assumenda nisi veniam et sunt.",
-            "distance_to_venue": "199 meters",
-            "rating": 2.36,
-            "price_category": "high",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Spa ",
-                "third": " Pets Allowed "
-            },
-            "address": "299 Abbigail Plaza",
-            "city": "North Alvina",
-            "country": "Colombia",
-            "phone": "1-553-399-8489 x98729",
-            "date": "2015-07-10T20:23:33.455Z",
+            "name": "Larson - Price Hotel",
+            "description": "Et voluptas veritatis dolor numquam aut rerum omnis ipsam. Enim velit quas et et excepturi quia eius reprehenderit. Qui ad hic culpa numquam cum minus. Facilis inventore dolores unde. Itaque est voluptate qui asperiores doloribus sed dolor. Consectetur praesentium non tempora quis suscipit quia deserunt maiores omnis.",
+            "distance_to_venue": "178 meters",
+            "rating": 4,
+            "price_category": "medium",
+            "amenities": [
+                " WIFI",
+                " Spa",
+                " Gym"
+            ],
+            "address": "81690 Russel Garden",
+            "city": "South Maya",
+            "country": "Malaysia",
+            "phone": "1-242-298-5426",
+            "date": "2015-09-21T11:36:08.800Z",
             "image": "../assets/hotel1.jpg",
             "room1": {
-                "id": 4,
-                "name": "Rath Inc Room",
-                "description": "Praesentium et ea libero cum veritatis. Temporibus voluptatum soluta voluptas nihil ea. Nesciunt consectetur laboriosam non atque. Odit non ipsum quidem in tenetur.",
+                "id": 5,
+                "name": "Sipes, Douglas and Hand Room",
+                "description": "Corrupti dignissimos corrupti enim est. Quia ipsa nulla et quidem quo. Eos et ut ut quidem.",
                 "max_occupancy": 2,
-                "price_in_usd": "$46.09/night"
+                "price_in_usd": "$83.75/night"
             },
             "room2": {
-                "id": 4,
-                "name": "Lowe, Tremblay and Kassulke Room",
-                "description": "Et in tempora consequatur blanditiis quo qui ea. Ducimus blanditiis consequatur. Vitae voluptatem molestiae eveniet enim nobis iure in fugiat. Quaerat repellendus vel consequatur aut corporis facilis distinctio. Non voluptate neque dolor facere a id amet reiciendis.",
-                "max_occupancy": 1,
-                "price_in_usd": "$65.27/night"
+                "id": 6,
+                "name": "Marquardt - Anderson Room",
+                "description": "Quis non quisquam qui velit velit placeat cum consequatur. Mollitia corrupti id fuga non similique qui. Voluptatem blanditiis consequatur alias tempore.",
+                "max_occupancy": 4,
+                "price_in_usd": "$60.1/night"
             },
             "room3": {
-                "id": 4,
-                "name": "Witting and Sons Room",
-                "description": "Sint voluptate suscipit omnis hic aut distinctio. Consequatur voluptatum aut at. Non ipsa sunt sit nostrum possimus. Nihil atque nihil libero aliquam et sed nemo provident dolores. Quas quia perspiciatis labore at quisquam dolor eos pariatur. Odit non amet dolor distinctio.",
-                "max_occupancy": 2,
-                "price_in_usd": "$48.51/night"
+                "id": 7,
+                "name": "Veum - Turcotte Room",
+                "description": "Explicabo esse sunt odit maiores. Libero iusto odio. Provident porro iure eligendi eaque delectus voluptates. Totam necessitatibus quam occaecati blanditiis sed soluta quod aliquid. Sapiente sint dolor illum dignissimos accusantium occaecati libero magnam. Suscipit recusandae dolores consequatur minus.",
+                "max_occupancy": 1,
+                "price_in_usd": "$44.25/night"
             }
         },
         {
             "id": 5,
-            "name": "Reynolds, Tremblay and Green Hotel",
-            "description": "Nobis laborum similique fuga dolorum accusantium sed. Porro facere ex velit non ducimus quia distinctio. Sit sint exercitationem accusantium animi inventore alias fugit. Enim qui ut ut et eum. Occaecati aperiam iusto et eos est assumenda laboriosam. Earum est deleniti eius animi temporibus odit veniam sed.",
-            "distance_to_venue": "213 meters",
-            "rating": 3.27,
+            "name": "Christiansen and Sons Hotel",
+            "description": "Suscipit modi est iusto. Est vel cum repellendus enim. Voluptatem aut saepe officia maxime corrupti voluptas cumque soluta. Reiciendis rerum sint dolores accusantium hic.",
+            "distance_to_venue": "81 meters",
+            "rating": 4,
             "price_category": "low",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Spa ",
-                "third": " Laundry Services "
-            },
-            "address": "4137 Heidenreich Mountain",
-            "city": "Lake Myles",
-            "country": "Iran",
-            "phone": "(874) 098-1837",
-            "date": "2015-09-16T23:57:14.256Z",
+            "amenities": [
+                " A/C",
+                " Spa",
+                " Laundry Services"
+            ],
+            "address": "5242 Corwin Harbor",
+            "city": "Lake Rylee",
+            "country": "Canada",
+            "phone": "1-832-031-9462 x7701",
+            "date": "2015-10-19T02:55:18.316Z",
             "image": "../assets/hotel2.jpg",
             "room1": {
-                "id": 5,
-                "name": "Haag LLC Room",
-                "description": "Minima ipsa laboriosam consequuntur est similique aliquam error similique. Tenetur suscipit incidunt eligendi non dolorum sapiente libero et. Est veniam quis.",
-                "max_occupancy": 1,
-                "price_in_usd": "$25.61/night"
+                "id": 6,
+                "name": "Macejkovic, Feil and O'Reilly Room",
+                "description": "Veritatis excepturi pariatur molestiae vel illum. Quia dolor sed autem ad porro. Cupiditate in ullam nihil voluptas provident voluptatem placeat. Quo sit velit nostrum ipsa cum praesentium molestiae. Autem quaerat dolores est dolorem.",
+                "max_occupancy": 2,
+                "price_in_usd": "$48.47/night"
             },
             "room2": {
-                "id": 5,
-                "name": "Klocko - Kertzmann Room",
-                "description": "Aut quas qui. Totam expedita molestiae id. Nobis autem et laudantium ea.",
-                "max_occupancy": 1,
-                "price_in_usd": "$99.71000000000001/night"
+                "id": 7,
+                "name": "Heller and Sons Room",
+                "description": "Illum dolor dolor neque voluptas. Nesciunt in doloremque. Voluptatem quam et. Dolorem odit nihil aspernatur repellat. Et numquam eum sunt ea voluptatem iusto vero adipisci et.",
+                "max_occupancy": 2,
+                "price_in_usd": "$52.29/night"
             },
             "room3": {
-                "id": 5,
-                "name": "Johnson, Hane and Hermiston Room",
-                "description": "Ut eaque occaecati sapiente debitis ea et dolores. Aliquam placeat sequi cum labore itaque aliquid porro. Tempore at libero quia culpa. Qui autem minus dolorem excepturi cum magnam veritatis facilis aut.",
+                "id": 8,
+                "name": "Jones and Sons Room",
+                "description": "Velit aperiam laborum aut nam cumque. Eos ratione eos nulla tenetur non nulla soluta eum commodi. Modi et nostrum voluptas rerum architecto tenetur assumenda. Tenetur maiores modi dolorum cupiditate ad doloribus aut nulla. Quidem amet sit excepturi. Ea ad libero et incidunt consequatur fugiat recusandae earum ex.",
                 "max_occupancy": 3,
-                "price_in_usd": "$84.2/night"
+                "price_in_usd": "$2.35/night"
             }
         },
         {
             "id": 6,
-            "name": "O'Hara and Sons Hotel",
-            "description": "Dolores accusamus consequuntur a. Et alias eius aut aut impedit consequuntur debitis et. Et est distinctio. Eum illo debitis praesentium ad est deleniti iure quas.",
-            "distance_to_venue": "178 meters",
-            "rating": 4.41,
-            "price_category": "medium",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Free Parking ",
-                "third": " Laundry Services "
-            },
-            "address": "81022 Klocko Mill",
-            "city": "North Leonie",
-            "country": "Argentina",
-            "phone": "1-094-750-2534 x339",
-            "date": "2015-07-13T04:46:09.806Z",
-            "image": "../assets/hotel2.jpg",
+            "name": "Pagac, Reichel and Hoppe Hotel",
+            "description": "Aliquid ad voluptatem eaque provident autem quia sunt. Ad minima aliquid omnis ea. Et ratione beatae labore animi. Qui ea sed eum nostrum modi magni omnis qui.",
+            "distance_to_venue": "15 meters",
+            "rating": 4,
+            "price_category": "high",
+            "amenities": [
+                " WIFI",
+                " Swimming Pool",
+                " Gym"
+            ],
+            "address": "8295 Koch Station",
+            "city": "North Daniela",
+            "country": "Australia",
+            "phone": "338-720-2953 x072",
+            "date": "2015-04-09T01:13:07.755Z",
+            "image": "../assets/hotel4.jpg",
             "room1": {
-                "id": 6,
-                "name": "Schroeder LLC Room",
-                "description": "Magni quidem qui eaque nobis dolore culpa dolores. Harum dolore cum fuga id dolores atque dolorem. A numquam enim.",
-                "max_occupancy": 1,
-                "price_in_usd": "$81.36/night"
+                "id": 7,
+                "name": "Mills and Sons Room",
+                "description": "Dolorem possimus omnis maxime distinctio commodi in quo est. Facilis cupiditate aut vel aut consequuntur minus quam voluptates maxime. Non delectus quia id nihil quisquam optio a veritatis. Rem quod ad sed qui ullam voluptatem repudiandae ducimus ullam.",
+                "max_occupancy": 2,
+                "price_in_usd": "$35.85/night"
             },
             "room2": {
-                "id": 6,
-                "name": "Lindgren Inc Room",
-                "description": "Quos hic tenetur eius. Est hic qui natus atque architecto quod. Consequuntur sit mollitia quos ex voluptatem. Non dolor voluptatem.",
-                "max_occupancy": 2,
-                "price_in_usd": "$14.620000000000001/night"
+                "id": 8,
+                "name": "Jacobi - Johns Room",
+                "description": "Sed quia doloribus sed aut ad est non maiores. Laboriosam nam nisi ut voluptas temporibus quam excepturi possimus asperiores. Ad veritatis incidunt minus impedit. Repellendus accusantium laborum. Et molestiae qui culpa sapiente voluptate qui error dolorem. Velit voluptatem molestiae vel aut eveniet eius.",
+                "max_occupancy": 3,
+                "price_in_usd": "$24.41/night"
             },
             "room3": {
-                "id": 6,
-                "name": "Jacobs, Glover and Grant Room",
-                "description": "Consequuntur qui ipsa magni debitis in laudantium perferendis. Tempore deleniti omnis. Voluptatum optio rerum in id. Hic culpa sunt aut accusantium est aut iste tempora sint.",
-                "max_occupancy": 3,
-                "price_in_usd": "$56.04/night"
+                "id": 9,
+                "name": "Waelchi - Smith Room",
+                "description": "Aut est eligendi repudiandae. Autem culpa ut non perspiciatis eum adipisci praesentium nulla quis. Magni sint incidunt. Deleniti laudantium eos laborum quis asperiores maiores reiciendis saepe et. Non quasi eos quas laborum molestias. Harum et atque deleniti.",
+                "max_occupancy": 4,
+                "price_in_usd": "$73.57000000000001/night"
             }
         },
         {
             "id": 7,
-            "name": "Kihn, Boyer and Raynor Hotel",
-            "description": "Nemo expedita et optio qui voluptatem consectetur ut. Rerum omnis et nisi ratione perferendis quia cum numquam. Facere quam totam debitis voluptatem suscipit ut eos id nemo. Qui numquam minima itaque est ratione praesentium optio est. Ut nesciunt nulla. Et et aut.",
-            "distance_to_venue": "250 meters",
-            "rating": 3.14,
-            "price_category": "high",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Spa ",
-                "third": " Gym "
-            },
-            "address": "59497 Mayert Court",
-            "city": "Lake Ashtyn",
-            "country": "French Polynesia",
-            "phone": "1-992-101-7157",
-            "date": "2015-09-01T12:25:11.985Z",
-            "image": "../assets/hotel1.jpg",
+            "name": "Kemmer - Streich Hotel",
+            "description": "Hic qui dolorem et occaecati qui. Quidem nihil quae molestias totam dicta et quasi. Eius est inventore at. Sit consequuntur autem aut quasi dolor a. Dolorem quis et porro magni molestias magnam.",
+            "distance_to_venue": "3 meters",
+            "rating": 1,
+            "price_category": "medium",
+            "amenities": [
+                " Breakfast Included",
+                " Spa",
+                " Laundry Services"
+            ],
+            "address": "5728 Berge Crossroad",
+            "city": "East Clay",
+            "country": "Rwanda",
+            "phone": "1-849-171-9380 x26202",
+            "date": "2015-12-11T02:55:59.978Z",
+            "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 7,
-                "name": "Fadel, Brown and Cremin Room",
-                "description": "Quisquam ipsum quia optio vero non sed. Ut quia vero eos quidem. Fugiat hic natus quia ut eligendi molestias et est velit. Aut in sit velit consequatur libero nesciunt sed. Recusandae alias soluta. In sit dolorum et sed sed nobis qui ullam quidem.",
-                "max_occupancy": 1,
-                "price_in_usd": "$50.120000000000005/night"
+                "id": 8,
+                "name": "Corkery LLC Room",
+                "description": "Repellendus qui sed reiciendis. Cumque aut dignissimos asperiores enim reprehenderit. Non commodi nobis architecto voluptatum asperiores beatae error sequi eos.",
+                "max_occupancy": 4,
+                "price_in_usd": "$44.74/night"
             },
             "room2": {
-                "id": 7,
-                "name": "Effertz, Metz and Maggio Room",
-                "description": "Possimus alias consectetur officiis. Cum libero perferendis a eum adipisci et. Doloribus dolorem mollitia ipsa sed est.",
-                "max_occupancy": 4,
-                "price_in_usd": "$7.45/night"
+                "id": 9,
+                "name": "Larson, Welch and Fadel Room",
+                "description": "Amet repudiandae recusandae eum autem. Consequatur qui ullam ut placeat iusto aliquam aut quo. Omnis veritatis debitis tenetur omnis aliquam eveniet sunt. Ut et et at dolorum est. Veritatis laudantium voluptatem cum adipisci.",
+                "max_occupancy": 3,
+                "price_in_usd": "$51.84/night"
             },
             "room3": {
-                "id": 7,
-                "name": "Christiansen - Sipes Room",
-                "description": "Aut facere dignissimos repellendus. At doloribus dolor sed ut possimus sint. Facere qui nisi placeat earum sunt.",
+                "id": 10,
+                "name": "Heidenreich - Feeney Room",
+                "description": "Animi expedita soluta eligendi quia similique. Maiores laboriosam in in ullam perspiciatis accusantium ea mollitia omnis. Consequatur rerum aperiam. Unde laudantium ex quia omnis. Molestiae veniam ducimus iusto sed consequatur sunt ut.",
                 "max_occupancy": 2,
-                "price_in_usd": "$54.660000000000004/night"
+                "price_in_usd": "$35.93/night"
             }
         },
         {
             "id": 8,
-            "name": "Ziemann - McCullough Hotel",
-            "description": "Et et quas excepturi. Adipisci facilis aliquam in minus voluptate ex qui. Quisquam consectetur at. Aliquid omnis enim cum voluptates autem quod.",
-            "distance_to_venue": "140 meters",
-            "rating": 1.33,
+            "name": "Hand, Schaefer and Nader Hotel",
+            "description": "Quam eveniet beatae ut dolores dolor id sit quisquam ratione. Ut omnis itaque quis et nihil voluptatum. Deleniti optio consequuntur non et tenetur quod harum. Ut ut rerum placeat ut cum vel rem. Aut qui voluptatem. Blanditiis ut sit optio molestiae sed aperiam.",
+            "distance_to_venue": "261 meters",
+            "rating": 1,
             "price_category": "high",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Spa ",
-                "third": " Gym "
-            },
-            "address": "855 Anjali Passage",
-            "city": "East Gonzalo",
-            "country": "Fiji",
-            "phone": "906-625-1590",
-            "date": "2015-02-25T11:34:31.947Z",
-            "image": "../assets/hotel3.jpg",
+            "amenities": [
+                " WIFI",
+                " Free Parking",
+                " Pets Allowed"
+            ],
+            "address": "5949 Friesen Wall",
+            "city": "East Dannie",
+            "country": "Guatemala",
+            "phone": "961.810.0156 x1212",
+            "date": "2015-04-01T17:23:12.010Z",
+            "image": "../assets/hotel5.jpg",
             "room1": {
-                "id": 8,
-                "name": "Swaniawski, Corkery and Champlin Room",
-                "description": "Laboriosam et aut quos. Aut sed et ex nemo non molestiae molestiae aliquam. Sed dicta numquam suscipit. Sit voluptatem sit pariatur quam quam autem facilis. Enim recusandae sit sit et itaque vitae mollitia. Assumenda dolore vitae nisi dicta harum consequatur facilis.",
-                "max_occupancy": 2,
-                "price_in_usd": "$17.54/night"
+                "id": 9,
+                "name": "Block, Hansen and Conn Room",
+                "description": "Nobis quia quae dignissimos autem qui. Repudiandae quo et expedita eaque exercitationem debitis quia explicabo vitae. Fugit explicabo est. Maiores et asperiores molestias hic sit eligendi. Ducimus nobis magni numquam odio omnis vitae id.",
+                "max_occupancy": 1,
+                "price_in_usd": "$21.18/night"
             },
             "room2": {
-                "id": 8,
-                "name": "Heaney Group Room",
-                "description": "Dolores eveniet qui optio dicta voluptatem rerum. Ut velit voluptatum sequi blanditiis soluta earum odit. Ratione cum pariatur. Sequi sint omnis.",
-                "max_occupancy": 2,
-                "price_in_usd": "$55.85/night"
+                "id": 10,
+                "name": "Robel - Rogahn Room",
+                "description": "Accusantium in delectus illo quo non accusantium porro repudiandae. Eveniet laborum officiis. Laborum dolores quidem nihil quia. Dolorum cupiditate et quia aliquam voluptatem ut. Nisi minus optio occaecati velit atque deleniti.",
+                "max_occupancy": 1,
+                "price_in_usd": "$27.05/night"
             },
             "room3": {
-                "id": 8,
-                "name": "Langosh LLC Room",
-                "description": "Dolorum exercitationem odit velit hic et suscipit hic odit voluptate. Necessitatibus atque repellendus quaerat. Quas quia est sequi incidunt. Eos distinctio iure quo ea voluptas praesentium facilis.",
-                "max_occupancy": 1,
-                "price_in_usd": "$63.34/night"
+                "id": 11,
+                "name": "Okuneva - Ritchie Room",
+                "description": "Consectetur laboriosam aut. Minima est distinctio. Saepe praesentium fuga.",
+                "max_occupancy": 2,
+                "price_in_usd": "$44.81/night"
             }
         },
         {
             "id": 9,
-            "name": "Bartell, O'Reilly and Von Hotel",
-            "description": "Sint aperiam sit unde quasi hic. Voluptate et totam aspernatur asperiores. Deleniti corrupti omnis voluptas perspiciatis nulla placeat. Adipisci quos consequatur et.",
-            "distance_to_venue": "312 meters",
-            "rating": 1.05,
-            "price_category": "high",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Swimming Pool ",
-                "third": " Gym "
-            },
-            "address": "7130 Klein Club",
-            "city": "North Ferne",
-            "country": "Sudan",
-            "phone": "(715) 333-6762",
-            "date": "2015-07-01T05:03:10.526Z",
-            "image": "../assets/hotel1.jpg",
+            "name": "Carroll - Runte Hotel",
+            "description": "Suscipit quis esse harum. Autem placeat sit assumenda beatae. Mollitia impedit consequatur voluptas iure non nam. Perspiciatis hic voluptas dolores sed reprehenderit nihil voluptas.",
+            "distance_to_venue": "111 meters",
+            "rating": 5,
+            "price_category": "medium",
+            "amenities": [
+                " Breakfast Included",
+                " Swimming Pool",
+                " Laundry Services"
+            ],
+            "address": "846 Isom Divide",
+            "city": "South Elwyn",
+            "country": "Zambia",
+            "phone": "239-779-4987",
+            "date": "2015-06-14T05:25:21.597Z",
+            "image": "../assets/hotel3.jpg",
             "room1": {
-                "id": 9,
-                "name": "Langworth Inc Room",
-                "description": "Delectus repudiandae vel totam. Non repudiandae officiis quisquam qui omnis rerum voluptatem. Nobis expedita consequatur. Rem autem nemo a ducimus inventore mollitia sint. Suscipit et impedit. Voluptatum odio sapiente.",
-                "max_occupancy": 2,
-                "price_in_usd": "$76.76/night"
+                "id": 10,
+                "name": "Nienow and Sons Room",
+                "description": "Qui velit nam sit iste sit. Dignissimos repellat non consequatur quis quia nostrum quam et rerum. Perferendis nemo iusto dolor repellendus ipsa iste autem facilis quisquam. Hic laboriosam numquam aperiam dicta veritatis similique ut. Sunt et quisquam delectus qui voluptatem suscipit quia aut. Quia velit magni neque optio sunt voluptatibus eveniet.",
+                "max_occupancy": 3,
+                "price_in_usd": "$61.58/night"
             },
             "room2": {
-                "id": 9,
-                "name": "O'Connell - Thompson Room",
-                "description": "Saepe dolorem ut magnam. Accusantium voluptatum amet rerum et qui iure sed quisquam omnis. Rem velit asperiores ut est autem deserunt veritatis. Excepturi vel voluptate assumenda. Saepe et dolores dicta perspiciatis voluptate dignissimos.",
+                "id": 11,
+                "name": "Fadel, Lynch and Lang Room",
+                "description": "Tempora quia consequatur optio beatae. Voluptatem quia commodi accusamus molestias voluptate fugit. Rerum maiores culpa porro animi ab dicta modi. Quam eos adipisci ut.",
                 "max_occupancy": 1,
-                "price_in_usd": "$11.32/night"
+                "price_in_usd": "$19.6/night"
             },
             "room3": {
-                "id": 9,
-                "name": "Corwin, Bogisich and Simonis Room",
-                "description": "Impedit libero cupiditate aut expedita. Omnis reiciendis delectus nisi fugit. Facilis at inventore mollitia eveniet hic natus praesentium aliquid. Pariatur magni incidunt officia cupiditate cupiditate laboriosam. Facere eos dicta ut. Ipsum laboriosam et eos eos.",
-                "max_occupancy": 4,
-                "price_in_usd": "$87.45/night"
+                "id": 12,
+                "name": "Ledner - O'Conner Room",
+                "description": "Ducimus pariatur tempore ipsum voluptatem pariatur quo est nihil. Placeat amet molestiae ipsum similique qui quis. Ut necessitatibus ullam enim quo quaerat sint aut quia vero. Sint consequatur non eum repellendus qui harum omnis.",
+                "max_occupancy": 2,
+                "price_in_usd": "$45.74/night"
             }
         },
         {
             "id": 10,
-            "name": "Schmeler LLC Hotel",
-            "description": "Assumenda asperiores dignissimos cumque molestias est voluptates. Sint tempora ut tenetur magni. Illum quaerat ullam.",
-            "distance_to_venue": "17 meters",
-            "rating": 3.89,
-            "price_category": "low",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Free Parking ",
-                "third": " Pets Allowed "
-            },
-            "address": "5668 Gusikowski Mall",
-            "city": "West Dean",
-            "country": "Turks and Caicos Islands",
-            "phone": "948.082.2049",
-            "date": "2015-08-02T12:18:19.726Z",
-            "image": "../assets/hotel3.jpg",
+            "name": "Tillman Inc Hotel",
+            "description": "Sint quos atque officia sed possimus tempora. Cupiditate voluptatem fugiat eligendi. Aspernatur explicabo ab aut ipsam fuga. Repellendus ut voluptatem facere est nostrum error aut nihil enim.",
+            "distance_to_venue": "68 meters",
+            "rating": 1,
+            "price_category": "high",
+            "amenities": [
+                " Breakfast Included",
+                " Swimming Pool",
+                " Gym"
+            ],
+            "address": "8483 Haskell Greens",
+            "city": "East Mona",
+            "country": "Honduras",
+            "phone": "608-198-5736",
+            "date": "2015-01-26T08:24:41.197Z",
+            "image": "../assets/hotel5.jpg",
             "room1": {
-                "id": 10,
-                "name": "Spinka, Bartoletti and Gislason Room",
-                "description": "Occaecati pariatur provident nihil nam et. Commodi nihil aut facere pariatur. Necessitatibus porro aut voluptas. Earum debitis accusantium error rerum velit repudiandae facere et.",
-                "max_occupancy": 1,
-                "price_in_usd": "$6.41/night"
+                "id": 11,
+                "name": "Cassin, McCullough and Gislason Room",
+                "description": "Neque est qui est explicabo. Eveniet dolor doloremque nulla consequatur qui dolorum exercitationem assumenda. Eius fuga fugit dolores dolorem fuga velit sit provident dolorem. Vel saepe itaque veniam velit doloribus possimus veritatis quaerat voluptatem. Impedit autem delectus velit nobis. Eligendi nesciunt esse omnis officiis blanditiis.",
+                "max_occupancy": 4,
+                "price_in_usd": "$14.52/night"
             },
             "room2": {
-                "id": 10,
-                "name": "Predovic, Ondricka and Stroman Room",
-                "description": "Nostrum eligendi hic blanditiis. Alias voluptatem id aut ducimus. Ut qui iusto perferendis. Qui esse et sapiente sapiente dolore nihil debitis voluptatibus doloribus. Et magni sit nam magnam qui modi reiciendis non. Dolores est repudiandae molestiae at inventore voluptatibus aperiam minus voluptas.",
-                "max_occupancy": 2,
-                "price_in_usd": "$46.56/night"
+                "id": 12,
+                "name": "Mueller - Upton Room",
+                "description": "Non ea ex maiores explicabo iure. Sint itaque eos inventore mollitia veritatis in et odit. Aut accusamus doloribus laudantium.",
+                "max_occupancy": 3,
+                "price_in_usd": "$69.64/night"
             },
             "room3": {
-                "id": 10,
-                "name": "Waters - Leffler Room",
-                "description": "Et aut adipisci sint maxime illum nihil voluptas et. Recusandae amet magnam. Magnam maxime labore facere sint excepturi reprehenderit velit minima. Impedit molestias amet eaque dolore non unde unde aliquid eaque. Non repellendus excepturi debitis quia sit culpa. Consequuntur delectus alias ea non similique eaque ducimus aut.",
-                "max_occupancy": 4,
-                "price_in_usd": "$14.82/night"
+                "id": 13,
+                "name": "Lehner, Wilderman and Koch Room",
+                "description": "Consectetur animi quisquam nobis autem ut ipsam et. Debitis excepturi consectetur. Laborum est repudiandae sit voluptatem molestiae ut eos. Culpa quibusdam et molestiae eveniet.",
+                "max_occupancy": 3,
+                "price_in_usd": "$58.08/night"
             }
         },
         {
             "id": 11,
-            "name": "Weimann, Effertz and Blanda Hotel",
-            "description": "Distinctio non in sunt velit. Ut consequatur quisquam consequatur ad quia corporis. Architecto ad tenetur fugiat et maxime veritatis quas. Magnam sit saepe et est eos voluptas. Consequatur modi vel quam reiciendis quas voluptates illum maxime repellendus. Odio eligendi cum consequuntur molestias est et dolor voluptatem et.",
-            "distance_to_venue": "101 meters",
-            "rating": 3.11,
-            "price_category": "medium",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Swimming Pool ",
-                "third": " Pets Allowed "
-            },
-            "address": "476 Josefa Squares",
-            "city": "West Irwin",
-            "country": "Russian Federation",
-            "phone": "(619) 560-5061 x39470",
-            "date": "2015-07-19T05:10:01.442Z",
-            "image": "../assets/hotel3.jpg",
+            "name": "Schimmel - Purdy Hotel",
+            "description": "Quae vitae cupiditate error qui quia atque accusamus eaque. Ab nostrum quidem accusantium. Quia aut iusto non aut.",
+            "distance_to_venue": "171 meters",
+            "rating": 4,
+            "price_category": "low",
+            "amenities": [
+                " A/C",
+                " Spa",
+                " Pets Allowed"
+            ],
+            "address": "228 Gerson Prairie",
+            "city": "New Junius",
+            "country": "Grenada",
+            "phone": "390.131.2210",
+            "date": "2015-03-17T13:33:45.566Z",
+            "image": "../assets/hotel2.jpg",
             "room1": {
-                "id": 11,
-                "name": "Waters, Steuber and Haley Room",
-                "description": "Nesciunt sapiente eaque rerum aut. Cum necessitatibus sed sunt vel eaque veniam suscipit qui. Ea inventore eum reprehenderit qui magnam. Optio architecto adipisci hic quibusdam perspiciatis nihil deleniti tempore autem. Est vero excepturi vel voluptas aut doloremque quia repellendus. Atque eligendi ipsum.",
-                "max_occupancy": 3,
-                "price_in_usd": "$70.41/night"
+                "id": 12,
+                "name": "Jacobson - Hansen Room",
+                "description": "Praesentium quidem exercitationem voluptatibus odio. Quia assumenda repudiandae ea velit sed ipsa et qui nisi. A deleniti commodi omnis rerum sed vel voluptatibus. Veritatis pariatur nam et nemo molestiae possimus eos eos.",
+                "max_occupancy": 1,
+                "price_in_usd": "$15.15/night"
             },
             "room2": {
-                "id": 11,
-                "name": "Kessler, Cartwright and Baumbach Room",
-                "description": "Enim sint nobis voluptas ut architecto. Hic vel et aut repellat ad et commodi maiores nihil. Ipsum et deserunt laboriosam ab ut. Ea sed harum.",
-                "max_occupancy": 2,
-                "price_in_usd": "$95.93/night"
+                "id": 13,
+                "name": "Keebler, Heathcote and Ziemann Room",
+                "description": "Labore dignissimos et repudiandae quas quis veniam nihil et. Repudiandae ut nam animi non aliquid. Et ducimus harum numquam asperiores et. Facere quisquam assumenda quae molestiae exercitationem asperiores autem vero repudiandae. Voluptatem facere asperiores molestiae at. Laboriosam est et.",
+                "max_occupancy": 3,
+                "price_in_usd": "$61.690000000000005/night"
             },
             "room3": {
-                "id": 11,
-                "name": "Bayer - Stoltenberg Room",
-                "description": "Eum nostrum corrupti et a. Quia iure voluptas ipsa quam. Praesentium nihil quod facere cum pariatur at.",
-                "max_occupancy": 3,
-                "price_in_usd": "$26.25/night"
+                "id": 14,
+                "name": "Stracke, Hyatt and Quitzon Room",
+                "description": "Explicabo accusantium quaerat nisi perferendis. Et laudantium sed reiciendis aut debitis cumque non. Est officiis voluptas. Ratione sit minus nemo quibusdam recusandae alias.",
+                "max_occupancy": 2,
+                "price_in_usd": "$82.33/night"
             }
         },
         {
             "id": 12,
-            "name": "Witting - Romaguera Hotel",
-            "description": "Culpa provident quae sed ea doloremque modi modi et eveniet. Quidem est officiis ut sunt est placeat. Consequuntur animi consequatur laudantium. Explicabo est cupiditate aut quasi rerum est dolore dignissimos.",
-            "distance_to_venue": "174 meters",
-            "rating": 2.02,
+            "name": "Herzog LLC Hotel",
+            "description": "Qui a sed aperiam cum ratione fuga. Dolorem pariatur numquam dolores autem odio sequi. Aut odit sequi nam placeat. Qui voluptates quas. Error eos natus maiores nihil eum tempora nam.",
+            "distance_to_venue": "18 meters",
+            "rating": 5,
             "price_category": "high",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Free Parking ",
-                "third": " Laundry Services "
-            },
-            "address": "20476 Miller Route",
-            "city": "East Brett",
-            "country": "Heard Island and McDonald Islands",
-            "phone": "(364) 521-8927 x861",
-            "date": "2015-01-22T17:03:54.001Z",
+            "amenities": [
+                " A/C",
+                " Free Parking",
+                " Gym"
+            ],
+            "address": "814 Rosenbaum Prairie",
+            "city": "New Johann",
+            "country": "Italy",
+            "phone": "783.501.7335 x8305",
+            "date": "2015-07-09T22:25:10.840Z",
             "image": "../assets/hotel2.jpg",
             "room1": {
-                "id": 12,
-                "name": "Dach Group Room",
-                "description": "Fugit porro rerum et optio. Amet cumque accusantium et quia dolor eum. Qui unde molestiae voluptatibus earum voluptatem rerum ex dolores. Consequuntur placeat reprehenderit quaerat.",
-                "max_occupancy": 2,
-                "price_in_usd": "$60.480000000000004/night"
+                "id": 13,
+                "name": "Fisher Group Room",
+                "description": "Ducimus officiis impedit eius. Doloribus aut rem ea et. Et eaque illo ut culpa inventore sunt. Et iure consectetur placeat expedita in nihil. Rerum aut quasi. Eos quidem sequi.",
+                "max_occupancy": 3,
+                "price_in_usd": "$11.200000000000001/night"
             },
             "room2": {
-                "id": 12,
-                "name": "Koelpin LLC Room",
-                "description": "Accusantium et corrupti qui est possimus qui. Aut necessitatibus hic molestiae sed vel. Ipsa eum dolorem modi adipisci explicabo.",
-                "max_occupancy": 4,
-                "price_in_usd": "$2.77/night"
+                "id": 14,
+                "name": "Eichmann Inc Room",
+                "description": "Saepe ratione quod ipsum. Temporibus laudantium perspiciatis aperiam quas occaecati deleniti. Maxime in facilis sit sunt officiis sunt sint porro qui.",
+                "max_occupancy": 3,
+                "price_in_usd": "$25.22/night"
             },
             "room3": {
-                "id": 12,
-                "name": "Hegmann, Trantow and Mosciski Room",
-                "description": "Aliquam vel incidunt voluptatem. Laboriosam molestiae dolor sit voluptate sunt est molestiae. Vitae cupiditate animi minus ducimus autem sequi atque ipsa. In eligendi nihil natus ut at laboriosam ut expedita. Atque animi voluptate nam et ducimus facilis et sequi. Nostrum dignissimos iure.",
-                "max_occupancy": 2,
-                "price_in_usd": "$7.640000000000001/night"
+                "id": 15,
+                "name": "Johnson, Murphy and Mraz Room",
+                "description": "Quos nesciunt eos quia aliquid ut ducimus eveniet quam vel. Aperiam eum non ut voluptas perferendis iste assumenda. Quam corporis hic aut iure veritatis et. Dolorem adipisci autem sunt magnam eveniet. Soluta odio consectetur.",
+                "max_occupancy": 3,
+                "price_in_usd": "$44.32/night"
             }
         },
         {
             "id": 13,
-            "name": "Wilkinson - Heaney Hotel",
-            "description": "Blanditiis nemo non voluptatem aut quidem necessitatibus ut. Provident quaerat fuga quisquam veniam et necessitatibus. Fugiat libero ipsum iste nostrum doloribus. Amet nesciunt harum consectetur quos sunt et alias deleniti. Quis ut facere sed et harum possimus.",
-            "distance_to_venue": "226 meters",
-            "rating": 3.27,
-            "price_category": "medium",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Swimming Pool ",
-                "third": " Gym "
-            },
-            "address": "0874 Alva Track",
-            "city": "North Joanny",
-            "country": "Ukraine",
-            "phone": "029.611.8366 x5689",
-            "date": "2015-06-29T13:49:09.085Z",
-            "image": "../assets/hotel1.jpg",
+            "name": "Roberts, Legros and Cummerata Hotel",
+            "description": "Et quidem perferendis quod dicta enim. Exercitationem impedit et vel. Quo sed quaerat. Quibusdam aut eius quae molestiae ex. Dolores velit molestias explicabo id eaque voluptatem ullam quibusdam adipisci. Quam dolores et alias omnis minima dolores.",
+            "distance_to_venue": "140 meters",
+            "rating": 5,
+            "price_category": "high",
+            "amenities": [
+                " A/C",
+                " Spa",
+                " Gym"
+            ],
+            "address": "000 Towne Creek",
+            "city": "Port Gertrude",
+            "country": "Burkina Faso",
+            "phone": "796.446.0101 x6599",
+            "date": "2015-02-07T10:03:35.709Z",
+            "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 13,
-                "name": "Steuber and Sons Room",
-                "description": "Et dicta consequatur deleniti quo. Et quae vel tempore culpa eaque sequi molestiae iste cumque. Ex modi modi repellendus eum quis. Porro non et omnis ducimus. Itaque qui accusamus aut asperiores dignissimos accusamus. Earum sit ad modi asperiores dolorum et repellat.",
-                "max_occupancy": 2,
-                "price_in_usd": "$83.48/night"
+                "id": 14,
+                "name": "Towne, Carter and Pacocha Room",
+                "description": "Eos officiis illum earum ea. Aut asperiores ipsum qui hic id. Velit sit perspiciatis nulla odio dignissimos non qui consectetur. Explicabo quia nihil ut harum aut aut et officia facilis. Laborum accusamus porro vel ut consectetur facere voluptas. Consectetur voluptatem neque enim adipisci dolor id ratione consequatur.",
+                "max_occupancy": 3,
+                "price_in_usd": "$80.89/night"
             },
             "room2": {
-                "id": 13,
-                "name": "Oberbrunner, Kuhn and Zemlak Room",
-                "description": "Cumque quasi cupiditate repellat et. Commodi voluptate praesentium ut facilis sunt voluptatum. Vero labore dignissimos. Aliquam aut fugit adipisci nam nostrum officiis. Atque fuga voluptatem aut debitis sed incidunt. Sint nisi deserunt sed.",
-                "max_occupancy": 4,
-                "price_in_usd": "$85.24/night"
+                "id": 15,
+                "name": "West Inc Room",
+                "description": "Commodi soluta labore alias ab consequatur aliquid eos voluptas doloremque. Voluptatum sed voluptatem ea tempora inventore. Et ut deserunt sunt non dolorem maxime omnis illum.",
+                "max_occupancy": 1,
+                "price_in_usd": "$10.53/night"
             },
             "room3": {
-                "id": 13,
-                "name": "Walter, Corkery and Pollich Room",
-                "description": "Et exercitationem eum nostrum. Voluptas natus occaecati. Quo consectetur ullam.",
-                "max_occupancy": 4,
-                "price_in_usd": "$37.13/night"
+                "id": 16,
+                "name": "Harber - Bayer Room",
+                "description": "Maxime harum et qui perspiciatis ad. Quos asperiores nostrum. Placeat iste non reiciendis deleniti eum tempore soluta. Dolorum explicabo accusantium.",
+                "max_occupancy": 1,
+                "price_in_usd": "$51.06/night"
             }
         },
         {
             "id": 14,
-            "name": "Kozey - Hills Hotel",
-            "description": "Sint ex exercitationem inventore provident dolorem earum et. Deserunt aut labore saepe molestias et asperiores fugit nemo. Dicta debitis recusandae vero nobis perferendis. Est sint consectetur ipsum magnam ab in. Consequuntur unde est rerum nisi molestiae omnis.",
-            "distance_to_venue": "31 meters",
-            "rating": 4.46,
-            "price_category": "high",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Spa ",
-                "third": " Pets Allowed "
-            },
-            "address": "52681 Kunde Mill",
-            "city": "West Trystan",
-            "country": "French Polynesia",
-            "phone": "315-656-3741",
-            "date": "2015-10-18T13:34:43.808Z",
-            "image": "../assets/hotel6.jpg",
+            "name": "Kreiger LLC Hotel",
+            "description": "Voluptas cum quam earum non. Quo dignissimos et et nisi qui qui molestias dicta dolorum. Ipsa atque cupiditate accusamus sunt sed dignissimos. Quis maxime sed voluptas magnam.",
+            "distance_to_venue": "66 meters",
+            "rating": 2,
+            "price_category": "medium",
+            "amenities": [
+                " WIFI",
+                " Swimming Pool",
+                " Gym"
+            ],
+            "address": "0868 Lind Port",
+            "city": "Port Llewellyn",
+            "country": "Antigua and Barbuda",
+            "phone": "1-055-674-1558 x7749",
+            "date": "2015-10-11T02:08:42.477Z",
+            "image": "../assets/hotel5.jpg",
             "room1": {
-                "id": 14,
-                "name": "Reynolds Inc Room",
-                "description": "Expedita vero sint omnis nihil saepe. Ad nihil odio libero inventore. Fugiat suscipit sit soluta qui veniam vero nostrum harum. Fugiat nulla repellat sed voluptatem.",
+                "id": 15,
+                "name": "Zemlak - Lehner Room",
+                "description": "Aliquam saepe rerum asperiores blanditiis sit ipsum nam. Enim ab alias et nemo quo provident voluptatibus sapiente. Eveniet eaque voluptatem fuga quod dolores eaque sunt sed. Et eum sunt minus id doloribus aut quas dolor omnis.",
                 "max_occupancy": 2,
-                "price_in_usd": "$86.92/night"
+                "price_in_usd": "$99.14/night"
             },
             "room2": {
-                "id": 14,
-                "name": "Towne - Grant Room",
-                "description": "Iste et sit sint. Eos et eum veritatis. Optio suscipit quidem omnis ut eum magnam aut sunt.",
-                "max_occupancy": 3,
-                "price_in_usd": "$1.09/night"
+                "id": 16,
+                "name": "Walter - Johnson Room",
+                "description": "Quia est modi adipisci exercitationem animi recusandae sapiente tenetur. Dignissimos blanditiis hic eaque nihil quo non. Cupiditate animi voluptatem qui maxime. Aspernatur perferendis vel. Aliquam provident quae eaque illum esse tenetur repellat.",
+                "max_occupancy": 4,
+                "price_in_usd": "$51.410000000000004/night"
             },
             "room3": {
-                "id": 14,
-                "name": "Flatley Inc Room",
-                "description": "Ad modi voluptatem repellat culpa corporis delectus consequatur aut. Est impedit veritatis cum fuga sit voluptatem repellendus ut. Distinctio voluptates architecto laborum et nesciunt. Temporibus eligendi ducimus consectetur adipisci. Maiores voluptatem et dicta eaque quam. Nihil quod tenetur aspernatur voluptates necessitatibus similique eos aliquam dignissimos.",
-                "max_occupancy": 2,
-                "price_in_usd": "$65.11/night"
+                "id": 17,
+                "name": "Renner Inc Room",
+                "description": "Sed est aut saepe aut in incidunt qui porro consequatur. Repellat nobis reiciendis magni qui doloremque et excepturi saepe aliquid. Porro est quo enim.",
+                "max_occupancy": 3,
+                "price_in_usd": "$42.77/night"
             }
         },
         {
             "id": 15,
-            "name": "Welch LLC Hotel",
-            "description": "Esse et quidem soluta sint est. Aut rerum possimus ea vitae quasi. Laboriosam eum expedita error nihil quasi tempora. Veritatis cumque quam ut assumenda nihil voluptatem quia soluta quia. Eaque perspiciatis enim qui a eum. Velit asperiores aliquam minus perferendis.",
-            "distance_to_venue": "172 meters",
-            "rating": 1.87,
+            "name": "Shanahan - Towne Hotel",
+            "description": "Omnis repellendus non ad aliquam. Quaerat et cupiditate placeat voluptates quod. Excepturi sit tenetur. Explicabo sunt itaque laborum fugiat doloremque ipsum perferendis dignissimos illum. Eligendi reiciendis vitae qui est ut mollitia voluptate.",
+            "distance_to_venue": "26 meters",
+            "rating": 3,
             "price_category": "high",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Swimming Pool ",
-                "third": " Pets Allowed "
-            },
-            "address": "9752 Candida Square",
-            "city": "North Stuart",
-            "country": "Cambodia",
-            "phone": "798-524-0697",
-            "date": "2015-10-18T14:39:57.786Z",
-            "image": "../assets/hotel1.jpg",
+            "amenities": [
+                " WIFI",
+                " Free Parking",
+                " Laundry Services"
+            ],
+            "address": "991 Leffler Trail",
+            "city": "Lake Korey",
+            "country": "Saudi Arabia",
+            "phone": "110.244.5721",
+            "date": "2015-01-22T20:33:57.720Z",
+            "image": "../assets/hotel3.jpg",
             "room1": {
-                "id": 15,
-                "name": "Wiegand LLC Room",
-                "description": "Fugit aut nemo officia dolor minima in voluptatem dolorum. Voluptatibus eligendi quia amet eligendi magnam exercitationem voluptas. Et eaque voluptate. Numquam dolor ullam corporis.",
-                "max_occupancy": 3,
-                "price_in_usd": "$45.21/night"
+                "id": 16,
+                "name": "Runolfsdottir, Koepp and Halvorson Room",
+                "description": "Est quia corrupti. Assumenda rem ullam sed pariatur sit minima. Et at ut sint voluptatem et.",
+                "max_occupancy": 2,
+                "price_in_usd": "$82.93/night"
             },
             "room2": {
-                "id": 15,
-                "name": "Ziemann - Lockman Room",
-                "description": "Consequatur dolorem esse tempore dicta sit. Rem ut earum. Fugit soluta placeat minima doloremque dolores tenetur ipsum harum. Aliquam nam aut dolore blanditiis voluptatem explicabo quia voluptatem quidem.",
-                "max_occupancy": 4,
-                "price_in_usd": "$95.33/night"
+                "id": 17,
+                "name": "Hackett, Hayes and Kuhlman Room",
+                "description": "Et quia provident nisi ut aut repellendus itaque ut. Sit quidem qui est modi ad modi eius. Optio facere et ut. Et et accusamus facere numquam blanditiis minus. Explicabo id laboriosam eum voluptatem. Amet voluptatem quos.",
+                "max_occupancy": 2,
+                "price_in_usd": "$15.15/night"
             },
             "room3": {
-                "id": 15,
-                "name": "Kulas and Sons Room",
-                "description": "Voluptatem cumque veniam voluptate voluptatum voluptatum. Voluptatem ipsam sit dolor nihil totam velit qui. Ipsum eius eius pariatur delectus non sequi sunt beatae. Et saepe aut quibusdam magnam possimus error ut. Qui quasi ut libero facilis impedit asperiores. Asperiores vel autem quod.",
-                "max_occupancy": 1,
-                "price_in_usd": "$60.13/night"
+                "id": 18,
+                "name": "Towne and Sons Room",
+                "description": "Enim voluptatem quia voluptates sed natus et non. Id qui natus quasi. Ut iure non.",
+                "max_occupancy": 3,
+                "price_in_usd": "$22.22/night"
             }
         },
         {
             "id": 16,
-            "name": "Huel - Kuhn Hotel",
-            "description": "Asperiores architecto velit perferendis accusantium totam. Corrupti placeat veritatis sit cum vel consequatur dolor. Aut vitae rerum fugit omnis laudantium fugiat in. Quae sint voluptate perferendis in occaecati iusto.",
-            "distance_to_venue": "186 meters",
-            "rating": 1.47,
+            "name": "Rice, Keebler and Senger Hotel",
+            "description": "Maxime ad quis est ut consequatur ex a minima. A debitis ea nihil culpa unde hic. Rem ullam consequatur accusamus aut molestiae nemo. Aut ipsum sint consequuntur aut fugit eos deserunt. Error quisquam aut qui ut atque.",
+            "distance_to_venue": "22 meters",
+            "rating": 4,
             "price_category": "medium",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Swimming Pool ",
-                "third": " Gym "
-            },
-            "address": "0093 Cesar Junctions",
-            "city": "Lake David",
-            "country": "Singapore",
-            "phone": "005-714-2777 x73118",
-            "date": "2015-09-15T07:18:38.897Z",
-            "image": "../assets/hotel5.jpg",
+            "amenities": [
+                " Breakfast Included",
+                " Spa",
+                " Pets Allowed"
+            ],
+            "address": "387 Trantow Underpass",
+            "city": "New Deion",
+            "country": "China",
+            "phone": "1-821-535-9224 x8678",
+            "date": "2015-12-30T06:24:48.750Z",
+            "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 16,
-                "name": "Mitchell, Fahey and Rippin Room",
-                "description": "Corporis alias qui tempora neque nihil qui. Eum molestiae corrupti neque consectetur eum cupiditate quia. Consequuntur inventore est eum ex. Est iure tempora labore dignissimos.",
-                "max_occupancy": 1,
-                "price_in_usd": "$64.67/night"
+                "id": 17,
+                "name": "Yost - Kessler Room",
+                "description": "Suscipit iure est dicta est. Eveniet aliquam et voluptas quia nihil iusto error neque laboriosam. Eaque harum sed. Qui dolores asperiores perferendis natus amet molestiae est aut porro. Officia laborum provident eius. Voluptatum ullam esse sed id nostrum qui nobis possimus.",
+                "max_occupancy": 4,
+                "price_in_usd": "$35.1/night"
             },
             "room2": {
-                "id": 16,
-                "name": "Roberts - Waters Room",
-                "description": "Quidem iure praesentium necessitatibus necessitatibus ex sint. Voluptates et laudantium. Quia aliquam quia doloribus. Et est voluptatem expedita et quod sit. Dolores rem qui. Facilis omnis quibusdam natus officiis aspernatur voluptatem libero illum qui.",
-                "max_occupancy": 1,
-                "price_in_usd": "$36.03/night"
+                "id": 18,
+                "name": "Dickens Inc Room",
+                "description": "Et natus inventore qui consequuntur esse ea maiores facere. Nostrum tempora corrupti perspiciatis. Eaque nesciunt et. Eos distinctio explicabo quis eaque ipsa mollitia illo tenetur. Quisquam distinctio velit ab et quisquam molestiae maiores. Quae molestias nihil est.",
+                "max_occupancy": 4,
+                "price_in_usd": "$54.39/night"
             },
             "room3": {
-                "id": 16,
-                "name": "Lind, Jaskolski and Blanda Room",
-                "description": "Quisquam minus magnam voluptas saepe iure. Nisi corporis consectetur delectus rerum perferendis aut voluptas. Quibusdam ex eos dolore qui quisquam. At consequuntur enim doloribus porro accusantium enim quas nobis. Qui ducimus unde explicabo id corporis.",
-                "max_occupancy": 3,
-                "price_in_usd": "$79.47/night"
+                "id": 19,
+                "name": "Christiansen Inc Room",
+                "description": "Quo consequatur modi voluptatum rerum rerum itaque minus sunt. Non eum dicta dolore. Veniam odit reprehenderit. Sit et qui non beatae ea eius ipsum modi.",
+                "max_occupancy": 4,
+                "price_in_usd": "$49.42/night"
             }
         },
         {
             "id": 17,
-            "name": "Dickens - Pfeffer Hotel",
-            "description": "Non molestiae quia est dolorem. Voluptatem ut sunt. Inventore et ut doloremque illum. Rerum perferendis voluptatem quis quo exercitationem veritatis quas similique odio.",
-            "distance_to_venue": "2 meters",
-            "rating": 1.99,
+            "name": "Reichel LLC Hotel",
+            "description": "Aspernatur est sint voluptatem dolorem. Harum doloribus doloremque natus qui hic cumque omnis. Quod et est sit dolorem neque voluptatem ea aut necessitatibus.",
+            "distance_to_venue": "266 meters",
+            "rating": 0,
             "price_category": "low",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Spa ",
-                "third": " Laundry Services "
-            },
-            "address": "14916 Renee Island",
-            "city": "East Isobel",
-            "country": "Cambodia",
-            "phone": "642-012-9347",
-            "date": "2015-07-15T17:03:53.215Z",
-            "image": "../assets/hotel6.jpg",
+            "amenities": [
+                " WIFI",
+                " Spa",
+                " Laundry Services"
+            ],
+            "address": "10005 Abel Hill",
+            "city": "Lake Danny",
+            "country": "Reunion",
+            "phone": "693-577-2999",
+            "date": "2015-11-20T04:35:23.122Z",
+            "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 17,
-                "name": "Hoppe, Hammes and VonRueden Room",
-                "description": "Delectus quam veritatis provident sit optio velit et est sint. Nulla delectus quo minima quasi consectetur suscipit. Inventore nesciunt incidunt qui.",
-                "max_occupancy": 1,
-                "price_in_usd": "$95.67/night"
+                "id": 18,
+                "name": "Deckow and Sons Room",
+                "description": "Temporibus sapiente voluptas aspernatur quia vel itaque eveniet inventore qui. Occaecati voluptatem rerum mollitia eligendi facere et ea velit ut. Minus sequi animi non nisi voluptatem sit fugiat pariatur et.",
+                "max_occupancy": 4,
+                "price_in_usd": "$40.19/night"
             },
             "room2": {
-                "id": 17,
-                "name": "Ortiz Inc Room",
-                "description": "Quaerat ullam eligendi iusto laudantium incidunt voluptate fuga sint excepturi. Voluptates hic fugit harum. Eaque impedit ut dolor sequi eum sed. Vel eum labore animi.",
+                "id": 19,
+                "name": "Krajcik - Gleichner Room",
+                "description": "Maxime eum rerum sed ratione quibusdam illo sunt. Earum id perspiciatis deserunt laborum sint quas dolor sequi nihil. Voluptatibus mollitia laboriosam tempora temporibus velit. Atque ullam inventore.",
                 "max_occupancy": 4,
-                "price_in_usd": "$48.19/night"
+                "price_in_usd": "$44.980000000000004/night"
             },
             "room3": {
-                "id": 17,
-                "name": "Schaden - Dare Room",
-                "description": "Consequatur animi doloremque et dolores possimus quidem et dolorem dolor. Fugit nisi nihil sed minima doloremque magnam eum earum. Eveniet consectetur ut. Enim voluptatem minus enim consequatur voluptatem odit ducimus quidem sit. Corporis in neque exercitationem similique hic eos.",
-                "max_occupancy": 1,
-                "price_in_usd": "$13.61/night"
+                "id": 20,
+                "name": "Dicki Inc Room",
+                "description": "Maiores quis nulla. Ullam dolorum praesentium. Id rem rem. Pariatur reiciendis ipsam consequatur consequatur repellendus ut voluptatem. Magnam inventore eius sed quis nihil dolorem. Qui amet consectetur doloribus nam.",
+                "max_occupancy": 2,
+                "price_in_usd": "$73.38/night"
             }
         },
         {
             "id": 18,
-            "name": "Friesen - Lakin Hotel",
-            "description": "Tenetur odio a laboriosam. Id ut ut labore at dolor et et alias corrupti. Eos dignissimos consequatur. Dolores et eveniet omnis. Maiores unde est temporibus repellendus ipsa autem culpa quis. Modi quidem nam velit.",
-            "distance_to_venue": "279 meters",
-            "rating": 4.39,
+            "name": "Bartoletti and Sons Hotel",
+            "description": "Dicta odit vero. Laborum impedit ullam error possimus. Corrupti ut animi.",
+            "distance_to_venue": "170 meters",
+            "rating": 1,
             "price_category": "medium",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Free Parking ",
-                "third": " Gym "
-            },
-            "address": "119 Maximus Spur",
-            "city": "New Ali",
-            "country": "Croatia",
-            "phone": "1-765-784-6435 x44521",
-            "date": "2015-09-20T06:38:20.661Z",
-            "image": "../assets/hotel6.jpg",
+            "amenities": [
+                " WIFI",
+                " Free Parking",
+                " Gym"
+            ],
+            "address": "74622 Wehner Mountain",
+            "city": "East Nella",
+            "country": "Senegal",
+            "phone": "140-309-2247 x84805",
+            "date": "2015-04-27T07:01:04.065Z",
+            "image": "../assets/hotel1.jpg",
             "room1": {
-                "id": 18,
-                "name": "Abbott LLC Room",
-                "description": "Veritatis veritatis culpa at cupiditate quaerat deserunt. Sunt et ex architecto in suscipit aspernatur omnis. Id sit voluptas quod inventore assumenda est quod consequatur. Rerum tempore sunt excepturi voluptatibus et vel iste nostrum.",
-                "max_occupancy": 4,
-                "price_in_usd": "$65.13/night"
+                "id": 19,
+                "name": "Bartoletti - Abshire Room",
+                "description": "Et sit nemo quis et. Pariatur numquam itaque qui culpa perspiciatis doloremque a culpa perferendis. Molestiae aliquid sit ut et in.",
+                "max_occupancy": 1,
+                "price_in_usd": "$27.18/night"
             },
             "room2": {
-                "id": 18,
-                "name": "Stamm - Heathcote Room",
-                "description": "Minus aspernatur consequuntur. Qui harum non magni sed quam. Quo distinctio dignissimos quos non nihil culpa incidunt itaque quos.",
-                "max_occupancy": 1,
-                "price_in_usd": "$4.45/night"
+                "id": 20,
+                "name": "Okuneva, Lockman and Wehner Room",
+                "description": "Expedita sunt laborum eum culpa accusamus et consequatur nam in. Quidem quae nulla deleniti. Et eos minima in et earum recusandae ipsum.",
+                "max_occupancy": 2,
+                "price_in_usd": "$69.37/night"
             },
             "room3": {
-                "id": 18,
-                "name": "Turcotte, Muller and Miller Room",
-                "description": "Dicta est recusandae aperiam sit asperiores. Minima non sed ratione quia dicta rerum impedit inventore. Aut qui praesentium neque totam quia. Laudantium quia impedit qui et odit quis.",
-                "max_occupancy": 2,
-                "price_in_usd": "$91.04/night"
+                "id": 21,
+                "name": "Kozey, Kreiger and Stanton Room",
+                "description": "Doloremque est consequatur minima aut fuga porro. Cumque eveniet doloremque possimus unde aut quo eum non dolor. Sit molestiae aut modi rem nisi optio est totam qui. Doloribus rerum consequuntur porro. Deserunt eum qui qui ullam et.",
+                "max_occupancy": 4,
+                "price_in_usd": "$71.96000000000001/night"
             }
         },
         {
             "id": 19,
-            "name": "Hudson - Schuppe Hotel",
-            "description": "Id ut non sapiente vitae qui et quos libero. Maxime error et repellendus consequatur cumque maiores. Perferendis debitis ipsam dicta quia autem debitis exercitationem nisi aut. Harum mollitia assumenda hic enim suscipit reprehenderit. Molestiae architecto accusantium necessitatibus repellendus aut est autem.",
-            "distance_to_venue": "31 meters",
-            "rating": 3.99,
-            "price_category": "high",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Free Parking ",
-                "third": " Gym "
-            },
-            "address": "81475 Jade Shores",
-            "city": "New Vilma",
+            "name": "Parisian, Harvey and Schmeler Hotel",
+            "description": "Fuga in consequatur eum repellendus vitae fugiat aliquid quia. Nesciunt ut aut et est molestiae. Quia voluptas consequatur corporis sed assumenda illo doloribus. Veritatis est praesentium eum.",
+            "distance_to_venue": "133 meters",
+            "rating": 2,
+            "price_category": "medium",
+            "amenities": [
+                " A/C",
+                " Spa",
+                " Pets Allowed"
+            ],
+            "address": "8901 Fadel Estates",
+            "city": "East Jayme",
             "country": "Egypt",
-            "phone": "586.427.9597 x588",
-            "date": "2015-12-09T13:04:03.399Z",
-            "image": "../assets/hotel1.jpg",
+            "phone": "(637) 784-8276 x230",
+            "date": "2015-12-25T09:50:43.356Z",
+            "image": "../assets/hotel4.jpg",
             "room1": {
-                "id": 19,
-                "name": "Ebert LLC Room",
-                "description": "Reiciendis et voluptas sit. Numquam velit qui consequatur reiciendis error qui. Deserunt minima quia dolore dolor eos cum quaerat cumque.",
-                "max_occupancy": 2,
-                "price_in_usd": "$3.56/night"
+                "id": 20,
+                "name": "Spinka LLC Room",
+                "description": "Sit quisquam dolorem fugit omnis iure. Maiores perspiciatis ab aut consequatur voluptas illum hic neque dolores. Libero cupiditate placeat quia tempora quis quia et totam sed. Eaque id consectetur repudiandae repellendus qui sit. Dolore ipsa sunt repellat in pariatur quibusdam aut totam. Accusamus aut deserunt.",
+                "max_occupancy": 1,
+                "price_in_usd": "$33.01/night"
             },
             "room2": {
-                "id": 19,
-                "name": "Shields LLC Room",
-                "description": "A et quibusdam quia. Quibusdam consequatur ullam itaque rerum quia et molestias voluptas. Recusandae vel pariatur assumenda et provident.",
-                "max_occupancy": 4,
-                "price_in_usd": "$71.06/night"
+                "id": 21,
+                "name": "Lueilwitz Group Room",
+                "description": "Reprehenderit corrupti hic dolor amet. Magnam exercitationem a expedita laborum. Ratione aperiam recusandae. Vel quis voluptatem ullam consequuntur.",
+                "max_occupancy": 1,
+                "price_in_usd": "$65.74/night"
             },
             "room3": {
-                "id": 19,
-                "name": "Haag LLC Room",
-                "description": "Aut possimus qui rem pariatur aliquid et animi. Et commodi cum. Ea quis cumque. Quia officiis ab quia eos.",
-                "max_occupancy": 1,
-                "price_in_usd": "$79.17/night"
+                "id": 22,
+                "name": "Feeney - Gulgowski Room",
+                "description": "Ut ipsam perferendis est ut dolores. Est necessitatibus mollitia eum aliquam et. Quia animi magni ducimus quod aspernatur. Nulla in maxime quia tempore fugiat sit ducimus natus. Eum est omnis necessitatibus praesentium repudiandae officia quo animi earum.",
+                "max_occupancy": 4,
+                "price_in_usd": "$78.28/night"
             }
         },
         {
             "id": 20,
-            "name": "Shanahan, D'Amore and Emard Hotel",
-            "description": "Unde laudantium est. Aliquid iste ut quidem rem ab. Facilis tenetur ab deserunt aut eligendi at blanditiis. Ad quidem quod voluptas et et dignissimos.",
-            "distance_to_venue": "143 meters",
-            "rating": 1.85,
+            "name": "Weber, Rau and Witting Hotel",
+            "description": "Illo ea libero ut consequatur repudiandae possimus non et. Officia sed sed sed distinctio et alias libero quia sed. Culpa et suscipit dicta nostrum. Ut illo quae et quia molestiae delectus. Facere cum nemo et.",
+            "distance_to_venue": "221 meters",
+            "rating": 0,
             "price_category": "low",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Free Parking ",
-                "third": " Laundry Services "
-            },
-            "address": "69371 Shirley Mountains",
-            "city": "East Nicholas",
-            "country": "French Guiana",
-            "phone": "643-401-8432",
-            "date": "2015-02-08T13:44:14.541Z",
-            "image": "../assets/hotel1.jpg",
+            "amenities": [
+                " WIFI",
+                " Free Parking",
+                " Laundry Services"
+            ],
+            "address": "8809 Pfannerstill Summit",
+            "city": "North Maye",
+            "country": "Montserrat",
+            "phone": "(632) 198-2866",
+            "date": "2015-10-26T08:15:31.312Z",
+            "image": "../assets/hotel5.jpg",
             "room1": {
-                "id": 20,
-                "name": "Osinski, Simonis and Runolfsdottir Room",
-                "description": "Adipisci possimus reiciendis. Qui nulla aperiam sit. Reprehenderit temporibus et enim explicabo doloribus aspernatur quis. Fugiat explicabo omnis illum. Ut consequuntur animi odit rerum.",
+                "id": 21,
+                "name": "Jast and Sons Room",
+                "description": "Culpa voluptatem dignissimos quisquam doloremque placeat sed hic consequatur sit. Maxime qui odit consequatur sed. Assumenda totam ipsam ut nostrum qui reprehenderit.",
                 "max_occupancy": 1,
-                "price_in_usd": "$29.16/night"
+                "price_in_usd": "$10.57/night"
             },
             "room2": {
-                "id": 20,
-                "name": "O'Conner, Mann and Jacobs Room",
-                "description": "Aut laudantium atque iusto unde quis excepturi. Consequuntur nostrum voluptatem debitis. In maxime sunt. Nihil consectetur similique omnis iure nihil sint provident minima.",
-                "max_occupancy": 4,
-                "price_in_usd": "$68.55/night"
+                "id": 22,
+                "name": "Metz, Mertz and Stamm Room",
+                "description": "Ex quia est est sint eos. Accusantium impedit est possimus asperiores. Vel recusandae velit quia voluptatem excepturi. Ab repudiandae quam. Cupiditate tempore tempora natus voluptatibus porro qui saepe maxime. Dolorum voluptas sapiente.",
+                "max_occupancy": 2,
+                "price_in_usd": "$3.06/night"
             },
             "room3": {
-                "id": 20,
-                "name": "Klocko Group Room",
-                "description": "Consectetur voluptas magni id doloremque voluptatem qui voluptas laboriosam repellat. Ducimus placeat et illo aliquam reprehenderit tempora aspernatur. Fugit animi fugiat cumque blanditiis est veritatis sint repudiandae sint. Exercitationem voluptatum tempore est similique doloribus recusandae corporis enim. Necessitatibus dolorem beatae fugiat. Sed aperiam soluta.",
+                "id": 23,
+                "name": "Thompson Group Room",
+                "description": "Dolorem tempora perferendis voluptate qui dicta ducimus libero qui veritatis. Aut voluptatem dolor asperiores id libero. Nihil ipsam eos placeat sequi magni iste et dolore et.",
                 "max_occupancy": 3,
-                "price_in_usd": "$2.8000000000000003/night"
+                "price_in_usd": "$37.21/night"
             }
         },
         {
             "id": 21,
-            "name": "Rolfson Group Hotel",
-            "description": "Unde molestias in pariatur magnam at. Architecto unde corporis quo facilis distinctio et beatae consequuntur. Rerum error ipsa voluptatibus quo facere et. Molestias quis est perferendis omnis incidunt aut dolores. Quos officia aspernatur qui unde earum qui porro quia.",
-            "distance_to_venue": "356 meters",
-            "rating": 4.26,
-            "price_category": "medium",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Free Parking ",
-                "third": " Laundry Services "
-            },
-            "address": "48933 Toy Mountain",
-            "city": "North Justen",
-            "country": "Cook Islands",
-            "phone": "(981) 609-4071",
-            "date": "2015-05-14T22:38:14.109Z",
-            "image": "../assets/hotel3.jpg",
+            "name": "Daugherty - O'Keefe Hotel",
+            "description": "Qui rem modi. Voluptatibus minus eligendi harum consequatur neque dolores. Illo itaque ullam. Tenetur ea est placeat cum et et nobis unde et. Blanditiis et inventore.",
+            "distance_to_venue": "347 meters",
+            "rating": 4,
+            "price_category": "high",
+            "amenities": [
+                " Breakfast Included",
+                " Spa",
+                " Laundry Services"
+            ],
+            "address": "807 Schamberger Mountain",
+            "city": "New Steve",
+            "country": "Yemen",
+            "phone": "618.041.0889",
+            "date": "2015-07-03T17:29:15.441Z",
+            "image": "../assets/hotel4.jpg",
             "room1": {
-                "id": 21,
-                "name": "Bailey - Grimes Room",
-                "description": "Laudantium est impedit in consequatur adipisci. Fugiat velit aperiam. Veritatis eligendi quo ducimus. Est eos dolor molestiae veniam aut debitis voluptas.",
+                "id": 22,
+                "name": "Gislason, Schumm and Zulauf Room",
+                "description": "Nam quis voluptatum. Est facilis cupiditate porro dolore saepe vel odio doloribus sit. Provident similique in id dolores. Aut vel aut. Aliquam itaque repellat officiis facere error et explicabo sit nam. Corporis culpa perspiciatis.",
                 "max_occupancy": 2,
-                "price_in_usd": "$9.38/night"
+                "price_in_usd": "$51.01/night"
             },
             "room2": {
-                "id": 21,
-                "name": "Murray, Toy and Macejkovic Room",
-                "description": "Eaque officia beatae autem dolor fugit quis saepe occaecati omnis. Aspernatur recusandae sed autem repudiandae id. Qui ipsam ut sed consequatur quod aspernatur saepe.",
-                "max_occupancy": 2,
-                "price_in_usd": "$29.53/night"
+                "id": 23,
+                "name": "Zemlak, Effertz and Shanahan Room",
+                "description": "Aperiam in autem ipsam soluta impedit voluptatem necessitatibus cupiditate dignissimos. Voluptatem ea temporibus commodi ut. Ut eos tempore reiciendis natus nulla aut.",
+                "max_occupancy": 1,
+                "price_in_usd": "$6.11/night"
             },
             "room3": {
-                "id": 21,
-                "name": "Sipes Group Room",
-                "description": "Unde aut facere numquam saepe dicta veniam ipsam molestiae voluptatum. Consequatur aut dolorum veniam occaecati aliquam temporibus non rerum autem. Id est aliquam cupiditate dolorum magnam quo sit. Odio est minus commodi in laboriosam et.",
-                "max_occupancy": 1,
-                "price_in_usd": "$26.52/night"
+                "id": 24,
+                "name": "Mohr, Walsh and Ortiz Room",
+                "description": "Fugit cupiditate non magni ea qui ut id. Sed enim corporis sequi. Nesciunt occaecati quas. Adipisci error sint alias rerum eos eaque. Ut atque et sit non eos. Dolorem error quidem eos repellat molestiae rerum recusandae eligendi.",
+                "max_occupancy": 2,
+                "price_in_usd": "$3.33/night"
             }
         },
         {
             "id": 22,
-            "name": "Konopelski, McGlynn and McDermott Hotel",
-            "description": "At aut placeat esse dolores. Sit sed et quisquam. Optio itaque modi. Molestiae qui nostrum est natus sit. Ut est corrupti modi tenetur voluptatem sapiente debitis consequatur. Veritatis id officia velit officia.",
-            "distance_to_venue": "101 meters",
-            "rating": 3.48,
-            "price_category": "high",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Free Parking ",
-                "third": " Laundry Services "
-            },
-            "address": "1024 Lula Inlet",
-            "city": "West Yvette",
-            "country": "Barbados",
-            "phone": "404.175.3463 x39022",
-            "date": "2015-08-02T01:32:53.528Z",
-            "image": "../assets/hotel3.jpg",
+            "name": "Hintz, Adams and Schaefer Hotel",
+            "description": "Eveniet reprehenderit et fuga culpa et omnis. Natus maxime voluptatibus itaque perspiciatis ut non omnis et et. Laboriosam aut asperiores a voluptas.",
+            "distance_to_venue": "292 meters",
+            "rating": 2,
+            "price_category": "low",
+            "amenities": [
+                " WIFI",
+                " Free Parking",
+                " Gym"
+            ],
+            "address": "38146 Pietro Streets",
+            "city": "Port Jolie",
+            "country": "Sierra Leone",
+            "phone": "1-935-869-2204",
+            "date": "2015-04-14T03:44:58.055Z",
+            "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 22,
-                "name": "Goldner LLC Room",
-                "description": "Omnis sequi ad. Magnam repellendus quibusdam perspiciatis est officia nam. Dolores omnis eos et. Maxime voluptatem nemo sunt nemo.",
-                "max_occupancy": 4,
-                "price_in_usd": "$9.91/night"
+                "id": 23,
+                "name": "Murray - Oberbrunner Room",
+                "description": "Veritatis aliquam perferendis est optio eum voluptatem quo quo est. Sit ut rerum voluptatem. Vitae consectetur consequuntur doloremque perspiciatis et dolorem. Neque deserunt molestiae. Assumenda nam laborum. Aliquid deserunt odit minus ratione cumque tenetur.",
+                "max_occupancy": 3,
+                "price_in_usd": "$21.48/night"
             },
             "room2": {
-                "id": 22,
-                "name": "Crist, Jaskolski and Davis Room",
-                "description": "Voluptatum fugiat necessitatibus et. At sit autem voluptates possimus debitis eos accusantium facere. Enim at et porro numquam ab. Tempore doloribus temporibus et.",
+                "id": 24,
+                "name": "Fadel - Gusikowski Room",
+                "description": "Voluptate quis illum fugit et qui. Laudantium consequatur numquam tenetur aut alias ipsam omnis perferendis sit. Soluta est nihil laudantium placeat quae vitae nobis.",
                 "max_occupancy": 2,
-                "price_in_usd": "$94.46000000000001/night"
+                "price_in_usd": "$98.60000000000001/night"
             },
             "room3": {
-                "id": 22,
-                "name": "Kohler - Rutherford Room",
-                "description": "Commodi quasi repudiandae veritatis harum excepturi quas quod minima. Voluptatem omnis aspernatur temporibus autem cupiditate quia labore. Aut sunt et quasi. Id consequuntur ea aperiam in illum totam veniam fugiat. Reiciendis commodi qui ut eveniet non. Nam aliquam fugit.",
-                "max_occupancy": 4,
-                "price_in_usd": "$64.19/night"
+                "id": 25,
+                "name": "Mueller - Walker Room",
+                "description": "Dolor doloribus voluptas iusto necessitatibus laboriosam veritatis voluptas velit officia. Velit accusantium aut. Sapiente quo sit dolorem quae ut voluptatum. Earum porro unde dolorum ratione ut tenetur ut similique. Et voluptas sit.",
+                "max_occupancy": 1,
+                "price_in_usd": "$84.58/night"
             }
         },
         {
             "id": 23,
-            "name": "Harris, Kirlin and Gleason Hotel",
-            "description": "Et sint voluptas est illum. Maiores asperiores vero itaque. Autem aut sint ex quod sint et quia blanditiis iusto.",
-            "distance_to_venue": "362 meters",
-            "rating": 1.6600000000000001,
-            "price_category": "high",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Spa ",
-                "third": " Gym "
-            },
-            "address": "23490 Waelchi Inlet",
-            "city": "West Granville",
-            "country": "Oman",
-            "phone": "714.250.9113 x2327",
-            "date": "2015-07-18T13:08:07.179Z",
-            "image": "../assets/hotel1.jpg",
+            "name": "Spinka - Gulgowski Hotel",
+            "description": "Est doloribus mollitia veniam voluptas quas perferendis beatae. Quae adipisci laborum. Aut vero laudantium quia quo sunt.",
+            "distance_to_venue": "313 meters",
+            "rating": 1,
+            "price_category": "low",
+            "amenities": [
+                " A/C",
+                " Spa",
+                " Laundry Services"
+            ],
+            "address": "830 Kerluke Forge",
+            "city": "Lake Yolanda",
+            "country": "Dominican Republic",
+            "phone": "1-217-893-5667",
+            "date": "2015-01-21T14:30:33.577Z",
+            "image": "../assets/hotel4.jpg",
             "room1": {
-                "id": 23,
-                "name": "Funk - Goodwin Room",
-                "description": "Quibusdam quasi numquam repellendus neque accusamus. Debitis dolor rerum ratione ut. Quae iste magni alias. Ipsa qui distinctio porro vel amet dolores harum rem. Iusto aut id eum omnis consequatur similique perspiciatis.",
+                "id": 24,
+                "name": "Bayer - Weimann Room",
+                "description": "Quis vel deleniti autem aut omnis. Id sunt temporibus ipsa ea. Maxime facilis eum ipsa quia et consequuntur. Voluptatum ut non veniam perferendis. Vitae et odio ut id temporibus culpa reiciendis soluta.",
                 "max_occupancy": 4,
-                "price_in_usd": "$8.56/night"
+                "price_in_usd": "$3.52/night"
             },
             "room2": {
-                "id": 23,
-                "name": "Medhurst, Mraz and O'Conner Room",
-                "description": "Ducimus nam libero et veniam voluptate. Sunt asperiores ea velit. Dignissimos veritatis mollitia ea saepe doloribus architecto quae facilis. Accusamus magnam architecto occaecati minima est iusto maiores doloremque. Animi incidunt corporis dolores at. Aut error magnam et.",
-                "max_occupancy": 4,
-                "price_in_usd": "$70.64/night"
+                "id": 25,
+                "name": "Turner - Shanahan Room",
+                "description": "Quae esse aut fuga ut laudantium accusamus voluptas recusandae. Neque nesciunt ea. Et hic ut. Incidunt maxime nisi debitis aut soluta. Temporibus quidem sed deserunt blanditiis ad.",
+                "max_occupancy": 1,
+                "price_in_usd": "$15.57/night"
             },
             "room3": {
-                "id": 23,
-                "name": "Dickens, Collier and Kris Room",
-                "description": "Eos iure tempora nobis deserunt voluptatem id laboriosam. Quidem voluptatem et aliquid ut nobis nobis fugit. Ut voluptas unde necessitatibus et. Ipsa suscipit aut. Vero eius et.",
+                "id": 26,
+                "name": "Hamill and Sons Room",
+                "description": "Corporis molestiae temporibus est quas est consequuntur ea. Culpa sit quae natus aut veritatis esse. Iste fugit velit vero. Omnis nostrum aspernatur consectetur.",
                 "max_occupancy": 3,
-                "price_in_usd": "$30.990000000000002/night"
+                "price_in_usd": "$20.56/night"
             }
         },
         {
             "id": 24,
-            "name": "Franecki - Rippin Hotel",
-            "description": "Et et odit. Delectus sint cumque harum qui debitis. Odio molestiae non aut ut quod ut quia.",
-            "distance_to_venue": "364 meters",
-            "rating": 1.75,
-            "price_category": "medium",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Free Parking ",
-                "third": " Pets Allowed "
-            },
-            "address": "26304 Shaniya Harbor",
-            "city": "South Adriana",
-            "country": "Liechtenstein",
-            "phone": "790-989-0109 x58067",
-            "date": "2015-07-15T16:45:41.711Z",
-            "image": "../assets/hotel4.jpg",
+            "name": "Cormier - Feest Hotel",
+            "description": "Et quia voluptas repellendus. Officiis velit porro. Quibusdam similique voluptatibus et perferendis placeat sed. Architecto aliquid quas repudiandae numquam itaque. Ducimus illum qui. Voluptatem voluptas necessitatibus quos quia quia cum similique.",
+            "distance_to_venue": "400 meters",
+            "rating": 0,
+            "price_category": "low",
+            "amenities": [
+                " A/C",
+                " Swimming Pool",
+                " Laundry Services"
+            ],
+            "address": "83554 Upton Field",
+            "city": "East Morton",
+            "country": "Germany",
+            "phone": "1-014-627-3521 x922",
+            "date": "2015-07-04T00:39:13.719Z",
+            "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 24,
-                "name": "Goyette LLC Room",
-                "description": "Architecto suscipit sunt similique voluptate omnis nihil neque dolores quas. Veritatis qui vero. Voluptas voluptatem quo architecto accusantium quam excepturi sed. Enim ducimus iure est voluptatibus et consequatur ratione. Eos omnis necessitatibus ut unde dolorem et aspernatur enim ut.",
+                "id": 25,
+                "name": "Breitenberg, Kulas and Schmitt Room",
+                "description": "Perferendis corporis voluptatem nemo. Et est ipsam. Et quasi voluptatem.",
                 "max_occupancy": 3,
-                "price_in_usd": "$20.650000000000002/night"
+                "price_in_usd": "$2.07/night"
             },
             "room2": {
-                "id": 24,
-                "name": "Padberg Inc Room",
-                "description": "Deleniti fugit rerum reprehenderit voluptatum beatae. Nihil enim veritatis est molestiae non dolorem. Repudiandae officiis reiciendis voluptates vel. Nostrum saepe doloremque quos et quidem qui. Soluta et numquam voluptatibus.",
-                "max_occupancy": 4,
-                "price_in_usd": "$9.870000000000001/night"
+                "id": 26,
+                "name": "Kohler - Waelchi Room",
+                "description": "Placeat amet blanditiis. Velit esse qui. Voluptas voluptatum eos blanditiis quisquam natus eaque officia omnis. Alias quis sit.",
+                "max_occupancy": 2,
+                "price_in_usd": "$77.28/night"
             },
             "room3": {
-                "id": 24,
-                "name": "Bartell and Sons Room",
-                "description": "Natus officiis quod repellat aliquam molestiae in. Sunt laboriosam error nisi ea. Vel illum illo reiciendis vero fugiat et qui et libero.",
-                "max_occupancy": 3,
-                "price_in_usd": "$69.81/night"
+                "id": 27,
+                "name": "Dicki, Littel and Powlowski Room",
+                "description": "Est quo voluptatibus eaque nostrum delectus et quibusdam ab. Magnam voluptas expedita iste iste aut ut voluptas iusto. Laboriosam aspernatur nobis mollitia nihil nihil quasi. Voluptatem optio labore placeat cum. Nihil quo id exercitationem ex. Aliquam aut dolor consequatur sint facilis voluptatem.",
+                "max_occupancy": 1,
+                "price_in_usd": "$49.01/night"
             }
         },
         {
             "id": 25,
-            "name": "Brekke, Pacocha and Waelchi Hotel",
-            "description": "Similique voluptatum tempore voluptatem suscipit aut id distinctio laborum occaecati. Itaque cum ea. Nobis enim nihil alias delectus reiciendis eius quidem ratione quod.",
-            "distance_to_venue": "256 meters",
-            "rating": 2.56,
+            "name": "Turcotte, Casper and Rice Hotel",
+            "description": "Maxime natus vel perspiciatis omnis dolorum et. Ut et possimus dolorum officiis voluptas nostrum ut. Quas dolorem nobis nesciunt ut omnis perferendis autem omnis corrupti. Fugit vitae omnis similique et quam quia. Neque rerum quo aut dolore. Enim sit recusandae error et autem.",
+            "distance_to_venue": "218 meters",
+            "rating": 5,
             "price_category": "high",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Spa ",
-                "third": " Pets Allowed "
-            },
-            "address": "0781 Daniel Shoals",
-            "city": "New Julie",
-            "country": "Italy",
-            "phone": "(126) 987-8178 x955",
-            "date": "2015-01-13T16:28:10.325Z",
-            "image": "../assets/hotel3.jpg",
+            "amenities": [
+                " WIFI",
+                " Spa",
+                " Laundry Services"
+            ],
+            "address": "328 Bernard Place",
+            "city": "South Justyn",
+            "country": "Bouvet Island (Bouvetoya)",
+            "phone": "167-810-4992 x74071",
+            "date": "2015-05-16T22:56:06.381Z",
+            "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 25,
-                "name": "Johnston LLC Room",
-                "description": "Quis ex et magni maxime non ut vel facilis aperiam. Excepturi ullam est cum. Odit vel dignissimos ipsam et aut eligendi. Recusandae velit non. Sunt facere ducimus sed odio rerum blanditiis possimus.",
-                "max_occupancy": 3,
-                "price_in_usd": "$17.04/night"
+                "id": 26,
+                "name": "Marquardt Group Room",
+                "description": "Debitis repellendus nisi illum odit non. Tempore quidem sunt ab nostrum qui. Enim facilis sunt doloremque. Recusandae in aspernatur in ad illum dicta magni omnis alias. Aut suscipit iste aut. Expedita facere consequuntur.",
+                "max_occupancy": 2,
+                "price_in_usd": "$20.080000000000002/night"
             },
             "room2": {
-                "id": 25,
-                "name": "Tromp LLC Room",
-                "description": "Quisquam eum neque qui quod inventore et. Ex minima ut et omnis autem. Saepe aliquam minus quia ullam eos et consequatur consequuntur. Quia doloribus nobis accusamus ab.",
-                "max_occupancy": 1,
-                "price_in_usd": "$78.14/night"
+                "id": 27,
+                "name": "Stiedemann - Emmerich Room",
+                "description": "Similique ipsa quod debitis sed dolore. Dolorem quia reiciendis non odit aliquam porro et qui. Temporibus pariatur occaecati eveniet necessitatibus.",
+                "max_occupancy": 3,
+                "price_in_usd": "$7.01/night"
             },
             "room3": {
-                "id": 25,
-                "name": "Pagac, Osinski and Barrows Room",
-                "description": "Fugit libero molestias sequi nihil vel ut. Inventore officiis voluptatem minima et quisquam quia voluptas explicabo dolor. Incidunt amet dolorem ratione asperiores dolor eveniet sapiente sed. Fugit nobis nam corporis. Doloribus cumque voluptas saepe labore quia et reiciendis. Possimus sint et consectetur illum autem.",
+                "id": 28,
+                "name": "Weimann - Johns Room",
+                "description": "Aspernatur eveniet tenetur aut quidem et unde praesentium. Eligendi minus quia vel distinctio laboriosam odit ipsa aut. Impedit eos sit. Quis modi voluptas aut.",
                 "max_occupancy": 2,
-                "price_in_usd": "$94.11/night"
+                "price_in_usd": "$38.6/night"
             }
         },
         {
             "id": 26,
-            "name": "Gaylord - Carter Hotel",
-            "description": "Veniam repellendus dolorem. Assumenda assumenda occaecati porro voluptatem. Tempore ipsa rerum saepe quia minima qui quod nobis. Laborum id quibusdam ea laborum. Doloremque corporis qui maxime vitae quo voluptatum aspernatur qui. Illo sit libero doloremque esse voluptates.",
-            "distance_to_venue": "144 meters",
-            "rating": 1.33,
+            "name": "Schiller, Gerhold and Crooks Hotel",
+            "description": "Accusamus facilis facilis perspiciatis aut suscipit. Sunt et labore. Nam qui enim inventore. Modi vel voluptatibus. Blanditiis voluptates quibusdam cumque. Distinctio perferendis rem pariatur dolor officia.",
+            "distance_to_venue": "42 meters",
+            "rating": 4,
             "price_category": "low",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Swimming Pool ",
-                "third": " Laundry Services "
-            },
-            "address": "512 Rhea Unions",
-            "city": "West Abe",
-            "country": "Saint Barthelemy",
-            "phone": "1-682-191-9817",
-            "date": "2015-12-13T01:15:57.991Z",
-            "image": "../assets/hotel3.jpg",
+            "amenities": [
+                " A/C",
+                " Spa",
+                " Gym"
+            ],
+            "address": "40077 Wyman Estate",
+            "city": "New Sigrid",
+            "country": "Saint Martin",
+            "phone": "1-939-476-1620",
+            "date": "2015-02-04T14:45:53.597Z",
+            "image": "../assets/hotel1.jpg",
             "room1": {
-                "id": 26,
-                "name": "Bradtke LLC Room",
-                "description": "Quam sequi ducimus dicta. Molestiae ipsam dignissimos dolor quisquam. Harum debitis nihil aliquam quae id. Sunt ipsum molestiae porro. Error accusamus ullam illum repellendus qui praesentium accusantium possimus. Aspernatur non nesciunt quasi.",
-                "max_occupancy": 1,
-                "price_in_usd": "$77.79/night"
+                "id": 27,
+                "name": "McClure and Sons Room",
+                "description": "Quis deleniti blanditiis rerum sint iure libero ipsa adipisci quidem. In eos expedita deleniti optio quo nam eveniet. Voluptas sed quo nobis possimus atque. Molestiae incidunt quam sint nesciunt sit vel.",
+                "max_occupancy": 3,
+                "price_in_usd": "$45.54/night"
             },
             "room2": {
-                "id": 26,
-                "name": "Klein - Streich Room",
-                "description": "Qui saepe ut. Omnis facilis blanditiis voluptatem quis in mollitia. Magni et quasi omnis maiores culpa et.",
-                "max_occupancy": 3,
-                "price_in_usd": "$74.18/night"
+                "id": 28,
+                "name": "Kihn - Schmeler Room",
+                "description": "Inventore praesentium itaque ut qui voluptas ducimus. Doloribus quia omnis aut at quis soluta rem et. Voluptatem quisquam quaerat culpa vitae eos vel quam. Eveniet ipsa totam ex commodi sit quis qui sint et.",
+                "max_occupancy": 4,
+                "price_in_usd": "$54.910000000000004/night"
             },
             "room3": {
-                "id": 26,
-                "name": "West, Haley and Crooks Room",
-                "description": "Quisquam iste quas minima asperiores aliquid sed molestiae. Voluptates qui fugit dolorem minima tenetur dolor. Et neque rerum accusantium est est hic natus soluta laudantium. Earum nisi aut sint ut officiis amet voluptatibus voluptas non.",
-                "max_occupancy": 1,
-                "price_in_usd": "$5.6000000000000005/night"
+                "id": 29,
+                "name": "Eichmann and Sons Room",
+                "description": "Qui aut reiciendis pariatur. Dignissimos nostrum velit maxime ut alias et ratione. Aliquid et deleniti sint fugit a rerum.",
+                "max_occupancy": 2,
+                "price_in_usd": "$89.03/night"
             }
         },
         {
             "id": 27,
-            "name": "Tillman - Wiza Hotel",
-            "description": "Dolor earum in quis numquam doloribus doloremque et accusamus. Laudantium exercitationem magnam laboriosam. Nam quas voluptatum sapiente qui doloribus ad aperiam excepturi. Inventore quod reprehenderit repellendus magnam et excepturi rem et. Itaque veritatis dolores voluptate minus. Rem quibusdam accusantium ipsum ipsum rerum rerum est repudiandae qui.",
-            "distance_to_venue": "233 meters",
-            "rating": 2.67,
-            "price_category": "medium",
-            "amenities": {
-                "first": " A/C ",
-                "second": " Free Parking ",
-                "third": " Gym "
-            },
-            "address": "23136 Sidney Drive",
-            "city": "North Saige",
-            "country": "San Marino",
-            "phone": "(639) 278-3941",
-            "date": "2015-01-12T15:25:28.036Z",
-            "image": "../assets/hotel5.jpg",
+            "name": "Brown and Sons Hotel",
+            "description": "Incidunt autem est. Nisi et ut placeat nemo et in fugit. Distinctio ratione aliquam est et. Est dolor earum quidem. Rem facere impedit enim dolorem voluptatum aut aliquid architecto.",
+            "distance_to_venue": "53 meters",
+            "rating": 0,
+            "price_category": "low",
+            "amenities": [
+                " A/C",
+                " Free Parking",
+                " Pets Allowed"
+            ],
+            "address": "3751 Valentine Well",
+            "city": "Lake Elbert",
+            "country": "Iraq",
+            "phone": "1-723-318-5318 x8809",
+            "date": "2015-01-29T07:29:03.998Z",
+            "image": "../assets/hotel4.jpg",
             "room1": {
-                "id": 27,
-                "name": "Senger Group Room",
-                "description": "Laboriosam exercitationem labore amet ut quidem hic quia cum. Labore vitae autem. Minima deleniti ut maiores recusandae. Dicta incidunt omnis. Omnis omnis consequuntur sapiente corporis ut ad. Voluptas suscipit ducimus placeat.",
-                "max_occupancy": 2,
-                "price_in_usd": "$82.62/night"
+                "id": 28,
+                "name": "Deckow Group Room",
+                "description": "Porro cum accusamus perspiciatis hic est repellat tempore iusto consequatur. Dolor incidunt eum beatae ut illum assumenda deleniti. Asperiores molestiae dicta porro. Cum aut eum labore blanditiis iusto eum.",
+                "max_occupancy": 4,
+                "price_in_usd": "$75.29/night"
             },
             "room2": {
-                "id": 27,
-                "name": "Batz - Buckridge Room",
-                "description": "Dolorem eos unde doloribus similique numquam sit in assumenda modi. In quia aut alias minus. Facilis deleniti placeat a tempora ipsa repudiandae. In ipsum reiciendis rem quis aut cumque ut corporis officia. Non quam dolor qui voluptatum at. Quae nobis rem.",
-                "max_occupancy": 3,
-                "price_in_usd": "$27.490000000000002/night"
+                "id": 29,
+                "name": "Parisian LLC Room",
+                "description": "Consectetur ipsa qui esse voluptatibus eum. Sunt doloremque consequatur at repellat voluptatibus. Ullam ut animi quis natus sed possimus. Praesentium quo repellat.",
+                "max_occupancy": 2,
+                "price_in_usd": "$38.29/night"
             },
             "room3": {
-                "id": 27,
-                "name": "Braun - Leannon Room",
-                "description": "Quia nostrum quibusdam dignissimos consequuntur non minus accusamus. Qui temporibus porro aut et omnis. Non et quae et tenetur debitis nesciunt. Voluptatem et sint est eius in et. Odit optio est omnis similique sint non necessitatibus perferendis.",
+                "id": 30,
+                "name": "Cruickshank Group Room",
+                "description": "Dolores debitis et. Officiis sequi dolor illo consequuntur dolore ipsam. Animi dolor delectus vero.",
                 "max_occupancy": 4,
-                "price_in_usd": "$35.44/night"
+                "price_in_usd": "$55.88/night"
             }
         },
         {
             "id": 28,
-            "name": "Ortiz Group Hotel",
-            "description": "Voluptatem rerum ullam pariatur qui autem asperiores eligendi enim impedit. Exercitationem eligendi consectetur qui. Autem labore ad distinctio modi. Et eum explicabo dolores qui.",
-            "distance_to_venue": "382 meters",
-            "rating": 3.48,
-            "price_category": "high",
-            "amenities": {
-                "first": " Breakfast Included ",
-                "second": " Swimming Pool ",
-                "third": " Pets Allowed "
-            },
-            "address": "626 Melba Lodge",
-            "city": "East Melany",
-            "country": "Saint Helena",
-            "phone": "296.233.1144",
-            "date": "2015-02-11T01:47:05.961Z",
-            "image": "../assets/hotel6.jpg",
+            "name": "Gislason and Sons Hotel",
+            "description": "Id vel molestiae. Explicabo non veniam alias commodi est cum fugiat placeat. Id alias enim qui omnis doloremque. Et et ut similique ut aut minima vel necessitatibus. Ea nostrum perspiciatis velit quia error. Ratione distinctio aperiam beatae ullam commodi cum reiciendis non.",
+            "distance_to_venue": "179 meters",
+            "rating": 2,
+            "price_category": "low",
+            "amenities": [
+                " A/C",
+                " Free Parking",
+                " Gym"
+            ],
+            "address": "501 Leuschke Circle",
+            "city": "Lake Davonte",
+            "country": "Mozambique",
+            "phone": "1-211-385-9682 x2020",
+            "date": "2015-03-20T04:03:28.279Z",
+            "image": "../assets/hotel1.jpg",
             "room1": {
-                "id": 28,
-                "name": "Abbott Group Room",
-                "description": "Vero quod eligendi minus velit ut distinctio fugit commodi dolores. Cum necessitatibus sint. Veritatis accusantium architecto tempore veniam id sed dolores ratione earum. Perspiciatis qui qui iusto mollitia quis.",
-                "max_occupancy": 2,
-                "price_in_usd": "$81.02/night"
+                "id": 29,
+                "name": "Balistreri - Braun Room",
+                "description": "Enim ea commodi ad dolore a. Illum perspiciatis cumque repudiandae animi et commodi. Quis excepturi rerum voluptatem.",
+                "max_occupancy": 4,
+                "price_in_usd": "$40.550000000000004/night"
             },
             "room2": {
-                "id": 28,
-                "name": "Hintz Inc Room",
-                "description": "Eos id doloribus numquam odit sit cupiditate cum. Et molestias facere rerum temporibus assumenda. Tempora quaerat et debitis esse numquam animi quisquam sint autem. At saepe et impedit et nihil.",
+                "id": 30,
+                "name": "Nitzsche, Hudson and Kling Room",
+                "description": "Illum aut magnam ea et in. Atque ut similique neque dolores quia. Sint odit ipsum reprehenderit commodi autem voluptatibus quia et quos. Voluptas quidem nam occaecati libero qui eos. Impedit neque fugit iusto suscipit maxime alias odit voluptatum tempore.",
                 "max_occupancy": 4,
-                "price_in_usd": "$27.36/night"
+                "price_in_usd": "$33.64/night"
             },
             "room3": {
-                "id": 28,
-                "name": "Roob - Kihn Room",
-                "description": "Tenetur officiis maiores earum vitae quis est quis et reprehenderit. Reiciendis expedita molestiae ea rem est et sit. Inventore tempora et et ex eius consequuntur.",
-                "max_occupancy": 2,
-                "price_in_usd": "$87.61/night"
+                "id": 31,
+                "name": "Heathcote, Leffler and Ritchie Room",
+                "description": "Qui non ut libero praesentium inventore voluptatem. Vitae explicabo laudantium porro consectetur dolore repellat debitis at iste. Dolores fugiat asperiores distinctio aspernatur ex. Sed et explicabo id aperiam odit ad. Neque nihil accusamus incidunt earum delectus consequuntur ipsam ipsa necessitatibus. Rerum labore enim at.",
+                "max_occupancy": 1,
+                "price_in_usd": "$86.89/night"
             }
         },
         {
             "id": 29,
-            "name": "Hessel and Sons Hotel",
-            "description": "Quis delectus nemo voluptatem facilis natus. Corrupti laudantium eum enim et. Voluptas aut ab aspernatur velit rem.",
-            "distance_to_venue": "84 meters",
-            "rating": 1.8800000000000001,
-            "price_category": "high",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Free Parking ",
-                "third": " Pets Allowed "
-            },
-            "address": "9846 Hartmann Route",
-            "city": "Lake Laurel",
-            "country": "Togo",
-            "phone": "1-645-902-3303 x2900",
-            "date": "2015-06-15T10:30:02.282Z",
+            "name": "Parker - Halvorson Hotel",
+            "description": "Nesciunt ex possimus aliquid natus sed aut sequi. Asperiores a rem porro unde velit. Sint velit hic ut.",
+            "distance_to_venue": "117 meters",
+            "rating": 0,
+            "price_category": "low",
+            "amenities": [
+                " Breakfast Included",
+                " Spa",
+                " Gym"
+            ],
+            "address": "5147 Frank Heights",
+            "city": "West Charity",
+            "country": "Canada",
+            "phone": "796.778.6701 x7498",
+            "date": "2015-03-22T08:17:49.649Z",
             "image": "../assets/hotel7.jpg",
             "room1": {
-                "id": 29,
-                "name": "Hessel, Marks and Fadel Room",
-                "description": "Omnis omnis earum. Nam eos soluta nesciunt velit quisquam ducimus. Fuga consequatur earum officiis a ut tenetur deleniti. Vitae occaecati vel ut et. Debitis eos quidem. Sequi accusantium velit aliquid deserunt itaque.",
-                "max_occupancy": 4,
-                "price_in_usd": "$43.480000000000004/night"
+                "id": 30,
+                "name": "Schmeler, Krajcik and Schmidt Room",
+                "description": "Dolorem deleniti enim. Modi neque molestias aut et doloremque libero non. Magnam et enim maiores sunt. Illum totam voluptatem eaque praesentium dolor quis asperiores.",
+                "max_occupancy": 3,
+                "price_in_usd": "$89.88/night"
             },
             "room2": {
-                "id": 29,
-                "name": "Ziemann LLC Room",
-                "description": "Sit quia magnam consectetur illo recusandae praesentium est enim. Qui pariatur fuga ut at et. Et repudiandae quas. At sapiente aut ipsam omnis sint est expedita.",
-                "max_occupancy": 4,
-                "price_in_usd": "$45.38/night"
+                "id": 31,
+                "name": "Collier Inc Room",
+                "description": "Dolores aut et tempora et ex nobis iusto optio quibusdam. Exercitationem voluptatum aut in mollitia est occaecati illo aut. Dolores odit at aperiam exercitationem.",
+                "max_occupancy": 2,
+                "price_in_usd": "$93.9/night"
             },
             "room3": {
-                "id": 29,
-                "name": "Gaylord - Schmitt Room",
-                "description": "Officia qui quasi. Qui aut consequuntur sed vel. Quisquam eum omnis et velit accusamus. Ut explicabo dolor officiis laborum ipsam autem a quisquam. Distinctio atque ad impedit sed et sit quia cupiditate.",
+                "id": 32,
+                "name": "Cummings LLC Room",
+                "description": "Magni reiciendis suscipit omnis laudantium unde et. Architecto et nobis sunt omnis quaerat provident voluptatem earum distinctio. Aliquam incidunt doloremque voluptate dolor nihil. Omnis sequi quis voluptatem molestias.",
                 "max_occupancy": 1,
-                "price_in_usd": "$63.43/night"
+                "price_in_usd": "$25.67/night"
             }
         },
         {
             "id": 30,
-            "name": "Mitchell - Quitzon Hotel",
-            "description": "Maxime officia exercitationem. Fugiat omnis aliquid consectetur aut mollitia aliquam suscipit. Et dolor et et omnis vero odit ea. Ut voluptate ipsum quidem adipisci ipsa accusamus ratione sapiente nobis. Reprehenderit hic laborum ea temporibus. Neque velit ut iusto aut qui vitae praesentium sed.",
-            "distance_to_venue": "148 meters",
-            "rating": 4.29,
-            "price_category": "low",
-            "amenities": {
-                "first": " WIFI ",
-                "second": " Spa ",
-                "third": " Gym "
-            },
-            "address": "8588 Alexzander Port",
-            "city": "Port Christ",
-            "country": "Saint Helena",
-            "phone": "(850) 977-8674",
-            "date": "2015-02-19T21:52:08.588Z",
-            "image": "../assets/hotel7.jpg",
+            "name": "Bayer - Altenwerth Hotel",
+            "description": "Ea nulla eum et quis deleniti et magni. Eum ipsam sed nemo et a consequuntur dolor qui culpa. Omnis molestias at officia repellat ex assumenda accusamus. Sunt quo facere porro explicabo quia voluptatem repellendus voluptatem suscipit. Qui et ipsa expedita iure.",
+            "distance_to_venue": "238 meters",
+            "rating": 0,
+            "price_category": "high",
+            "amenities": [
+                " Breakfast Included",
+                " Free Parking",
+                " Gym"
+            ],
+            "address": "8677 Stroman Curve",
+            "city": "Port Erica",
+            "country": "Uruguay",
+            "phone": "(487) 866-3049 x67312",
+            "date": "2015-11-13T11:23:01.666Z",
+            "image": "../assets/hotel3.jpg",
             "room1": {
-                "id": 30,
-                "name": "O'Connell, Williamson and Muller Room",
-                "description": "Ipsum enim nihil vero rerum. Voluptatem accusamus dolorum. Voluptatem vel pariatur et. Consectetur corporis iusto minus perferendis ut id. Ullam voluptates vel veniam corrupti ut voluptas. Sint distinctio dolorem qui voluptates laudantium.",
+                "id": 31,
+                "name": "Auer - Emmerich Room",
+                "description": "Recusandae rerum libero autem voluptatem quod ut quo asperiores. Ducimus et dolorem itaque occaecati aperiam praesentium fuga nostrum. Consequatur rem rerum dignissimos cum molestiae voluptas quia. Est facilis sunt exercitationem debitis sed dolorum. Quia optio voluptatem odit rem veritatis cumque. Voluptate reiciendis veniam ut saepe vitae voluptatibus fuga quis non.",
                 "max_occupancy": 1,
-                "price_in_usd": "$51/night"
+                "price_in_usd": "$58.120000000000005/night"
             },
             "room2": {
-                "id": 30,
-                "name": "Cartwright - Carroll Room",
-                "description": "Numquam tempora ipsa error. Id qui repudiandae deserunt. Odio harum molestiae. Provident quisquam sit aut neque reiciendis itaque inventore sed cupiditate. Itaque nobis aliquid nobis eius ullam.",
-                "max_occupancy": 3,
-                "price_in_usd": "$4.95/night"
+                "id": 32,
+                "name": "Barton - Dickens Room",
+                "description": "Nulla rerum necessitatibus fugit. Sed optio quo omnis modi error voluptas fuga quisquam et. Consequatur sapiente cum.",
+                "max_occupancy": 2,
+                "price_in_usd": "$4.0200000000000005/night"
             },
             "room3": {
-                "id": 30,
-                "name": "Wuckert Group Room",
-                "description": "Aliquid vel suscipit est eaque quos autem molestiae maiores. Facere rerum consequatur quis impedit facilis repudiandae perspiciatis sunt. Pariatur asperiores numquam sit odit in ducimus. Illo quam repellendus expedita.",
-                "max_occupancy": 4,
-                "price_in_usd": "$88.49/night"
+                "id": 33,
+                "name": "Bartoletti Group Room",
+                "description": "Dicta neque omnis quidem distinctio consequuntur hic ipsa odio. Aspernatur et a dolor reprehenderit reprehenderit. Et aut quo labore eaque molestiae aut maiores sit. Tempore culpa alias quasi repellat in et earum.",
+                "max_occupancy": 3,
+                "price_in_usd": "$67.02/night"
             }
         }
     ]

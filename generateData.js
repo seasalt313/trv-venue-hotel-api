@@ -9,13 +9,13 @@ for (var i = 1; i <= 30; i++) {
         name: faker.company.companyName() + ' Hotel',
         description: faker.lorem.paragraph(),
         distance_to_venue: faker.random.number({ 'min': 1, 'max': 400 }) + ' meters',
-        rating: faker.random.number({ 'min': 1, 'max': 5, 'precision': 0.01 }),
+        rating: faker.random.number({ 'min': 0, 'max': 5 }),
         price_category: faker.random.arrayElement(['low', 'medium', 'high']),
-        amenities: {
-            first: faker.random.arrayElement([' WIFI ', ' A/C ', ' Breakfast Included ']),
-            second: faker.random.arrayElement([' Free Parking ', ' Swimming Pool ', ' Spa ']),
-            third: faker.random.arrayElement([' Pets Allowed ', ' Gym ', ' Laundry Services '])
-        },
+        amenities: [
+            faker.random.arrayElement([' WIFI', ' A/C', ' Breakfast Included']),
+            faker.random.arrayElement([' Free Parking', ' Swimming Pool', ' Spa']),
+            faker.random.arrayElement([' Pets Allowed', ' Gym', ' Laundry Services'])
+        ],
         address: faker.address.streetAddress(),
         city: faker.address.city(1),
         country: faker.address.country(),
@@ -33,24 +33,24 @@ for (var i = 1; i <= 30; i++) {
             ]
         ),
         room1: {
-            id: i,
+            id: i + 1,
             name: faker.company.companyName() + ' Room',
             description: faker.lorem.paragraph(),
-            "max_occupancy": faker.random.number({ 'min': 1, 'max': 4 }),
+            max_occupancy: faker.random.number({ 'min': 1, 'max': 4 }),
             price_in_usd: '$' + faker.random.number({ 'min': 1, 'max': 100, 'precision': 0.01 }) + '/night',
         },
         room2: {
-            id: i,
+            id: i + 2,
             name: faker.company.companyName() + ' Room',
             description: faker.lorem.paragraph(),
-            "max_occupancy": faker.random.number({ 'min': 1, 'max': 4 }),
+            max_occupancy: faker.random.number({ 'min': 1, 'max': 4 }),
             price_in_usd: '$' + faker.random.number({ 'min': 1, 'max': 100, 'precision': 0.01 }) + '/night',
         },
         room3: {
-            id: i,
+            id: i + 3,
             name: faker.company.companyName() + ' Room',
             description: faker.lorem.paragraph(),
-            "max_occupancy": faker.random.number({ 'min': 1, 'max': 4 }),
+            max_occupancy: faker.random.number({ 'min': 1, 'max': 4 }),
             price_in_usd: '$' + faker.random.number({ 'min': 1, 'max': 100, 'precision': 0.01 }) + '/night',
         }
     });
