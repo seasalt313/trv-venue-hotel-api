@@ -1,7 +1,6 @@
 const fs = require("fs");
 const bodyParser = require("body-parser");
 const jsonServer = require("json-server");
-const jwt = require("jsonwebtoken");
 
 const server = jsonServer.create();
 const router = jsonServer.router("./db.json");
@@ -10,67 +9,18 @@ const hoteldb = JSON.parse(fs.readFileSync("./db.json", "UTF-8"));
 
 server.use(jsonServer.defaults());
 
-const SECRET_KEY = "123456789";
-const expiresIn = "12h";
-
 function createHotel(data) {
   console.log("DATA=====", data);
-  hoteldb.hotels.push(data);
+  let parsed = JSON.stringify(data);
+
+  hoteldb.hotels.push(parsed);
 }
-
-// function createToken(payload) {
-//   console.log("payload?", payload);
-
-//   return jwt.sign(payload, SECRET_KEY, { expiresIn });
-// }
-
-// function verifyToken(token) {
-//   return jwt.verify(token, SECRET_KEY, (err, decode) =>
-//     decode !== undefined ? decode : err
-//   );
-// }
-
-// function isAuthenticated({ email, password }) {
-//   return (
-//     userdb.users.findIndex(
-//       user => user.email === email && user.password === password
-//     ) !== -1
-//   );
-// }
-
-// server.post("/new", (req, res) => {
-//   const { email, password } = req.body;
-
-//   const access_token = createToken({ email, password });
-//   res.status(200).json({ access_token });
-// });
 
 server.post("/hotels", (req, res) => {
   console.log("POST??=========================================", req, req.body);
-  let parsed = JSON.stringify(req.body);
   const newHotel = createhotel(parsed);
-  res.status(200).json(newHotel);
+  res.status(200).json(req.body);
 });
-
-// server.use(/^(?!\/auth).*$/, (req, res, next) => {
-//   if (
-//     req.headers.authorization === undefined ||
-//     req.headers.authorization.split(" ")[0] !== "Bearer"
-//   ) {
-//     const status = 401;
-//     const message = "Bad authorization header";
-//     res.status(status).json({ status, message });
-//     return;
-//   }
-//   try {
-//     verifyToken(req.headers.authorization.split(" ")[1]);
-//     next();
-//   } catch (err) {
-//     const status = 401;
-//     const message = "Error: access_token is not valid";
-//     res.status(status).json({ status, message });
-//   }
-// });
 
 server.use(router);
 
