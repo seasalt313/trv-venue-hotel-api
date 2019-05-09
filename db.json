@@ -1,42 +1,6 @@
 {
   "hotels": [
     {
-      "id": 4,
-      "name": "Luettgen, Kuphal and Willms Hotel",
-      "description": "Eligendi qui culpa. Maxime omnis repellat qui cumque. Ut voluptatem distinctio vel ut. Corporis ut ipsam iure atque. Sed beatae quam libero. Nobis eveniet sit cum.",
-      "distance_to_venue": "267 meters",
-      "rating": 0,
-      "price_category": "low",
-      "amenities": [
-        " A/C",
-        " Spa",
-        " Gym"
-      ],
-      "address": "307 Macejkovic Village",
-      "image": "../assets/hotel5.jpg",
-      "room1": {
-        "id": 5,
-        "name": "Littel - O'Hara Room",
-        "description": "Ipsa omnis animi. Iusto nihil a tenetur laboriosam sapiente beatae qui quis cupiditate. Autem ut magnam soluta repudiandae enim reprehenderit tenetur ut magni. Ipsa eligendi voluptate.",
-        "max_occupancy": 4,
-        "price_in_usd": 65.82000000000001
-      },
-      "room2": {
-        "id": 6,
-        "name": "Labadie - Nolan Room",
-        "description": "Ut recusandae quibusdam qui in velit. Magni veritatis ipsam. Pariatur exercitationem distinctio unde dolores omnis minima quaerat et. Dolores et eligendi sint sit animi pariatur reprehenderit.",
-        "max_occupancy": 3,
-        "price_in_usd": 95.05
-      },
-      "room3": {
-        "id": 7,
-        "name": "Mueller Group Room",
-        "description": "Adipisci ea tenetur eligendi cumque molestiae atque repellat vel. Blanditiis libero debitis voluptas ipsam voluptatem itaque. Sunt doloribus qui sint vel placeat. Ducimus molestias qui debitis magni debitis tempora est deserunt error. Voluptas atque possimus accusamus cumque vitae ducimus expedita quae doloremque. Ea sunt est commodi explicabo dolor a.",
-        "max_occupancy": 3,
-        "price_in_usd": 49.19
-      }
-    },
-    {
       "id": 5,
       "name": "Zieme - Kozey Hotel",
       "description": "Dolore est fugiat animi est qui delectus quod et quae. Non amet fugiat iure ea officia placeat quasi ut. Expedita et fuga rerum ea impedit.",
@@ -971,6 +935,117 @@
         "max_occupancy": 4,
         "price_in_usd": 35.22
       }
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "{\"name\":\"asdf\",\"description\":\"asdf\",\"distance_to_venue\":400,\"rating\":3,\"price_category\":\"low\",\"address\":\"234 church st\"}": "",
+      "id": 47
+    },
+    {
+      "{\"id\":13,\"name\":\"Skyhouse \",\"description\":\"A apartment complex i live in \",\"distance_to_venue\":\"low\",\"rating\":\"3\",\"price_category\":\"640 n church\"}": "",
+      "id": 48
+    },
+    {
+      "{\"id\":13,\"name\":\"disney\",\"description\":\"world\",\"distance_to_venue\":\"low\",\"rating\":\"4\",\"price_category\":\"asdf\"}": "",
+      "id": 49
+    },
+    {
+      "{\"id\":13,\"name\":\"skyhouse\",\"description\":\"adf\",\"distance_to_venue\":\"asdf\",\"rating\":\"asdf\",\"price_category\":\"mariam\"}": "",
+      "id": 50
+    },
+    {
+      "{\"id\":13,\"name\":\"skyhouse\",\"description\":\"adf\",\"distance_to_venue\":\"asdf\",\"rating\":\"asdf\",\"price_category\":\"mariam\"}": "",
+      "id": 51
+    },
+    {
+      "{\"id\":13,\"name\":\"whhat\",\"description\":\"adf\",\"distance_to_venue\":\"asdf\",\"rating\":\"asdf\",\"price_category\":\"mariam\"}": "",
+      "id": 52
+    },
+    {
+      "{\"id\":13,\"name\":\"whhat\",\"description\":\"adf\",\"distance_to_venue\":\"asdf\",\"rating\":\"asdf\",\"price_category\":\"mariam\"}": "",
+      "id": 53
+    },
+    {
+      "{\"id\":13,\"name\":\"whhat\",\"description\":\"adf\",\"distance_to_venue\":\"asdf\",\"rating\":\"asdf\",\"price_category\":\"mariam\"}": "",
+      "id": 54
+    },
+    {
+      "{\"id\":13,\"name\":\"whatever\",\"description\":\"asdf\",\"distance_to_venue\":\"adf\",\"rating\":\"asd\",\"price_category\":\"asdf\"}": "",
+      "id": 55
+    },
+    {
+      "{\"id\":13,\"name\":\"whatever\",\"description\":\"asdf\",\"distance_to_venue\":\"adf\",\"rating\":\"asd\",\"price_category\":\"asdf\"}": "",
+      "id": 56
+    },
+    {
+      "{\"id\":13}": "",
+      "id": 57
+    },
+    {
+      "{\"id\":13,\"name\":\"mariam\",\"description\":\"asdf\",\"distance_to_venue\":\"asdf\",\"rating\":\"asdf\",\"price_category\":\"asdfadf\"}": "",
+      "id": 58
+    },
+    {
+      "{\"id\":13,\"name\":\"please work \"}": "",
+      "id": 59
+    },
+    {
+      "{\"id\":13,\"name\":\"please work \"}": "",
+      "id": 60
+    },
+    {
+      "{\"id\":13,\"name\":\"please work \"}": "",
+      "id": 61
+    },
+    {
+      "id": 62
     }
   ]
 }
