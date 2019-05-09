@@ -1,109 +1,17 @@
 {
   "hotels": [
     {
-      "id": 1,
-      "name": "Kris, Metz and Lueilwitz Hotel",
-      "description": "Ipsa repellendus qui nemo dolorem quia sint qui. Et corporis deleniti cum placeat. Aperiam totam optio ducimus perspiciatis reiciendis consequatur totam repellat.",
-      "distance_to_venue": "96 meters",
-      "rating": 0,
-      "price_category": "low",
-      "amenities": [" WIFI", " Swimming Pool", " Pets Allowed"],
-      "address": "7873 Pascale Drives",
-      "image": "../assets/hotel4.jpg",
-      "room1": {
-        "id": 2,
-        "name": "Cremin LLC Room",
-        "description": "Harum consequatur facere. Repudiandae reprehenderit et temporibus accusantium. Nihil aliquam doloribus debitis eos et placeat recusandae quas omnis. Cumque aut vel vel qui iste veniam harum rerum quo. Consequatur temporibus aliquam inventore ad voluptates et.",
-        "max_occupancy": 3,
-        "price_in_usd": 53.730000000000004
-      },
-      "room2": {
-        "id": 3,
-        "name": "Bosco, Lang and Bernhard Room",
-        "description": "Enim saepe vitae et. Nostrum dolor id quis error. Voluptatem expedita eligendi reprehenderit corporis et nemo quia aut et. Mollitia totam asperiores rerum qui est ut.",
-        "max_occupancy": 1,
-        "price_in_usd": 92.86
-      },
-      "room3": {
-        "id": 4,
-        "name": "Leannon - Bosco Room",
-        "description": "Mollitia fugiat illo illo molestiae voluptas maiores. Omnis ad recusandae dolor enim qui natus nostrum eveniet. Ea quo fugiat iste maiores distinctio nostrum qui corrupti.",
-        "max_occupancy": 1,
-        "price_in_usd": 99.05
-      }
-    },
-    {
-      "id": 2,
-      "name": "Abbott, Gerhold and Medhurst Hotel",
-      "description": "Neque vitae velit. Et aut non ipsam non dolore illo id rerum. Suscipit voluptatum libero molestias quas qui. Quam quo repellendus quasi et earum quis consequuntur nam.",
-      "distance_to_venue": "232 meters",
-      "rating": 3,
-      "price_category": "medium",
-      "amenities": [" A/C", " Spa", " Laundry Services"],
-      "address": "0345 Stracke Rest",
-      "image": "../assets/hotel3.jpg",
-      "room1": {
-        "id": 3,
-        "name": "Howe, Hahn and Tromp Room",
-        "description": "Asperiores officia quia corrupti aut ipsa. Nostrum aperiam incidunt eum sunt labore provident. Reprehenderit omnis nostrum voluptas accusamus. Tempore aperiam eum accusamus qui adipisci ea. Ipsum perferendis culpa dolore enim amet fugit cumque magnam incidunt. Eligendi dolorem eos doloribus quod aut rerum.",
-        "max_occupancy": 2,
-        "price_in_usd": 39.67
-      },
-      "room2": {
-        "id": 4,
-        "name": "Becker Inc Room",
-        "description": "Doloremque sunt ut nihil veniam sit facilis. Eligendi aut voluptate dolorum sed ipsum. Ex iure distinctio et. Consequuntur aperiam ut velit. Corrupti eos et aut quo est ea id excepturi et.",
-        "max_occupancy": 1,
-        "price_in_usd": 6.87
-      },
-      "room3": {
-        "id": 5,
-        "name": "Rutherford, Ernser and Brakus Room",
-        "description": "Tempore esse dolorem at nobis. Atque sed tempore error quaerat omnis unde qui. Et qui soluta aut occaecati ut doloribus. Esse eum aliquid ut enim ipsa quisquam pariatur rerum.",
-        "max_occupancy": 3,
-        "price_in_usd": 37
-      }
-    },
-    {
-      "id": 3,
-      "name": "Goldner, Bins and Bailey Hotel",
-      "description": "Placeat praesentium sit odio consectetur est consectetur facilis corporis necessitatibus. Est laudantium assumenda quam nulla in. Repudiandae dolorem incidunt praesentium eum dolores odio et delectus commodi. Hic ducimus ut architecto enim ducimus quos sed voluptatem in. Cum aperiam libero voluptas sequi et qui aut quas. Aperiam voluptates saepe qui in et dolores ad.",
-      "distance_to_venue": "355 meters",
-      "rating": 2,
-      "price_category": "medium",
-      "amenities": [" Breakfast Included", " Spa", " Laundry Services"],
-      "address": "7033 Bradtke Creek",
-      "image": "../assets/hotel4.jpg",
-      "room1": {
-        "id": 4,
-        "name": "Mosciski and Sons Room",
-        "description": "Dolorem atque ducimus quos. Consequatur qui laudantium. Ut sapiente sed. Accusamus ut voluptas distinctio ipsa.",
-        "max_occupancy": 2,
-        "price_in_usd": 88.08
-      },
-      "room2": {
-        "id": 5,
-        "name": "Hills - Effertz Room",
-        "description": "Pariatur tempore ipsum veniam et esse quia dicta libero. Amet sit itaque fugit ut qui eaque voluptatem autem nesciunt. Omnis doloribus perferendis asperiores vitae blanditiis iste suscipit sint. Et asperiores repudiandae consequatur corporis et incidunt porro doloremque qui. Iusto quia qui placeat praesentium et assumenda. Temporibus rerum ducimus ut neque quibusdam et qui quaerat esse.",
-        "max_occupancy": 1,
-        "price_in_usd": 77.82000000000001
-      },
-      "room3": {
-        "id": 6,
-        "name": "Brown, Sanford and Trantow Room",
-        "description": "Qui error qui dolores repellendus voluptatum reprehenderit et molestiae molestias. Laborum eaque et molestiae reiciendis in. Voluptatem officia quis. Ullam aut magnam quia accusantium aspernatur ad ea.",
-        "max_occupancy": 3,
-        "price_in_usd": 97.01
-      }
-    },
-    {
       "id": 4,
       "name": "Luettgen, Kuphal and Willms Hotel",
       "description": "Eligendi qui culpa. Maxime omnis repellat qui cumque. Ut voluptatem distinctio vel ut. Corporis ut ipsam iure atque. Sed beatae quam libero. Nobis eveniet sit cum.",
       "distance_to_venue": "267 meters",
       "rating": 0,
       "price_category": "low",
-      "amenities": [" A/C", " Spa", " Gym"],
+      "amenities": [
+        " A/C",
+        " Spa",
+        " Gym"
+      ],
       "address": "307 Macejkovic Village",
       "image": "../assets/hotel5.jpg",
       "room1": {
@@ -135,7 +43,11 @@
       "distance_to_venue": "285 meters",
       "rating": 1,
       "price_category": "high",
-      "amenities": [" A/C", " Spa", " Laundry Services"],
+      "amenities": [
+        " A/C",
+        " Spa",
+        " Laundry Services"
+      ],
       "address": "33095 Hortense Forges",
       "image": "../assets/hotel7.jpg",
       "room1": {
@@ -203,7 +115,11 @@
       "distance_to_venue": "131 meters",
       "rating": 2,
       "price_category": "high",
-      "amenities": [" Breakfast Included", " Spa", " Pets Allowed"],
+      "amenities": [
+        " Breakfast Included",
+        " Spa",
+        " Pets Allowed"
+      ],
       "address": "224 Lincoln Crest",
       "image": "../assets/hotel6.jpg",
       "room1": {
@@ -235,7 +151,11 @@
       "distance_to_venue": "248 meters",
       "rating": 3,
       "price_category": "high",
-      "amenities": [" A/C", " Spa", " Pets Allowed"],
+      "amenities": [
+        " A/C",
+        " Spa",
+        " Pets Allowed"
+      ],
       "address": "5625 Blaise Stravenue",
       "image": "../assets/hotel5.jpg",
       "room1": {
@@ -267,7 +187,11 @@
       "distance_to_venue": "318 meters",
       "rating": 5,
       "price_category": "low",
-      "amenities": [" WIFI", " Swimming Pool", " Gym"],
+      "amenities": [
+        " WIFI",
+        " Swimming Pool",
+        " Gym"
+      ],
       "address": "83326 Schultz Loop",
       "image": "../assets/hotel7.jpg",
       "room1": {
@@ -299,7 +223,11 @@
       "distance_to_venue": "385 meters",
       "rating": 0,
       "price_category": "low",
-      "amenities": [" A/C", " Swimming Pool", " Gym"],
+      "amenities": [
+        " A/C",
+        " Swimming Pool",
+        " Gym"
+      ],
       "address": "592 Jessyca Springs",
       "image": "../assets/hotel7.jpg",
       "room1": {
@@ -331,7 +259,11 @@
       "distance_to_venue": "102 meters",
       "rating": 1,
       "price_category": "medium",
-      "amenities": [" WIFI", " Spa", " Gym"],
+      "amenities": [
+        " WIFI",
+        " Spa",
+        " Gym"
+      ],
       "address": "83863 Jammie Plaza",
       "image": "../assets/hotel5.jpg",
       "room1": {
@@ -363,7 +295,11 @@
       "distance_to_venue": "23 meters",
       "rating": 5,
       "price_category": "low",
-      "amenities": [" Breakfast Included", " Spa", " Gym"],
+      "amenities": [
+        " Breakfast Included",
+        " Spa",
+        " Gym"
+      ],
       "address": "896 Miller Shore",
       "image": "../assets/hotel4.jpg",
       "room1": {
@@ -395,7 +331,11 @@
       "distance_to_venue": "135 meters",
       "rating": 2,
       "price_category": "medium",
-      "amenities": [" WIFI", " Swimming Pool", " Laundry Services"],
+      "amenities": [
+        " WIFI",
+        " Swimming Pool",
+        " Laundry Services"
+      ],
       "address": "837 Konopelski Camp",
       "image": "../assets/hotel6.jpg",
       "room1": {
@@ -427,7 +367,11 @@
       "distance_to_venue": "392 meters",
       "rating": 2,
       "price_category": "high",
-      "amenities": [" Breakfast Included", " Free Parking", " Pets Allowed"],
+      "amenities": [
+        " Breakfast Included",
+        " Free Parking",
+        " Pets Allowed"
+      ],
       "address": "3228 Grady Land",
       "image": "../assets/hotel1.jpg",
       "room1": {
@@ -459,7 +403,11 @@
       "distance_to_venue": "87 meters",
       "rating": 4,
       "price_category": "medium",
-      "amenities": [" A/C", " Free Parking", " Laundry Services"],
+      "amenities": [
+        " A/C",
+        " Free Parking",
+        " Laundry Services"
+      ],
       "address": "825 Lowe Extension",
       "image": "../assets/hotel4.jpg",
       "room1": {
@@ -527,7 +475,11 @@
       "distance_to_venue": "392 meters",
       "rating": 3,
       "price_category": "low",
-      "amenities": [" WIFI", " Free Parking", " Gym"],
+      "amenities": [
+        " WIFI",
+        " Free Parking",
+        " Gym"
+      ],
       "address": "722 Eusebio Burgs",
       "image": "../assets/hotel6.jpg",
       "room1": {
@@ -559,7 +511,11 @@
       "distance_to_venue": "203 meters",
       "rating": 5,
       "price_category": "low",
-      "amenities": [" WIFI", " Swimming Pool", " Gym"],
+      "amenities": [
+        " WIFI",
+        " Swimming Pool",
+        " Gym"
+      ],
       "address": "7544 Baby Circle",
       "image": "../assets/hotel4.jpg",
       "room1": {
@@ -591,7 +547,11 @@
       "distance_to_venue": "140 meters",
       "rating": 4,
       "price_category": "high",
-      "amenities": [" A/C", " Spa", " Laundry Services"],
+      "amenities": [
+        " A/C",
+        " Spa",
+        " Laundry Services"
+      ],
       "address": "9107 Okuneva Island",
       "image": "../assets/hotel5.jpg",
       "room1": {
@@ -623,7 +583,11 @@
       "distance_to_venue": "123 meters",
       "rating": 4,
       "price_category": "low",
-      "amenities": [" Breakfast Included", " Spa", " Pets Allowed"],
+      "amenities": [
+        " Breakfast Included",
+        " Spa",
+        " Pets Allowed"
+      ],
       "address": "10295 Gleason Pass",
       "image": "../assets/hotel2.jpg",
       "room1": {
@@ -655,7 +619,11 @@
       "distance_to_venue": "354 meters",
       "rating": 5,
       "price_category": "high",
-      "amenities": [" Breakfast Included", " Swimming Pool", " Gym"],
+      "amenities": [
+        " Breakfast Included",
+        " Swimming Pool",
+        " Gym"
+      ],
       "address": "380 Jesse Union",
       "image": "../assets/hotel2.jpg",
       "room1": {
@@ -687,7 +655,11 @@
       "distance_to_venue": "255 meters",
       "rating": 1,
       "price_category": "low",
-      "amenities": [" Breakfast Included", " Swimming Pool", " Gym"],
+      "amenities": [
+        " Breakfast Included",
+        " Swimming Pool",
+        " Gym"
+      ],
       "address": "950 Meredith Lock",
       "image": "../assets/hotel3.jpg",
       "room1": {
@@ -719,7 +691,11 @@
       "distance_to_venue": "306 meters",
       "rating": 5,
       "price_category": "medium",
-      "amenities": [" WIFI", " Spa", " Gym"],
+      "amenities": [
+        " WIFI",
+        " Spa",
+        " Gym"
+      ],
       "address": "89832 Hirthe Ways",
       "image": "../assets/hotel3.jpg",
       "room1": {
@@ -751,7 +727,11 @@
       "distance_to_venue": "222 meters",
       "rating": 2,
       "price_category": "medium",
-      "amenities": [" WIFI", " Swimming Pool", " Laundry Services"],
+      "amenities": [
+        " WIFI",
+        " Swimming Pool",
+        " Laundry Services"
+      ],
       "address": "386 Oran Way",
       "image": "../assets/hotel4.jpg",
       "room1": {
@@ -783,7 +763,11 @@
       "distance_to_venue": "115 meters",
       "rating": 0,
       "price_category": "medium",
-      "amenities": [" Breakfast Included", " Swimming Pool", " Pets Allowed"],
+      "amenities": [
+        " Breakfast Included",
+        " Swimming Pool",
+        " Pets Allowed"
+      ],
       "address": "535 Christ Fork",
       "image": "../assets/hotel7.jpg",
       "room1": {
@@ -815,7 +799,11 @@
       "distance_to_venue": "51 meters",
       "rating": 3,
       "price_category": "high",
-      "amenities": [" A/C", " Spa", " Laundry Services"],
+      "amenities": [
+        " A/C",
+        " Spa",
+        " Laundry Services"
+      ],
       "address": "05964 Osbaldo Mountain",
       "image": "../assets/hotel5.jpg",
       "room1": {
@@ -883,7 +871,11 @@
       "distance_to_venue": "200 meters",
       "rating": 1,
       "price_category": "medium",
-      "amenities": [" Breakfast Included", " Spa", " Gym"],
+      "amenities": [
+        " Breakfast Included",
+        " Spa",
+        " Gym"
+      ],
       "address": "2735 Lubowitz Burg",
       "image": "../assets/hotel6.jpg",
       "room1": {
@@ -915,7 +907,11 @@
       "distance_to_venue": "286 meters",
       "rating": 2,
       "price_category": "medium",
-      "amenities": [" A/C", " Free Parking", " Gym"],
+      "amenities": [
+        " A/C",
+        " Free Parking",
+        " Gym"
+      ],
       "address": "7693 Bartoletti Curve",
       "image": "../assets/hotel7.jpg",
       "room1": {
@@ -947,7 +943,11 @@
       "distance_to_venue": "300 meters",
       "rating": 3,
       "price_category": "high",
-      "amenities": [" Breakfast Included", " Swimming Pool", " Pets Allowed"],
+      "amenities": [
+        " Breakfast Included",
+        " Swimming Pool",
+        " Pets Allowed"
+      ],
       "address": "146 Swift Heights",
       "image": "../assets/hotel1.jpg",
       "room1": {
