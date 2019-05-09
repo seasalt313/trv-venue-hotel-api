@@ -1,1 +1,972 @@
-{"hotels":[{"id":1,"name":"Swaniawski LLC Hotel","description":"Nesciunt vel ut eum eligendi repellendus fugiat culpa facilis. Voluptas facilis quasi. Blanditiis reiciendis omnis soluta est modi harum pariatur nisi debitis. Animi omnis et qui aliquam molestiae et ut id. Facere ipsa enim voluptatem.","distance_to_venue":"295 meters","rating":2,"price_category":"low","amenities":[" WIFI"," Spa"," Laundry Services"],"address":"49166 Nya Corners","image":"../assets/hotel7.jpg","room1":{"id":2,"name":"Rippin - Hermann Room","description":"Commodi rerum in totam. Aut sit non hic laudantium accusamus et a pariatur expedita. Amet doloremque et quam. Quam libero laborum laudantium maxime adipisci. Nam mollitia quis aliquid magnam adipisci magnam dolorem. Libero corrupti explicabo magni incidunt provident iste voluptatem enim non.","max_occupancy":2,"price_in_usd":99.51},"room2":{"id":3,"name":"Lynch, McGlynn and Mills Room","description":"Expedita consequatur animi minima est qui earum officia dolores sed. In in et et non culpa. Sequi cum voluptate eius. Corrupti laborum qui error reiciendis rem omnis quia blanditiis. Qui aliquam dolore magni molestiae eveniet doloribus dolore impedit et.","max_occupancy":4,"price_in_usd":6.32},"room3":{"id":4,"name":"Grant LLC Room","description":"Molestiae perferendis adipisci molestiae expedita dolores ea. Sed autem repellendus. Sunt est ut repellat corporis hic quos sed.","max_occupancy":2,"price_in_usd":99.61}},{"id":2,"name":"Kemmer, Glover and Zemlak Hotel","description":"Quia architecto maiores. Ut dicta quae. Dolores et labore ipsa quis maxime quibusdam id.","distance_to_venue":"167 meters","rating":2,"price_category":"medium","amenities":[" Breakfast Included"," Swimming Pool"," Gym"],"address":"5146 Deckow Circle","image":"../assets/hotel4.jpg","room1":{"id":3,"name":"Schoen and Sons Room","description":"Tempore ut natus quo quod in dolor qui qui. Consequatur commodi similique a error. Officia odio maxime nemo animi facilis et et. Hic id eos placeat est distinctio optio omnis expedita. Non asperiores qui asperiores sequi exercitationem ipsam quidem aspernatur ut.","max_occupancy":4,"price_in_usd":32.68},"room2":{"id":4,"name":"Bernier, O'Reilly and Emard Room","description":"Voluptates occaecati aliquid porro debitis dolores et error eaque. Iste dolore molestiae pariatur non ea molestiae cupiditate voluptas nisi. Rerum et magni temporibus adipisci.","max_occupancy":3,"price_in_usd":51.56},"room3":{"id":5,"name":"Hilll, Mitchell and Larkin Room","description":"Debitis id optio vitae. Molestias aut reiciendis voluptatem laudantium rerum enim suscipit tempore. Inventore ut eligendi. Vel in aliquam itaque aut.","max_occupancy":1,"price_in_usd":57.61}},{"id":3,"name":"Hyatt - Ebert Hotel","description":"Soluta omnis cum. Qui error itaque qui dolor tempore dignissimos impedit aut. Inventore ab eos ab unde voluptate placeat dolores et. Ab eum quo ipsum debitis dicta expedita maxime.","distance_to_venue":"149 meters","rating":3,"price_category":"high","amenities":[" A/C"," Swimming Pool"," Gym"],"address":"6618 Betsy Trail","image":"../assets/hotel4.jpg","room1":{"id":4,"name":"Mohr Inc Room","description":"Aut quod esse quisquam atque recusandae est at. Quia et quia nisi vero. Est pariatur dolorem veritatis consequatur eius unde quis sequi. Sed repellat sit dolorem quae. Et id iusto velit voluptas expedita vitae. Dolores cupiditate facilis cupiditate asperiores provident eum.","max_occupancy":4,"price_in_usd":68.22},"room2":{"id":5,"name":"Wunsch LLC Room","description":"Non non ut labore quae eum ipsam laboriosam reprehenderit. Delectus laborum molestiae deleniti. Odio asperiores esse earum voluptate accusantium.","max_occupancy":3,"price_in_usd":35.92},"room3":{"id":6,"name":"Rogahn, Nienow and Kessler Room","description":"Dignissimos consequatur delectus. Eligendi rerum expedita placeat. Quasi iusto iusto non quis. Excepturi incidunt necessitatibus. Omnis exercitationem nobis est.","max_occupancy":1,"price_in_usd":59.32}},{"id":4,"name":"Sporer - Brown Hotel","description":"Rerum est in magnam adipisci dicta iure. Eum voluptate sapiente ipsa voluptatem. Nisi et accusantium rerum. Ex fuga blanditiis quibusdam architecto excepturi assumenda. Quia labore officia voluptates nulla. Corrupti quod eos nulla reprehenderit voluptatem omnis necessitatibus sunt.","distance_to_venue":"17 meters","rating":2,"price_category":"low","amenities":[" WIFI"," Free Parking"," Gym"],"address":"4176 Schamberger Center","image":"../assets/hotel6.jpg","room1":{"id":5,"name":"Stamm - Haag Room","description":"Nemo ea debitis nesciunt totam et et est repudiandae temporibus. Sed saepe vitae magni dolorum adipisci commodi velit. Nulla odit dolorem accusantium nihil perferendis voluptatum et vitae nihil. Omnis consequatur harum quis ut aut itaque consequatur et quas.","max_occupancy":1,"price_in_usd":2.61},"room2":{"id":6,"name":"Bogan Inc Room","description":"Saepe ea enim enim architecto eligendi itaque. Ex eum fugit dolorum est qui quidem. Aut atque doloremque id eius iure voluptatum consectetur dolores voluptatum. Est soluta et animi voluptatibus debitis autem alias repudiandae hic. Repellat at quo.","max_occupancy":2,"price_in_usd":49.730000000000004},"room3":{"id":7,"name":"Hudson and Sons Room","description":"Saepe placeat fugit exercitationem. Placeat ut omnis saepe ut possimus nihil enim. Inventore et dicta molestias dolor minus quisquam laudantium. Veritatis cum iusto quasi rerum amet possimus eum ut. Autem corrupti esse consequatur sunt aut velit itaque.","max_occupancy":1,"price_in_usd":52.65}},{"id":5,"name":"Ryan Group Hotel","description":"Temporibus temporibus voluptas sunt laboriosam. Quia eum ea aut nisi aut tenetur illum occaecati sed. Et et aut recusandae distinctio hic quisquam et. Illo qui itaque omnis nihil unde nihil hic. Vel modi veniam aspernatur facilis. Rem aperiam quia repellat corrupti.","distance_to_venue":"249 meters","rating":3,"price_category":"low","amenities":[" WIFI"," Swimming Pool"," Laundry Services"],"address":"4983 Kulas Rapids","image":"../assets/hotel5.jpg","room1":{"id":6,"name":"Mohr - Shanahan Room","description":"Impedit laboriosam maiores sed hic accusamus ut. Rerum sunt voluptatem ab. Perspiciatis asperiores ut qui sunt. Est sit in aliquam quis aut numquam ipsa illo minima. Enim veniam velit reiciendis eveniet accusamus.","max_occupancy":1,"price_in_usd":49.07},"room2":{"id":7,"name":"Bayer, O'Reilly and Jakubowski Room","description":"Occaecati quis et fuga architecto vitae consequatur. Autem quibusdam possimus eum sed eius accusamus. Optio nam est neque enim. Similique quos incidunt eligendi iste explicabo reprehenderit est. Architecto deserunt cumque aut recusandae est. Illo labore voluptatibus nobis et magni et aut vero.","max_occupancy":2,"price_in_usd":64.19},"room3":{"id":8,"name":"Goyette, Kiehn and Little Room","description":"Quos quis et ut officiis. Voluptatem architecto iure debitis repellendus accusantium cupiditate eaque culpa. Nihil incidunt sed. Inventore sed omnis. Eius deserunt sed voluptatem. Aperiam cupiditate eligendi id non.","max_occupancy":2,"price_in_usd":35.71}},{"id":6,"name":"Goodwin, Beier and Collier Hotel","description":"Sunt est unde omnis molestias et eos necessitatibus aliquam. Itaque quam distinctio quis commodi minus exercitationem. Omnis eveniet ipsam alias voluptas et ut alias.","distance_to_venue":"322 meters","rating":1,"price_category":"low","amenities":[" WIFI"," Swimming Pool"," Pets Allowed"],"address":"19199 Kim Lock","image":"../assets/hotel7.jpg","room1":{"id":7,"name":"Torphy LLC Room","description":"Consectetur dolores aut illum consequatur sint optio unde unde. Sapiente numquam quia magnam voluptatem non quis mollitia ut. Quisquam voluptatem impedit earum deserunt ut ut laudantium enim consequatur. Optio ipsam qui iste quis hic. Minima magnam maxime voluptas eius. Quidem assumenda dolorem recusandae commodi praesentium quia ad et dolorem.","max_occupancy":3,"price_in_usd":80.43},"room2":{"id":8,"name":"Blanda, Murazik and Lind Room","description":"Numquam est omnis. In eum perferendis deserunt eligendi corporis rerum quos sint. Incidunt molestiae dolor sit est.","max_occupancy":2,"price_in_usd":2.1},"room3":{"id":9,"name":"Kihn - Cormier Room","description":"Voluptate ut vero molestias recusandae omnis impedit autem nisi. Expedita assumenda sunt aut molestias dolorem impedit iusto vel est. Voluptas qui quia id praesentium consequatur culpa vero natus. Quis corporis at incidunt. Magni et asperiores qui hic ipsa consectetur natus.","max_occupancy":4,"price_in_usd":96.82000000000001}},{"id":7,"name":"Schumm - Hilpert Hotel","description":"Vero fugit aut fugit. Rem consectetur fugiat iure cum sunt id ut nemo nostrum. Est cumque molestiae natus nulla sunt omnis temporibus expedita quia. Occaecati sed possimus omnis magnam.","distance_to_venue":"188 meters","rating":2,"price_category":"high","amenities":[" Breakfast Included"," Spa"," Laundry Services"],"address":"977 Botsford Divide","image":"../assets/hotel4.jpg","room1":{"id":8,"name":"Parker, Nolan and Walker Room","description":"Atque illo vero ut repudiandae quo nemo hic commodi. Voluptas dolorem rerum assumenda. Distinctio tenetur totam earum soluta accusamus mollitia. Mollitia debitis dolor.","max_occupancy":4,"price_in_usd":3.89},"room2":{"id":9,"name":"Runolfsson - Toy Room","description":"Quaerat error ipsam autem sit. Quod est repudiandae et velit corrupti aut quo vel. Est velit perspiciatis atque maiores enim qui non.","max_occupancy":3,"price_in_usd":15.65},"room3":{"id":10,"name":"Haag and Sons Room","description":"Adipisci iusto vel quia non quidem cumque. Accusamus deserunt ullam ducimus laboriosam dolorem et eum assumenda qui. Ea veniam soluta sed tenetur. Quia aut enim quaerat architecto rem. Cum consequatur sit sed molestiae ipsum numquam harum sunt sunt.","max_occupancy":4,"price_in_usd":25.64}},{"id":8,"name":"Kilback - Medhurst Hotel","description":"Rerum non et accusamus. Consequatur sunt natus. Optio voluptatum ad ut iure enim explicabo.","distance_to_venue":"172 meters","rating":5,"price_category":"high","amenities":[" WIFI"," Spa"," Laundry Services"],"address":"2866 Vandervort River","image":"../assets/hotel7.jpg","room1":{"id":9,"name":"Lang, Shields and Beatty Room","description":"Id hic aut autem. Temporibus earum hic deserunt laudantium rerum error dignissimos quia corrupti. Est aut ea officiis est aliquid. Et similique non est expedita velit repellat. Error quidem in nihil ut omnis. Voluptatem occaecati in earum doloribus fugiat nostrum eaque.","max_occupancy":2,"price_in_usd":39.68},"room2":{"id":10,"name":"Lakin LLC Room","description":"Incidunt illum quae. Occaecati quis necessitatibus aut voluptatem dolore qui a iure impedit. Similique ut iure id est enim hic. Quo ut maxime corporis quia consequatur. Aspernatur quaerat odio.","max_occupancy":1,"price_in_usd":41.78},"room3":{"id":11,"name":"Windler and Sons Room","description":"Ad aut iusto vitae eaque id. Rem accusamus voluptas. Unde explicabo ducimus fuga debitis vel harum laborum. Quia reiciendis quia voluptatem. Eligendi impedit et voluptatem veritatis minima laudantium. Repellat nemo et tenetur explicabo qui eius maxime ratione.","max_occupancy":3,"price_in_usd":93.43}},{"id":9,"name":"Ritchie - Crist Hotel","description":"Minus quo veritatis. Harum aliquam deserunt dolores. Est sint et pariatur quasi.","distance_to_venue":"112 meters","rating":2,"price_category":"medium","amenities":[" WIFI"," Spa"," Pets Allowed"],"address":"9618 Hagenes Inlet","image":"../assets/hotel1.jpg","room1":{"id":10,"name":"Rice Group Room","description":"Temporibus voluptatibus qui provident maxime in. Nisi et id earum voluptatem cumque et. Non odit ut et occaecati soluta.","max_occupancy":3,"price_in_usd":3.71},"room2":{"id":11,"name":"Schneider and Sons Room","description":"Pariatur aut consequuntur. Optio accusamus sapiente reiciendis enim quidem sed consequuntur porro dicta. Et similique reiciendis enim iure sunt et eius.","max_occupancy":2,"price_in_usd":74.72},"room3":{"id":12,"name":"Pollich, Haag and Littel Room","description":"Autem in earum veniam aut illum. Molestias ad non impedit ipsa illum dignissimos. Sit sit corrupti consequatur quis. Perspiciatis in sapiente quis nam non nihil culpa dolorem.","max_occupancy":2,"price_in_usd":5.4}},{"id":10,"name":"Hilll, Schuppe and Emard Hotel","description":"Ex excepturi at maxime et. Iste sed omnis aliquam. Dolor consequuntur voluptatum tempore expedita quis nesciunt et. Ipsa ut cum esse quasi rerum ducimus modi non. Accusantium ex quaerat aperiam. Consequuntur error consequatur soluta cumque ipsum pariatur.","distance_to_venue":"371 meters","rating":3,"price_category":"medium","amenities":[" Breakfast Included"," Spa"," Laundry Services"],"address":"4946 Schiller Mall","image":"../assets/hotel4.jpg","room1":{"id":11,"name":"Zieme - Boehm Room","description":"Veniam ut eos molestiae quia cum sint eum non. Quo sunt error vitae ea odit debitis explicabo corporis aliquam. Impedit autem eligendi quia. Repudiandae debitis maiores vel voluptas eveniet dolores qui labore sunt.","max_occupancy":3,"price_in_usd":31.38},"room2":{"id":12,"name":"Waelchi LLC Room","description":"Laborum iusto nisi ut. Ratione cum quo aliquid. Architecto maiores quia sapiente. Cum vel nihil perspiciatis et. Aliquam possimus vitae fugiat quia sit enim. Id quo officia.","max_occupancy":1,"price_in_usd":72.31},"room3":{"id":13,"name":"Kuphal and Sons Room","description":"Et perspiciatis et quia nobis quis et culpa. Nostrum ut quaerat esse laboriosam qui quia dicta. Enim soluta beatae porro aut omnis ut optio deserunt. Tempora ut perspiciatis qui repudiandae sed omnis nihil. Ipsam molestias necessitatibus. Quibusdam debitis sit.","max_occupancy":1,"price_in_usd":51.94}},{"id":11,"name":"Treutel, Mayer and Quigley Hotel","description":"Quis quia ea iste. Autem ab quaerat doloremque illo ipsa qui sint qui sed. Nihil eum nemo est et et veniam est in et. Praesentium aperiam exercitationem eligendi possimus occaecati consequatur magni. Et voluptatibus illum modi optio mollitia ut rem perspiciatis.","distance_to_venue":"51 meters","rating":3,"price_category":"high","amenities":[" Breakfast Included"," Swimming Pool"," Laundry Services"],"address":"490 Filomena Trafficway","image":"../assets/hotel3.jpg","room1":{"id":12,"name":"Cormier - Walsh Room","description":"Molestiae et dolores quo. Placeat dolore ex necessitatibus et et exercitationem. Maxime voluptas et animi eligendi sint eum et assumenda.","max_occupancy":2,"price_in_usd":87.67},"room2":{"id":13,"name":"Swaniawski, Mayer and Bogan Room","description":"Eos impedit cum fugit id veniam dolore quis. Reiciendis optio ea minima in. Eligendi eum cumque quae velit sed.","max_occupancy":3,"price_in_usd":67.2},"room3":{"id":14,"name":"Dare, Barton and Connelly Room","description":"Maxime corrupti blanditiis. At velit dolore quasi repellat velit neque expedita non. Est temporibus ad quia voluptatem voluptas unde. Quia aliquid quam provident molestias. Rerum et nihil sed ut vel.","max_occupancy":3,"price_in_usd":40.57}},{"id":12,"name":"Bernhard and Sons Hotel","description":"A repellendus sit incidunt voluptatum voluptate sunt quia temporibus. Error ea eaque sunt ducimus ipsum enim consequatur id. Perferendis ea exercitationem ut placeat sequi facere numquam. Excepturi et et.","distance_to_venue":"116 meters","rating":3,"price_category":"medium","amenities":[" WIFI"," Spa"," Pets Allowed"],"address":"58425 Blanche Grove","image":"../assets/hotel2.jpg","room1":{"id":13,"name":"Walter - Kihn Room","description":"Aut omnis numquam. Ab enim odio velit ea at et alias sapiente. Amet rerum similique ut occaecati voluptatum et sint magni. Omnis ipsum ut non eveniet. Voluptas nobis vel asperiores nisi dolorum ut eos aut. Aut blanditiis repellat consequuntur corporis voluptatem iusto.","max_occupancy":2,"price_in_usd":30.48},"room2":{"id":14,"name":"Larson, Collier and Dooley Room","description":"Ducimus aut reprehenderit dolorem asperiores minima voluptas quidem consectetur. Et consequatur necessitatibus. Sit voluptates velit.","max_occupancy":1,"price_in_usd":66.75},"room3":{"id":15,"name":"Friesen - Hoppe Room","description":"Nihil sunt iure tenetur distinctio accusamus est voluptatem illo aut. Quae eius deleniti consectetur expedita eos alias sed. Quia ratione quia.","max_occupancy":3,"price_in_usd":82.47}},{"id":13,"name":"VonRueden Group Hotel","description":"Quis fuga porro sit non. Est sed cumque aut exercitationem animi. Sequi minima neque et eos voluptas in omnis et rem. Accusamus omnis adipisci culpa in. Doloribus praesentium explicabo qui deserunt dolor iusto.","distance_to_venue":"236 meters","rating":2,"price_category":"high","amenities":[" Breakfast Included"," Swimming Pool"," Pets Allowed"],"address":"6690 Cole Centers","image":"../assets/hotel4.jpg","room1":{"id":14,"name":"Konopelski, Kuvalis and Haley Room","description":"Quisquam maiores ipsam et corporis nostrum et fugit quis dolores. Ducimus ab quisquam eligendi dolorem et soluta quos. Eveniet quos voluptas voluptates unde. Sunt id voluptatem minima qui itaque vitae ea. Architecto veniam in repellendus perspiciatis non vero sint. Ipsa repellat odio voluptatem voluptas eligendi deleniti cumque.","max_occupancy":4,"price_in_usd":92.71000000000001},"room2":{"id":15,"name":"Fay, O'Keefe and Turcotte Room","description":"Enim consequatur quia porro rerum similique. Officiis perferendis labore consequatur eaque consequatur ipsam et natus. Tempore aspernatur quo aspernatur sint expedita enim tempora consequuntur deserunt. Quaerat earum omnis pariatur fugiat exercitationem. Deleniti in fugiat officiis. Reprehenderit quia fuga qui culpa dolore quo facilis blanditiis iusto.","max_occupancy":2,"price_in_usd":74.12},"room3":{"id":16,"name":"Aufderhar - Marvin Room","description":"Et totam nostrum adipisci dolorum eum nesciunt. Perferendis labore sapiente animi sed ad est sint expedita accusantium. Aliquam aspernatur voluptatem ea et et cupiditate expedita in magnam.","max_occupancy":3,"price_in_usd":4.09}},{"id":14,"name":"Medhurst - Bins Hotel","description":"Possimus saepe incidunt. Distinctio fuga sequi officia necessitatibus aperiam et et aut id. Eos praesentium id dolores perspiciatis tenetur.","distance_to_venue":"232 meters","rating":2,"price_category":"medium","amenities":[" A/C"," Free Parking"," Pets Allowed"],"address":"7258 Lukas Locks","image":"../assets/hotel5.jpg","room1":{"id":15,"name":"Maggio and Sons Room","description":"Dolorum consequuntur delectus cum dolorem tempora illo. Quod dolore in facere ut in. Et nulla deleniti eos.","max_occupancy":4,"price_in_usd":69.05},"room2":{"id":16,"name":"Klein, Bartoletti and Pouros Room","description":"Ut dolorem ea soluta. Totam tempora nisi eum laboriosam quis quis. Culpa qui aspernatur necessitatibus sed exercitationem.","max_occupancy":2,"price_in_usd":10.19},"room3":{"id":17,"name":"Bode - Sipes Room","description":"Illum qui asperiores et eum assumenda est. Neque dolorem nemo quisquam hic quo. Voluptate aut molestiae aut. Suscipit quo eum et sed ad.","max_occupancy":1,"price_in_usd":27.59}},{"id":15,"name":"Rowe - Jast Hotel","description":"Quia perferendis ut deserunt est dolores totam. Itaque placeat reiciendis omnis cum vero autem repellendus fugiat maxime. Expedita doloremque unde quia consequatur voluptatem cum. Consequatur non et qui et animi.","distance_to_venue":"237 meters","rating":0,"price_category":"high","amenities":[" Breakfast Included"," Swimming Pool"," Gym"],"address":"613 Eula Stravenue","image":"../assets/hotel6.jpg","room1":{"id":16,"name":"Wyman - Wuckert Room","description":"Recusandae ipsa eaque pariatur quam. Debitis minus temporibus saepe sunt odit veritatis ut ab. Aut accusamus enim. Et quos quos. Molestias quis est unde consequatur hic repudiandae ab beatae.","max_occupancy":4,"price_in_usd":98.66},"room2":{"id":17,"name":"Nicolas, Sipes and Borer Room","description":"Iure ea facilis quod sed ullam voluptas officiis. Quia placeat qui dolorum nesciunt quasi dolor nihil dicta. Veniam inventore ut.","max_occupancy":4,"price_in_usd":11.09},"room3":{"id":18,"name":"Grant, Rutherford and Labadie Room","description":"Provident non quae tempore eum molestiae fugit consectetur sed. Omnis est sit commodi cupiditate in vero. Autem qui doloremque nulla sapiente qui.","max_occupancy":4,"price_in_usd":28.21}},{"id":16,"name":"Jerde - Weimann Hotel","description":"Nesciunt et asperiores qui sit. Rerum blanditiis aspernatur architecto in dolor modi hic velit. Culpa voluptate earum fugit quisquam ex. Est et voluptatum ut accusantium molestiae ipsa optio saepe. Vitae adipisci iure velit qui nemo est.","distance_to_venue":"113 meters","rating":2,"price_category":"medium","amenities":[" A/C"," Free Parking"," Pets Allowed"],"address":"134 Price Inlet","image":"../assets/hotel1.jpg","room1":{"id":17,"name":"Barton Group Room","description":"Nisi rerum consequatur sed sint laboriosam sed non. Quia quo tenetur distinctio similique rerum. Beatae sapiente possimus. Neque rerum nam maiores.","max_occupancy":1,"price_in_usd":6.98},"room2":{"id":18,"name":"Reynolds LLC Room","description":"Itaque et iusto et et sit dolores. Quidem porro ex occaecati ratione architecto sint voluptates. Possimus voluptatum rerum quas dicta omnis minima perspiciatis sunt. Repellendus occaecati repellendus dolorem ea. Accusamus expedita ipsa voluptate vitae in ea dolor et non.","max_occupancy":2,"price_in_usd":2.31},"room3":{"id":19,"name":"Nicolas - Cremin Room","description":"Qui quisquam quibusdam. Ut in sint eaque veritatis. Aut consectetur sed nam vel quas et. Vero esse qui odio rerum quo. Enim nostrum qui alias sit ut dolorem. Labore eos tenetur.","max_occupancy":3,"price_in_usd":26.12}},{"id":17,"name":"Hauck LLC Hotel","description":"Impedit veniam id eos. Laudantium explicabo corporis eius est dolor. Praesentium facere omnis sed.","distance_to_venue":"112 meters","rating":0,"price_category":"medium","amenities":[" WIFI"," Free Parking"," Laundry Services"],"address":"277 Courtney Inlet","image":"../assets/hotel3.jpg","room1":{"id":18,"name":"Botsford Group Room","description":"Sit at veritatis iure quos aut et dolorum incidunt porro. Quod vel non in. Omnis quae reiciendis beatae eligendi. Quibusdam omnis aut sit.","max_occupancy":3,"price_in_usd":50.36},"room2":{"id":19,"name":"Runolfsson Inc Room","description":"Quae ullam maiores. Doloribus exercitationem alias natus dolores aut possimus. Qui qui id. Ut deserunt voluptas quasi recusandae. Non mollitia non corrupti quo provident voluptas nostrum. Tempore nesciunt enim culpa ratione ut consequuntur.","max_occupancy":4,"price_in_usd":66.54},"room3":{"id":20,"name":"Quitzon LLC Room","description":"Hic dolor est quo perferendis eos. Qui nemo possimus aliquid quisquam necessitatibus exercitationem. Rerum iste nihil dicta repellat. Doloribus accusantium blanditiis. Libero eos velit porro ut dolore laudantium eum debitis ex. Repudiandae architecto laborum sed dolor et inventore vero.","max_occupancy":1,"price_in_usd":90.02}},{"id":18,"name":"Yundt - Pollich Hotel","description":"Nostrum consequatur at porro praesentium enim vero est qui nobis. Enim molestiae animi in quas ipsa magnam quia vitae quaerat. Et ut deserunt et voluptatem sed. Et porro id maxime quia dolorem voluptatem.","distance_to_venue":"341 meters","rating":0,"price_category":"high","amenities":[" WIFI"," Free Parking"," Laundry Services"],"address":"23036 Haley Roads","image":"../assets/hotel2.jpg","room1":{"id":19,"name":"Kemmer, Witting and Feest Room","description":"Odit optio excepturi amet eos. Maxime suscipit delectus. Eum laborum deleniti quam ut. Eum omnis voluptatem voluptatum sunt aut ut recusandae.","max_occupancy":1,"price_in_usd":72.68},"room2":{"id":20,"name":"Jenkins, Dicki and Greenfelder Room","description":"Quibusdam quo architecto autem. Distinctio dolorem ut rerum neque nulla non voluptatibus. Explicabo culpa omnis assumenda.","max_occupancy":3,"price_in_usd":76.55},"room3":{"id":21,"name":"Rogahn - Collier Room","description":"Nesciunt saepe omnis dolorum ducimus pariatur suscipit. Dolores distinctio officiis explicabo esse. Accusantium voluptas accusamus quia quasi tempore voluptas qui placeat dignissimos. Voluptatem mollitia iure ut officia. Quod aut et omnis reiciendis ipsum voluptas.","max_occupancy":4,"price_in_usd":30.03}},{"id":19,"name":"Bode, Kuhn and Keeling Hotel","description":"Molestiae consequuntur officiis aut velit fugit. Et repellendus enim ut at est enim hic. Commodi est consequatur totam in culpa quo facere dolorum.","distance_to_venue":"308 meters","rating":1,"price_category":"low","amenities":[" Breakfast Included"," Swimming Pool"," Pets Allowed"],"address":"5177 Raegan Mountain","image":"../assets/hotel6.jpg","room1":{"id":20,"name":"Feest - Feil Room","description":"Quibusdam sunt suscipit. Quam et expedita. Veritatis ut labore. Quidem voluptates autem quasi atque aliquid quaerat ipsa dolore ipsa. Optio dicta labore delectus error nostrum ut ipsa. Velit sunt eos doloremque qui accusamus necessitatibus neque odit.","max_occupancy":4,"price_in_usd":50.03},"room2":{"id":21,"name":"Senger, Dietrich and Olson Room","description":"Culpa odio id quia sint aut non eius libero. Dolores culpa enim repellat inventore excepturi molestias velit. Occaecati numquam consequatur iure qui numquam. Doloremque velit quia numquam beatae sit.","max_occupancy":3,"price_in_usd":4.26},"room3":{"id":22,"name":"Beier, Baumbach and Yundt Room","description":"Maiores architecto corrupti sunt et suscipit ut architecto aut ut. Ea culpa excepturi sit velit et voluptatem vero sunt. Voluptas nostrum officia amet omnis dolor aut adipisci.","max_occupancy":1,"price_in_usd":96.23}},{"id":20,"name":"Zieme Inc Hotel","description":"At ipsum nobis ut. Qui voluptatem sed nihil. Atque delectus quaerat maxime consequatur et sunt quod. Autem nisi nobis nobis harum ut enim. Id quam ad velit.","distance_to_venue":"290 meters","rating":1,"price_category":"high","amenities":[" A/C"," Free Parking"," Gym"],"address":"71559 Rutherford Burgs","image":"../assets/hotel6.jpg","room1":{"id":21,"name":"Parisian and Sons Room","description":"Vel quis veritatis repudiandae ipsam perspiciatis blanditiis sequi in nihil. Expedita quia adipisci. Velit cum error. Qui cum tempore.","max_occupancy":2,"price_in_usd":43.15},"room2":{"id":22,"name":"Ebert, Champlin and Emard Room","description":"Blanditiis minus impedit ea sit. Commodi architecto optio quibusdam exercitationem quis est cupiditate assumenda. Et adipisci in illum accusamus amet in fuga. Nisi asperiores officia aut rem et dolorum. Veritatis velit fugit.","max_occupancy":4,"price_in_usd":34.51},"room3":{"id":23,"name":"Hettinger - Skiles Room","description":"Tempore iure ea explicabo cumque eum numquam recusandae et. Sed et et eveniet dolorum delectus reprehenderit delectus veritatis aperiam. Nihil fuga amet sunt. Architecto officiis et sed est nemo rerum. In optio ullam ut aut nisi.","max_occupancy":3,"price_in_usd":26.68}},{"id":21,"name":"Kessler LLC Hotel","description":"Excepturi et id et beatae cupiditate quasi ipsa. Quisquam exercitationem placeat sit et soluta hic minus. Molestiae voluptatem ipsum et molestiae laborum et voluptatem voluptas et. Nihil sed voluptatem qui nisi. Totam accusantium soluta exercitationem.","distance_to_venue":"40 meters","rating":3,"price_category":"low","amenities":[" WIFI"," Free Parking"," Gym"],"address":"804 Windler Row","image":"../assets/hotel3.jpg","room1":{"id":22,"name":"Kiehn - Larkin Room","description":"Officia laboriosam inventore laborum molestias. Molestias quam quo non. Sunt in ut amet. Commodi ab necessitatibus sint et quae iste magnam quia rerum.","max_occupancy":1,"price_in_usd":3.93},"room2":{"id":23,"name":"Schinner, Wilderman and Braun Room","description":"Deserunt unde similique veritatis possimus laboriosam est et. Occaecati laborum ea dicta ratione quo et. Et est molestiae dolor ea dolores quas. Maiores facilis provident repellendus esse saepe vero iure. Beatae voluptas ut sit quia accusamus laboriosam dicta officia. Magnam sit aut corporis nesciunt nobis quidem delectus sit.","max_occupancy":2,"price_in_usd":48.160000000000004},"room3":{"id":24,"name":"Goldner, Price and Pacocha Room","description":"Ab sint qui laborum velit animi libero deleniti. Rerum et voluptates est optio occaecati veritatis velit sint. Consequatur et libero cumque deleniti facilis. Consequatur dolores dolores commodi ut similique assumenda sed.","max_occupancy":1,"price_in_usd":90.33}},{"id":22,"name":"Huels - Robel Hotel","description":"Aspernatur nulla excepturi mollitia consectetur odit autem vel. Qui non suscipit laboriosam repudiandae sed omnis pariatur ut. Non dolores id explicabo qui. Necessitatibus nesciunt corporis nobis. Ullam rerum delectus unde magnam perspiciatis saepe unde autem. Quae aut perferendis rerum.","distance_to_venue":"72 meters","rating":2,"price_category":"low","amenities":[" WIFI"," Swimming Pool"," Gym"],"address":"677 Nikolaus Squares","image":"../assets/hotel6.jpg","room1":{"id":23,"name":"Walter Inc Room","description":"Quam quo rem dolorem vitae praesentium. Aut libero debitis eveniet dolor temporibus id iure facilis. Non dolor praesentium ut odio reiciendis libero et.","max_occupancy":1,"price_in_usd":52.65},"room2":{"id":24,"name":"Rosenbaum, Barton and Bogan Room","description":"Quia minus excepturi ipsam quia minima. Ducimus et dolor et. Nisi cupiditate voluptatem neque necessitatibus impedit qui.","max_occupancy":1,"price_in_usd":14.07},"room3":{"id":25,"name":"Wisoky, Koepp and Durgan Room","description":"Ipsum iusto impedit corporis natus. Et quidem voluptas animi consequuntur sit eum voluptas consequuntur. Praesentium optio non sint. Ullam accusamus minima et ab qui et eos.","max_occupancy":1,"price_in_usd":29.73}},{"id":23,"name":"Weissnat Group Hotel","description":"Corrupti inventore neque corrupti ut dicta blanditiis id quidem saepe. Et omnis alias laboriosam esse voluptatem velit quidem. Consequatur quaerat sit facere voluptatibus id maiores architecto dignissimos aliquid.","distance_to_venue":"127 meters","rating":4,"price_category":"medium","amenities":[" A/C"," Swimming Pool"," Gym"],"address":"582 Abshire Vista","image":"../assets/hotel7.jpg","room1":{"id":24,"name":"Corkery - Farrell Room","description":"Magni ipsum molestias animi excepturi. Voluptatum odit aliquam consequatur ipsa. In rerum porro aut et hic accusantium libero explicabo.","max_occupancy":1,"price_in_usd":38.1},"room2":{"id":25,"name":"Boehm Inc Room","description":"Suscipit nisi quia dolorem ducimus voluptas non eius. Minima illo aut magnam in earum et. Velit ut quisquam eos eos consequatur earum. Quos eum et nobis sed. Voluptate vel numquam fuga est eaque et dolorum consectetur ut.","max_occupancy":1,"price_in_usd":70.95},"room3":{"id":26,"name":"Waters, Simonis and Connelly Room","description":"Temporibus aperiam id facilis adipisci et et dolore reprehenderit. Velit ab fugiat. Possimus magnam odit dolorum. Et voluptates minima ipsa exercitationem nemo qui.","max_occupancy":2,"price_in_usd":74.13}},{"id":24,"name":"Davis - Schneider Hotel","description":"Sit pariatur tempora maxime. Esse cumque fugit cupiditate a ut aut rerum. Neque eius porro voluptatum et possimus accusantium quia cupiditate optio. Ut aut nam rem.","distance_to_venue":"338 meters","rating":2,"price_category":"high","amenities":[" WIFI"," Spa"," Gym"],"address":"8656 Krista Lakes","image":"../assets/hotel7.jpg","room1":{"id":25,"name":"Legros, O'Conner and Balistreri Room","description":"Omnis et velit quis autem. Deleniti recusandae nihil aut eveniet. Enim eveniet praesentium cum sed ut distinctio soluta. Qui aut qui enim molestias impedit.","max_occupancy":3,"price_in_usd":59.68},"room2":{"id":26,"name":"Jast - Mante Room","description":"Molestiae architecto tempore odio deserunt odio reprehenderit et. Perferendis consequatur eum tempora eos omnis aliquid nobis. Nesciunt in soluta molestiae ratione quo et quisquam similique et.","max_occupancy":1,"price_in_usd":16.78},"room3":{"id":27,"name":"O'Kon Group Room","description":"Quos et deserunt quia alias illum ea error architecto. Incidunt aspernatur laboriosam sit. Ut ipsa nihil rem quas cupiditate. Similique perspiciatis consequatur et et accusamus repudiandae recusandae molestiae culpa. Dolorem quis molestiae rem maiores vel. Voluptatem recusandae quisquam adipisci accusamus quisquam magni aut.","max_occupancy":1,"price_in_usd":98.93}},{"id":25,"name":"Schuster - Braun Hotel","description":"Veniam unde illum. At voluptas ab eaque qui impedit consequatur eligendi ut. Necessitatibus quisquam omnis et. Est dolor placeat sit non sed molestiae pariatur. Quia ea labore eius.","distance_to_venue":"12 meters","rating":1,"price_category":"medium","amenities":[" Breakfast Included"," Free Parking"," Laundry Services"],"address":"5173 Nolan Route","image":"../assets/hotel3.jpg","room1":{"id":26,"name":"Rohan and Sons Room","description":"Labore vero reprehenderit quia perferendis molestiae et nemo. Ut incidunt in ut repudiandae assumenda. Et ad officia magnam non similique corrupti. Quos et non.","max_occupancy":4,"price_in_usd":46.050000000000004},"room2":{"id":27,"name":"Lockman LLC Room","description":"Quia nihil fugit natus commodi soluta ea et. Accusantium velit temporibus officia natus. Ullam vel nam harum. Quos ut numquam voluptates quia accusantium doloribus sit enim. Ullam quae deserunt deleniti aspernatur debitis ut eaque.","max_occupancy":3,"price_in_usd":74.79},"room3":{"id":28,"name":"Bailey, Moore and Douglas Room","description":"Aut autem qui laboriosam magni voluptas perspiciatis consequatur placeat. Veniam unde ducimus voluptatem. Et sunt ea et ex laudantium doloribus recusandae ipsam ut.","max_occupancy":3,"price_in_usd":58.77}},{"id":26,"name":"Stoltenberg Group Hotel","description":"Tenetur ut qui esse. Dolor beatae ut quo vero ut eaque enim. Et eum perferendis et non quidem atque.","distance_to_venue":"8 meters","rating":1,"price_category":"medium","amenities":[" WIFI"," Free Parking"," Pets Allowed"],"address":"715 Schuster Garden","image":"../assets/hotel3.jpg","room1":{"id":27,"name":"Carroll - Tillman Room","description":"Ullam doloribus impedit natus iste dolorum. Distinctio alias quibusdam sed dignissimos molestias sed ut voluptatem vitae. Quo voluptas rerum rerum rerum et. Nisi et iusto possimus et voluptates veniam blanditiis incidunt.","max_occupancy":4,"price_in_usd":24.59},"room2":{"id":28,"name":"Leffler and Sons Room","description":"Nam recusandae qui rerum aut cumque possimus distinctio sit accusamus. Assumenda sequi dolore cupiditate quos quo et autem similique enim. Excepturi explicabo ducimus est.","max_occupancy":1,"price_in_usd":19.98},"room3":{"id":29,"name":"Moore, Zulauf and Goyette Room","description":"Maxime at qui qui ea sit et illo. Itaque eveniet totam eaque recusandae enim. A perspiciatis adipisci assumenda dolor in illum qui. Nam in quibusdam.","max_occupancy":2,"price_in_usd":47.97}},{"id":27,"name":"Gutkowski - Crist Hotel","description":"Voluptas officia sapiente animi modi ratione. Odit ut eius id officiis aliquam quia. Amet deleniti assumenda quam porro libero consequatur dignissimos hic. Sed laboriosam eum velit. Eos tenetur doloremque autem deserunt iure fugit.","distance_to_venue":"220 meters","rating":1,"price_category":"high","amenities":[" WIFI"," Spa"," Gym"],"address":"5811 Savanna Isle","image":"../assets/hotel6.jpg","room1":{"id":28,"name":"Buckridge, Powlowski and Graham Room","description":"Accusamus voluptas impedit aspernatur ab praesentium tenetur assumenda et reiciendis. Sapiente qui rerum pariatur dicta debitis. Quisquam nobis at quod enim cupiditate consequatur culpa velit veniam. Officia similique perspiciatis et illum.","max_occupancy":2,"price_in_usd":38.160000000000004},"room2":{"id":29,"name":"Christiansen, Emmerich and Adams Room","description":"Deserunt ab rerum provident non amet nam. Non perferendis totam. Nobis sed magni sint vel impedit corporis et iusto sit. Veniam maiores aut rerum et quas quae est sequi quas. Voluptatem et voluptatem sit molestiae aut voluptates aut. Sequi in aut sit enim ad autem rerum.","max_occupancy":2,"price_in_usd":10.59},"room3":{"id":30,"name":"Simonis - Zieme Room","description":"Deleniti dolor at. Corporis doloremque molestiae iste distinctio itaque fugit nemo eos perspiciatis. Voluptatem voluptatibus consequatur distinctio sit id amet voluptatem.","max_occupancy":3,"price_in_usd":12.39}},{"id":28,"name":"Cartwright - Gerhold Hotel","description":"Tempore itaque aut ea ipsa nihil ut similique. Hic neque assumenda et tempora architecto. Non quo odio et voluptatem quis illo dolorem. Ea sunt pariatur enim sit quasi accusantium quia.","distance_to_venue":"169 meters","rating":4,"price_category":"medium","amenities":[" WIFI"," Free Parking"," Pets Allowed"],"address":"00662 Flatley Walks","image":"../assets/hotel7.jpg","room1":{"id":29,"name":"Walsh, Hauck and Konopelski Room","description":"Accusamus rem consequuntur adipisci sed quia officia et consequuntur nulla. Numquam consequatur laborum rem rerum ipsum porro quis. Ex eveniet aliquam. Modi libero ducimus nemo. Error eum et ipsa. Quae pariatur repellat sit quae.","max_occupancy":4,"price_in_usd":54.22},"room2":{"id":30,"name":"Simonis - Howell Room","description":"Occaecati dignissimos eos eius ullam eum enim. Iusto ea hic quia nam quas hic aut reprehenderit. Facilis ipsa laborum officiis provident cum quaerat sit eos delectus. Qui iusto sed doloremque quis molestiae ut. Non dolor qui amet qui voluptatem praesentium officiis.","max_occupancy":2,"price_in_usd":66.69},"room3":{"id":31,"name":"Lowe - Murray Room","description":"Qui blanditiis non deserunt quidem quae voluptatem temporibus fugit. Molestiae excepturi neque eum recusandae. Optio accusantium in facilis numquam alias quod. Sit repellendus labore alias consequatur aut asperiores dolor. Facere et quia ipsam doloribus nemo.","max_occupancy":3,"price_in_usd":96.82000000000001}},{"id":29,"name":"Ledner - Cronin Hotel","description":"Nihil sunt voluptatem asperiores nostrum quisquam enim explicabo. Voluptatem voluptatem et non et nostrum ut quia perspiciatis. Quos quidem est atque est neque.","distance_to_venue":"101 meters","rating":0,"price_category":"medium","amenities":[" WIFI"," Spa"," Gym"],"address":"1626 Sam Trail","image":"../assets/hotel1.jpg","room1":{"id":30,"name":"Hoppe Inc Room","description":"Neque quisquam consectetur vitae harum error optio exercitationem a perspiciatis. Non ab consequuntur ut voluptas rerum quo dignissimos. Ea consequatur sunt consequatur ut deleniti inventore sit.","max_occupancy":4,"price_in_usd":88.8},"room2":{"id":31,"name":"Goyette - Vandervort Room","description":"Voluptatem est occaecati occaecati et. Temporibus tenetur possimus. Sit sequi minima.","max_occupancy":1,"price_in_usd":70.2},"room3":{"id":32,"name":"Jaskolski Group Room","description":"Cupiditate vitae ullam facilis aut est laborum enim excepturi est. Dolorem fugit non aspernatur. Quibusdam iure est accusantium pariatur. Et omnis delectus sunt voluptatem.","max_occupancy":2,"price_in_usd":79.31}},{"id":30,"name":"Kris, Sporer and Herman Hotel","description":"Fugit doloremque rerum quis qui aut aut nesciunt rerum. Numquam tenetur natus tempore quod voluptate qui id consectetur mollitia. Consectetur tempore voluptatem officia et iure.","distance_to_venue":"91 meters","rating":3,"price_category":"medium","amenities":[" Breakfast Included"," Free Parking"," Gym"],"address":"2815 Carissa Plains","image":"../assets/hotel3.jpg","room1":{"id":31,"name":"Quitzon - Hermiston Room","description":"Ipsum et minus. Temporibus non deserunt sed id aut. Illo quod provident aut sequi. Adipisci tempora tempore delectus doloremque. Necessitatibus praesentium ab voluptatem omnis.","max_occupancy":3,"price_in_usd":25.67},"room2":{"id":32,"name":"Koepp, Klein and Kertzmann Room","description":"Et corrupti eligendi aut. Soluta officiis quia ut. Autem blanditiis accusantium ut minima dolore rerum.","max_occupancy":3,"price_in_usd":81.29},"room3":{"id":33,"name":"Koss - Kreiger Room","description":"Et sint optio aut quod nemo voluptas cumque. Nesciunt totam sint placeat ut similique accusantium necessitatibus voluptatem. Qui est quod atque.","max_occupancy":3,"price_in_usd":55.13}}]}
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Beer Group Hotel",
+      "description": "Velit voluptatem tenetur et vero omnis quasi. Similique modi dolorem. Sapiente recusandae repellendus sit ab. Dignissimos at est alias necessitatibus qui. Consequuntur temporibus suscipit non porro.",
+      "distance_to_venue": "386 meters",
+      "rating": 5,
+      "price_category": "low",
+      "amenities": [" WIFI", " Spa", " Gym"],
+      "address": "322 Rico Tunnel",
+      "image": "../assets/hotel6.jpg",
+      "room1": {
+        "id": 2,
+        "name": "Bauch, Friesen and Doyle Room",
+        "description": "Provident vel non pariatur quas. Sed sed officiis temporibus quod illum aut laboriosam. Est sunt in. Et quod ipsam voluptate voluptas laudantium aperiam culpa libero. Nulla earum saepe id et.",
+        "max_occupancy": 3,
+        "price_in_usd": 93.71000000000001
+      },
+      "room2": {
+        "id": 3,
+        "name": "Lubowitz, Gleichner and Murazik Room",
+        "description": "Beatae aspernatur est. Fugit corrupti voluptas reiciendis consectetur. At autem nam voluptate cupiditate qui perspiciatis fugit est quia.",
+        "max_occupancy": 3,
+        "price_in_usd": 44.800000000000004
+      },
+      "room3": {
+        "id": 4,
+        "name": "Kuphal - Kessler Room",
+        "description": "Dolores laudantium dolorem nihil. Nobis perspiciatis error qui. Magnam quas qui labore adipisci voluptatem.",
+        "max_occupancy": 1,
+        "price_in_usd": 56.410000000000004
+      }
+    },
+    {
+      "id": 2,
+      "name": "Huel and Sons Hotel",
+      "description": "Exercitationem quia velit voluptatem aperiam in. Nam quo unde voluptate aut qui iure ratione explicabo sit. Ut numquam quaerat sed. Recusandae adipisci velit ipsa accusamus. Sequi quod debitis omnis dignissimos molestias odio.",
+      "distance_to_venue": "249 meters",
+      "rating": 5,
+      "price_category": "medium",
+      "amenities": [" Breakfast Included", " Free Parking", " Pets Allowed"],
+      "address": "680 Ardella View",
+      "image": "../assets/hotel7.jpg",
+      "room1": {
+        "id": 3,
+        "name": "Crooks - Reichel Room",
+        "description": "Fugiat consequatur ducimus delectus molestias at illo et sed. Et doloribus laborum nostrum dignissimos officiis voluptates ut. Ducimus cum quia quo aut.",
+        "max_occupancy": 3,
+        "price_in_usd": 68.81
+      },
+      "room2": {
+        "id": 4,
+        "name": "Herman and Sons Room",
+        "description": "Iste ut autem et. Dolorum magnam natus iure voluptas quidem perferendis ullam sequi quasi. Quo recusandae recusandae animi impedit ratione ea aut aperiam. Excepturi ut magnam unde.",
+        "max_occupancy": 3,
+        "price_in_usd": 7.640000000000001
+      },
+      "room3": {
+        "id": 5,
+        "name": "Lueilwitz - Mitchell Room",
+        "description": "Eius quia ipsa enim ut animi consequatur itaque eos non. Ipsa molestiae doloremque quia quia sint quibusdam id. Eligendi dolore ad placeat qui nihil culpa. Harum quod voluptate odit.",
+        "max_occupancy": 2,
+        "price_in_usd": 95.39
+      }
+    },
+    {
+      "id": 3,
+      "name": "Schinner - Bashirian Hotel",
+      "description": "Dolores et error. Et ut fugit delectus cupiditate voluptatem fugit. Voluptatum velit consequuntur ea qui ut autem dolor est aut. Et unde non. Vel corporis nihil quo dolores fugit eius. Accusantium commodi temporibus cumque non odio molestias architecto.",
+      "distance_to_venue": "345 meters",
+      "rating": 1,
+      "price_category": "medium",
+      "amenities": [" Breakfast Included", " Free Parking", " Gym"],
+      "address": "351 Wunsch Plains",
+      "image": "../assets/hotel7.jpg",
+      "room1": {
+        "id": 4,
+        "name": "Pacocha - Christiansen Room",
+        "description": "Ut velit eos est. Et velit atque. Est et ut deserunt aut repudiandae similique magni reiciendis. Atque in enim ut architecto. Molestiae id deserunt.",
+        "max_occupancy": 2,
+        "price_in_usd": 18.45
+      },
+      "room2": {
+        "id": 5,
+        "name": "Smith, Haley and Klocko Room",
+        "description": "Sint natus odio. Qui voluptates explicabo incidunt repudiandae expedita reprehenderit optio. Illo doloremque hic ut quia non.",
+        "max_occupancy": 4,
+        "price_in_usd": 65.66
+      },
+      "room3": {
+        "id": 6,
+        "name": "Grady, Kozey and Pfeffer Room",
+        "description": "Et sunt dicta. Qui aliquam esse provident officiis doloremque aliquam sint. Sed totam aut iste architecto iste. Est eveniet iusto vel earum libero quis enim error eius. Debitis quasi consequatur. Incidunt laborum sequi animi rerum id eligendi doloribus amet unde.",
+        "max_occupancy": 1,
+        "price_in_usd": 13.08
+      }
+    },
+    {
+      "id": 4,
+      "name": "Walker Inc Hotel",
+      "description": "Earum voluptatibus cupiditate ut temporibus. Necessitatibus vitae cum qui laborum nostrum aut quo et. Beatae aspernatur non non recusandae vel. Labore hic aperiam vero assumenda eius alias alias in eaque. In saepe molestiae ut cumque neque quam provident dolores pariatur. Veritatis qui amet.",
+      "distance_to_venue": "26 meters",
+      "rating": 0,
+      "price_category": "high",
+      "amenities": [" A/C", " Swimming Pool", " Gym"],
+      "address": "4417 Kelley Grove",
+      "image": "../assets/hotel5.jpg",
+      "room1": {
+        "id": 5,
+        "name": "Wilderman LLC Room",
+        "description": "Inventore accusamus culpa et aut ab est. Id numquam sit placeat ea accusamus illo. Eius non dolore. Sapiente voluptatem eum nobis quisquam iusto dolorum voluptas necessitatibus. Nihil quod rerum dolor iusto animi.",
+        "max_occupancy": 4,
+        "price_in_usd": 93.67
+      },
+      "room2": {
+        "id": 6,
+        "name": "Farrell, Effertz and Kozey Room",
+        "description": "Magnam est maxime occaecati natus. Ab molestias ut id vero ut. Vitae aliquam dolores consequatur.",
+        "max_occupancy": 3,
+        "price_in_usd": 40.37
+      },
+      "room3": {
+        "id": 7,
+        "name": "Koss LLC Room",
+        "description": "Labore tenetur quis aspernatur provident vel nobis odit ea ut. Nam nihil odit non libero. Vitae recusandae voluptatem illo omnis ducimus ut dicta molestiae. Excepturi debitis sint ab eos quod nulla suscipit.",
+        "max_occupancy": 2,
+        "price_in_usd": 47.17
+      }
+    },
+    {
+      "id": 5,
+      "name": "Lueilwitz - Schmitt Hotel",
+      "description": "Ut libero qui vitae necessitatibus qui dolores molestiae est. Incidunt quibusdam culpa odio quae. Perferendis optio asperiores laboriosam. Vero ipsa ut sunt sequi quasi natus eum. Numquam consequatur et alias est. Amet vero similique magnam aut.",
+      "distance_to_venue": "313 meters",
+      "rating": 5,
+      "price_category": "high",
+      "amenities": [" A/C", " Free Parking", " Gym"],
+      "address": "7310 Felton Harbors",
+      "image": "../assets/hotel4.jpg",
+      "room1": {
+        "id": 6,
+        "name": "Shields - Swift Room",
+        "description": "Ullam fuga et reiciendis. Harum blanditiis nostrum provident voluptate neque ipsa qui quasi voluptatum. Dolores et quia est fuga laboriosam dolore harum. Aut aut dolores sed aut nihil accusamus. Laudantium et quasi rerum quos soluta.",
+        "max_occupancy": 4,
+        "price_in_usd": 10.76
+      },
+      "room2": {
+        "id": 7,
+        "name": "Jast Group Room",
+        "description": "Corrupti aut distinctio. Eveniet ipsam sed consequatur quibusdam. Voluptatibus rerum quam consectetur delectus enim. Eligendi vel dolor ipsam. Nisi unde quisquam quibusdam velit incidunt odit dolore totam occaecati.",
+        "max_occupancy": 2,
+        "price_in_usd": 57.730000000000004
+      },
+      "room3": {
+        "id": 8,
+        "name": "Gleason Group Room",
+        "description": "Aut tenetur sed ut vero fugit. Similique in reiciendis. Et temporibus qui reiciendis dolorum soluta labore. Aperiam id corporis repellat iste ab in. Ut dolor enim blanditiis in consequatur exercitationem labore dignissimos.",
+        "max_occupancy": 4,
+        "price_in_usd": 41.11
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ferry LLC Hotel",
+      "description": "Quia sint nihil dicta nihil. Nesciunt perspiciatis ut aut eum voluptatum. Dolores sed quo velit sed asperiores esse. Aperiam quaerat quasi aut ut. Voluptate optio et consequatur cupiditate et. Qui tenetur laudantium nobis sed aut perspiciatis sunt dolores ut.",
+      "distance_to_venue": "146 meters",
+      "rating": 3,
+      "price_category": "medium",
+      "amenities": [" A/C", " Swimming Pool", " Gym"],
+      "address": "26920 Darwin Fields",
+      "image": "../assets/hotel1.jpg",
+      "room1": {
+        "id": 7,
+        "name": "Jast and Sons Room",
+        "description": "Accusantium id ea. Velit quo rerum dolor quia. Totam officiis voluptatem aspernatur totam molestiae quia. Ullam voluptatem dolorem aut aut dolores consequatur dolores illo in.",
+        "max_occupancy": 1,
+        "price_in_usd": 95.12
+      },
+      "room2": {
+        "id": 8,
+        "name": "Mitchell - Deckow Room",
+        "description": "Dolorem non eveniet. Exercitationem et consequatur sit dolores et enim ut perferendis harum. Commodi aut veniam. Beatae temporibus fuga voluptatem dolorem nihil et. Voluptatum quo consequatur itaque quod culpa ut sint sit.",
+        "max_occupancy": 3,
+        "price_in_usd": 97.56
+      },
+      "room3": {
+        "id": 9,
+        "name": "Torphy, Cartwright and Fahey Room",
+        "description": "Itaque quis omnis dolorem quis veniam fugit. Est in facilis ea voluptate soluta velit. Minus fuga qui rem inventore.",
+        "max_occupancy": 4,
+        "price_in_usd": 49.67
+      }
+    },
+    {
+      "id": 7,
+      "name": "Steuber - Herzog Hotel",
+      "description": "Et reprehenderit quam. Sed maxime asperiores nobis sunt et quod. Laborum voluptas quia est sint sequi nulla est quia. Doloribus ratione repellat quibusdam veritatis omnis corporis ut voluptate praesentium.",
+      "distance_to_venue": "289 meters",
+      "rating": 4,
+      "price_category": "low",
+      "amenities": [" Breakfast Included", " Spa", " Pets Allowed"],
+      "address": "4711 Stehr Well",
+      "image": "../assets/hotel2.jpg",
+      "room1": {
+        "id": 8,
+        "name": "Roberts Inc Room",
+        "description": "Sed quos asperiores omnis vel rerum. Ipsa cupiditate consequatur temporibus quis quae aliquam alias quia. Adipisci amet omnis debitis dicta eveniet asperiores quis inventore. Sunt vel fuga quod. Sint soluta consequatur ut asperiores ullam iusto alias. Accusamus itaque sed rerum.",
+        "max_occupancy": 3,
+        "price_in_usd": 93.8
+      },
+      "room2": {
+        "id": 9,
+        "name": "Weissnat - Aufderhar Room",
+        "description": "Error dolorum hic qui in sed corporis architecto sequi officiis. Omnis incidunt quam quae et quod dicta totam dolores. Fuga est omnis ut dolores nihil consequatur. Quod facere et ullam in aspernatur quia dicta.",
+        "max_occupancy": 3,
+        "price_in_usd": 15.47
+      },
+      "room3": {
+        "id": 10,
+        "name": "Braun - Auer Room",
+        "description": "Tempore natus quis et. Dolores quibusdam sed aut unde quis. Incidunt iste aut quo neque fuga nisi ipsa neque. Id voluptates maiores quos qui sed ex molestias architecto. Sed voluptates aut quaerat corrupti. Similique omnis aut qui sunt ut quam omnis libero.",
+        "max_occupancy": 1,
+        "price_in_usd": 49.050000000000004
+      }
+    },
+    {
+      "id": 8,
+      "name": "Medhurst, Reinger and Quitzon Hotel",
+      "description": "Qui soluta voluptas. Ut nulla hic voluptas molestiae libero. Sequi inventore eum aperiam et quia voluptatem et. Temporibus ipsum consequatur ut quod vel.",
+      "distance_to_venue": "92 meters",
+      "rating": 0,
+      "price_category": "low",
+      "amenities": [" Breakfast Included", " Free Parking", " Pets Allowed"],
+      "address": "0406 Christy Burg",
+      "image": "../assets/hotel7.jpg",
+      "room1": {
+        "id": 9,
+        "name": "Ritchie - Senger Room",
+        "description": "Qui officiis consequuntur provident dolores minima voluptates. Ut suscipit itaque qui beatae commodi esse quibusdam. Repellat consequatur voluptas consectetur sed est maxime ut ut labore.",
+        "max_occupancy": 4,
+        "price_in_usd": 62.08
+      },
+      "room2": {
+        "id": 10,
+        "name": "Boyle, Prosacco and Reichert Room",
+        "description": "Consequatur cum exercitationem asperiores quia est tenetur. Placeat velit dignissimos quia. Saepe consectetur et labore. Voluptatem enim aut libero possimus veniam commodi. Doloribus ipsum et fugiat.",
+        "max_occupancy": 4,
+        "price_in_usd": 15.69
+      },
+      "room3": {
+        "id": 11,
+        "name": "Quitzon, Sawayn and Witting Room",
+        "description": "Modi accusamus eligendi a quaerat qui tenetur maiores non eius. Laboriosam voluptas distinctio necessitatibus impedit provident natus et maxime. Placeat repellendus illo nemo sed. Delectus illo possimus quia sapiente quas. Recusandae in alias.",
+        "max_occupancy": 3,
+        "price_in_usd": 39.99
+      }
+    },
+    {
+      "id": 9,
+      "name": "Davis - Luettgen Hotel",
+      "description": "In doloremque veritatis. Recusandae fugit ut sit dolores porro doloremque quas et. Aperiam maxime sapiente eum omnis et sed ducimus.",
+      "distance_to_venue": "141 meters",
+      "rating": 2,
+      "price_category": "low",
+      "amenities": [" A/C", " Free Parking", " Pets Allowed"],
+      "address": "7403 Runolfsson Isle",
+      "image": "../assets/hotel2.jpg",
+      "room1": {
+        "id": 10,
+        "name": "Heathcote and Sons Room",
+        "description": "Aut neque corrupti consequatur et aut enim. Aspernatur itaque error aut ullam ducimus quis autem quia natus. Autem eius delectus libero molestiae in in omnis omnis ducimus. Ut nam fugit delectus est ullam qui. At occaecati ut aut. Incidunt repellat ipsa dolorum ab ad dignissimos et.",
+        "max_occupancy": 2,
+        "price_in_usd": 59.31
+      },
+      "room2": {
+        "id": 11,
+        "name": "Heller, Graham and Harvey Room",
+        "description": "Sint consequuntur vel enim. Hic accusantium itaque quidem consequatur et. Voluptatem assumenda commodi et quis. Provident at excepturi iure commodi id autem architecto repellat.",
+        "max_occupancy": 4,
+        "price_in_usd": 24.32
+      },
+      "room3": {
+        "id": 12,
+        "name": "O'Connell and Sons Room",
+        "description": "Harum ipsum fuga dolor voluptates aut est pariatur. Aliquid eveniet dolores amet qui voluptas tempora. Mollitia commodi repellendus quae laboriosam nulla ut ut. Consequatur placeat rerum nam voluptatibus sint animi assumenda.",
+        "max_occupancy": 2,
+        "price_in_usd": 29.71
+      }
+    },
+    {
+      "id": 10,
+      "name": "Yost Group Hotel",
+      "description": "Consectetur ipsa maxime. Aut sit molestias dolorem consectetur. Non saepe sunt eius ut hic fuga non est numquam. Consequatur aut itaque quidem cum aut et. Nihil accusantium officia perferendis et alias rerum omnis impedit. Quidem placeat autem enim modi ex vero laborum eos omnis.",
+      "distance_to_venue": "213 meters",
+      "rating": 0,
+      "price_category": "low",
+      "amenities": [" A/C", " Spa", " Pets Allowed"],
+      "address": "7696 Larson Mission",
+      "image": "../assets/hotel2.jpg",
+      "room1": {
+        "id": 11,
+        "name": "Russel, Thiel and Spencer Room",
+        "description": "Sit tenetur corporis vitae perferendis incidunt quo quia doloremque. Voluptatum expedita deserunt recusandae. Et ut veritatis et et saepe et. Ut consequatur recusandae earum itaque voluptatem. Sit illo aut ducimus ut ut placeat porro tempore ab. Nihil vel libero sit quo voluptatem voluptatem.",
+        "max_occupancy": 3,
+        "price_in_usd": 92.8
+      },
+      "room2": {
+        "id": 12,
+        "name": "Ruecker Group Room",
+        "description": "Qui autem quia iure qui. Labore eaque omnis rerum ipsa dolores voluptas eum aut voluptatem. Ut animi a et id. Reiciendis minus incidunt autem occaecati dolorem porro sint.",
+        "max_occupancy": 2,
+        "price_in_usd": 23.59
+      },
+      "room3": {
+        "id": 13,
+        "name": "Kertzmann, Fay and Rodriguez Room",
+        "description": "Nihil tempora est ut dolores amet eaque voluptatem. Quia est facilis corrupti maiores asperiores in modi quos. Consectetur sint aut et molestiae quo aut. Quibusdam facilis est quia veritatis qui dolor eos magni. Labore velit dolore deserunt.",
+        "max_occupancy": 2,
+        "price_in_usd": 53.1
+      }
+    },
+    {
+      "id": 11,
+      "name": "Batz - Schinner Hotel",
+      "description": "Facilis magnam sit aut eligendi enim quia quo ipsam mollitia. Sequi et eos nihil nesciunt consequatur voluptas beatae. Soluta illum veritatis sit voluptas voluptas. Aut possimus consequatur aspernatur vel enim quasi et. Hic velit deserunt culpa quos maiores consequatur aliquam.",
+      "distance_to_venue": "381 meters",
+      "rating": 2,
+      "price_category": "low",
+      "amenities": [" A/C", " Swimming Pool", " Gym"],
+      "address": "350 Troy Landing",
+      "image": "../assets/hotel1.jpg",
+      "room1": {
+        "id": 12,
+        "name": "Lemke - Kertzmann Room",
+        "description": "Minima expedita enim. Ut voluptatem vel quo impedit hic velit debitis ad. Rem enim ipsum itaque officia unde. Similique optio natus. Eligendi minima quo aut minima doloribus mollitia. Eaque occaecati est reprehenderit molestiae incidunt suscipit.",
+        "max_occupancy": 2,
+        "price_in_usd": 94.08
+      },
+      "room2": {
+        "id": 13,
+        "name": "Volkman, Walker and Donnelly Room",
+        "description": "Quia beatae necessitatibus et. Consequatur laborum minima. Eum architecto saepe ut quaerat at.",
+        "max_occupancy": 1,
+        "price_in_usd": 88.59
+      },
+      "room3": {
+        "id": 14,
+        "name": "Emmerich - Yundt Room",
+        "description": "Voluptates numquam laboriosam in eos assumenda asperiores sunt non enim. Non iste deleniti voluptatem ratione perspiciatis ipsam assumenda error. Similique distinctio fuga quam. Dolor occaecati eum dolores magni beatae consequatur veritatis sunt dolorem. Impedit et impedit aliquam molestiae ipsam odio. Laboriosam repellat doloribus nostrum iusto et.",
+        "max_occupancy": 2,
+        "price_in_usd": 68.4
+      }
+    },
+    {
+      "id": 12,
+      "name": "Gorczany, Hudson and Schmidt Hotel",
+      "description": "Voluptas facere facere sint. Harum animi asperiores. Minima sit voluptatum magni qui corporis dolore alias facere odit. Non vero unde qui dolor quisquam nostrum. Quibusdam aut placeat ut.",
+      "distance_to_venue": "38 meters",
+      "rating": 0,
+      "price_category": "medium",
+      "amenities": [" Breakfast Included", " Free Parking", " Gym"],
+      "address": "98224 Littel Island",
+      "image": "../assets/hotel6.jpg",
+      "room1": {
+        "id": 13,
+        "name": "Schaden, Fay and Harber Room",
+        "description": "Blanditiis dolores soluta voluptas asperiores voluptas et quia aperiam. Ullam suscipit non quo a optio tenetur aperiam corporis sit. Excepturi esse eum commodi. Vel esse ut nihil. Enim ducimus voluptatem nam aut.",
+        "max_occupancy": 2,
+        "price_in_usd": 59.86
+      },
+      "room2": {
+        "id": 14,
+        "name": "Hickle and Sons Room",
+        "description": "Omnis voluptates velit nulla voluptates. Quae neque dolor. Blanditiis deleniti blanditiis veniam. Officiis iusto eligendi molestias iusto ut voluptatem autem.",
+        "max_occupancy": 1,
+        "price_in_usd": 86.67
+      },
+      "room3": {
+        "id": 15,
+        "name": "Macejkovic, Little and Quitzon Room",
+        "description": "Praesentium est doloribus blanditiis ab. Similique voluptatum maxime omnis occaecati voluptas. Itaque sequi similique expedita. Illo quia asperiores necessitatibus.",
+        "max_occupancy": 2,
+        "price_in_usd": 52.46
+      }
+    },
+    {
+      "id": 13,
+      "name": "Murphy Group Hotel",
+      "description": "Atque qui unde sapiente dolor. Quam omnis excepturi quia perspiciatis suscipit eos hic magnam sed. Cupiditate voluptatem est non consequatur laudantium enim eaque doloribus. Sit consectetur ab reiciendis natus odit in rem aut nobis. Mollitia et nisi et ea quia et. Voluptates veniam ab animi excepturi cupiditate sequi quae autem qui.",
+      "distance_to_venue": "168 meters",
+      "rating": 3,
+      "price_category": "medium",
+      "amenities": [" Breakfast Included", " Spa", " Laundry Services"],
+      "address": "96633 Runolfsson Plains",
+      "image": "../assets/hotel1.jpg",
+      "room1": {
+        "id": 14,
+        "name": "Rodriguez - Homenick Room",
+        "description": "Maiores natus et. Nihil non ut sit earum eos vero dolorem provident nostrum. Ut consectetur impedit iusto excepturi doloribus. Est sit quasi expedita sapiente placeat accusamus hic sit. Dicta qui autem numquam ea non quae dolorem cupiditate error.",
+        "max_occupancy": 2,
+        "price_in_usd": 67.07000000000001
+      },
+      "room2": {
+        "id": 15,
+        "name": "Frami - Kuphal Room",
+        "description": "Quis velit non et ipsa a quo delectus dolorem et. Eum mollitia dolores laudantium quam perferendis praesentium voluptas. Consequatur quas quos et omnis nihil voluptatum. Esse quo maiores eaque aliquid error et. Facilis nisi in quod placeat consequuntur suscipit aspernatur deserunt.",
+        "max_occupancy": 3,
+        "price_in_usd": 78.77
+      },
+      "room3": {
+        "id": 16,
+        "name": "Lubowitz - Barrows Room",
+        "description": "Dolor ea soluta omnis distinctio iste unde soluta architecto. Sint quos quis aspernatur inventore ipsam harum distinctio animi. Et qui laborum quas minima sunt inventore quo et dolore.",
+        "max_occupancy": 2,
+        "price_in_usd": 45.78
+      }
+    },
+    {
+      "id": 14,
+      "name": "Fay LLC Hotel",
+      "description": "Et enim est. Voluptates dolores necessitatibus eos aut culpa sit est. Sit rerum velit nostrum unde. Libero consequuntur laudantium est sint. Tempore impedit vel vel voluptatum molestias iure. Debitis quia sapiente voluptas nostrum qui a facere deleniti odio.",
+      "distance_to_venue": "10 meters",
+      "rating": 2,
+      "price_category": "low",
+      "amenities": [
+        " Breakfast Included",
+        " Swimming Pool",
+        " Laundry Services"
+      ],
+      "address": "004 Wehner Villages",
+      "image": "../assets/hotel3.jpg",
+      "room1": {
+        "id": 15,
+        "name": "Effertz, Schmeler and Bednar Room",
+        "description": "Consequatur ad harum accusantium debitis eum. Quia commodi quae et explicabo neque. Est nobis exercitationem sed aliquid architecto perspiciatis quisquam. Impedit quisquam maxime cum molestiae debitis. Ut sunt qui aspernatur quod. Culpa sed aspernatur quo ut.",
+        "max_occupancy": 3,
+        "price_in_usd": 48.65
+      },
+      "room2": {
+        "id": 16,
+        "name": "Carter - Senger Room",
+        "description": "Corporis occaecati est ut aliquam ut dignissimos eius qui. Reiciendis hic enim facilis rerum aut voluptas non. Delectus autem sint culpa ducimus. A harum nemo eos a eveniet aut. Sed vel eveniet qui dicta. Molestiae ratione velit.",
+        "max_occupancy": 2,
+        "price_in_usd": 68.94
+      },
+      "room3": {
+        "id": 17,
+        "name": "Gutmann, Hills and Hayes Room",
+        "description": "Enim sapiente mollitia numquam ducimus voluptates quia inventore voluptates cumque. Voluptas asperiores tempore. Tempore ex quia quasi incidunt.",
+        "max_occupancy": 2,
+        "price_in_usd": 59.24
+      }
+    },
+    {
+      "id": 15,
+      "name": "Sauer - Hoppe Hotel",
+      "description": "Autem corrupti atque quo ad commodi sapiente eos. Et aliquam repellat dolorum modi ipsa molestiae. Quibusdam ut modi dolorum incidunt et voluptatem. Exercitationem illo minima soluta ut dolor tempora praesentium. Aut et et deserunt et qui nihil. Laudantium ullam amet eveniet.",
+      "distance_to_venue": "388 meters",
+      "rating": 3,
+      "price_category": "high",
+      "amenities": [" WIFI", " Spa", " Laundry Services"],
+      "address": "141 Jared Place",
+      "image": "../assets/hotel6.jpg",
+      "room1": {
+        "id": 16,
+        "name": "Shields, Ziemann and Quitzon Room",
+        "description": "Porro sed dolorem quam. Nihil incidunt pariatur blanditiis unde dolores labore repellat. Dicta distinctio consectetur accusantium atque. Dolorem quam sequi sed eum.",
+        "max_occupancy": 3,
+        "price_in_usd": 25.87
+      },
+      "room2": {
+        "id": 17,
+        "name": "Emard - Howell Room",
+        "description": "Explicabo natus minus perferendis. Excepturi beatae itaque optio animi inventore. Et natus voluptatum delectus sint saepe nihil sunt aut non. Quidem ducimus et qui perspiciatis excepturi alias rem rerum accusamus. Praesentium dolore laudantium qui consequatur ea provident eos animi similique. Labore eius aut quia unde consequuntur sed cupiditate.",
+        "max_occupancy": 2,
+        "price_in_usd": 63.81
+      },
+      "room3": {
+        "id": 18,
+        "name": "O'Keefe, Torp and Nolan Room",
+        "description": "Perspiciatis neque culpa et perferendis repellat nulla. Deleniti nostrum rerum similique quidem. Debitis incidunt pariatur voluptas quia. Ut aut magnam et quisquam. Magnam asperiores eaque illo veritatis quisquam provident totam. Et dicta non.",
+        "max_occupancy": 2,
+        "price_in_usd": 99.79
+      }
+    },
+    {
+      "id": 16,
+      "name": "Rolfson, Balistreri and Auer Hotel",
+      "description": "Veritatis voluptatum omnis culpa dolor unde. Tempora laboriosam omnis ut voluptatum ut enim error repudiandae ut. Commodi repellendus omnis natus. Illo nihil quibusdam recusandae quia et voluptatem quas molestiae libero. Ut sunt laborum ab assumenda voluptatem eligendi sunt quis. Aut soluta et recusandae.",
+      "distance_to_venue": "319 meters",
+      "rating": 0,
+      "price_category": "low",
+      "amenities": [" Breakfast Included", " Free Parking", " Pets Allowed"],
+      "address": "561 Altenwerth Plains",
+      "image": "../assets/hotel7.jpg",
+      "room1": {
+        "id": 17,
+        "name": "O'Connell, Hane and Hudson Room",
+        "description": "Dicta voluptatem et. Enim a et necessitatibus. Esse rem ea voluptatum vero quam. Tempora dolore sint veritatis sit accusamus. Ab minima perspiciatis ut aut sint et ab asperiores aspernatur. Vitae incidunt impedit optio debitis id ut exercitationem eligendi quia.",
+        "max_occupancy": 1,
+        "price_in_usd": 71.34
+      },
+      "room2": {
+        "id": 18,
+        "name": "Corkery, Jenkins and Pfannerstill Room",
+        "description": "Dolor laudantium et. Est possimus inventore neque sint tempora doloremque tenetur veniam. Et voluptates voluptas eveniet ut. Id laudantium dolores possimus in aliquid atque exercitationem sint. Dolorem corporis perferendis aut aut quisquam officia. Dolor voluptatem perspiciatis.",
+        "max_occupancy": 4,
+        "price_in_usd": 57.4
+      },
+      "room3": {
+        "id": 19,
+        "name": "Predovic and Sons Room",
+        "description": "Natus veritatis qui facere a sed. Est quos quidem unde. Hic eligendi accusamus rerum aut consequatur molestias. Beatae minus beatae nobis sed excepturi. Incidunt consequatur qui ut odit est rem quasi dolores.",
+        "max_occupancy": 2,
+        "price_in_usd": 47.94
+      }
+    },
+    {
+      "id": 17,
+      "name": "Weber, Hickle and Hammes Hotel",
+      "description": "Blanditiis est minus inventore earum. Consequatur aut possimus tenetur autem nemo. Autem eveniet et perspiciatis quia ex laboriosam. Neque quas id ex est molestias laborum.",
+      "distance_to_venue": "372 meters",
+      "rating": 4,
+      "price_category": "high",
+      "amenities": [" WIFI", " Swimming Pool", " Pets Allowed"],
+      "address": "884 Lehner Corners",
+      "image": "../assets/hotel3.jpg",
+      "room1": {
+        "id": 18,
+        "name": "Bradtke - Crist Room",
+        "description": "Ipsa labore quasi libero ut ea et accusamus quia. Debitis et sed harum nostrum voluptatem. Molestiae assumenda cumque modi neque asperiores ullam. Et ratione quo dolorem aut consequatur voluptates aut rerum. Veniam itaque ex. Ratione et cupiditate cupiditate exercitationem dolor.",
+        "max_occupancy": 3,
+        "price_in_usd": 82.5
+      },
+      "room2": {
+        "id": 19,
+        "name": "Cole Group Room",
+        "description": "Distinctio voluptas quam recusandae ea vero harum vel consequatur laboriosam. Et quidem incidunt excepturi consequatur. Eum qui mollitia neque. Facere assumenda id ut ad maiores quaerat dolorem et dolorem.",
+        "max_occupancy": 4,
+        "price_in_usd": 23.14
+      },
+      "room3": {
+        "id": 20,
+        "name": "Boyer, Skiles and Bartoletti Room",
+        "description": "Unde tenetur quis beatae aliquam voluptatum. Facilis delectus quia omnis eos dolorem quo ratione reiciendis laborum. Ut eius atque libero quod temporibus ut. Est et illo id doloremque. Neque enim natus incidunt laboriosam quia.",
+        "max_occupancy": 1,
+        "price_in_usd": 10.89
+      }
+    },
+    {
+      "id": 18,
+      "name": "Bode LLC Hotel",
+      "description": "Aspernatur eum qui sequi modi. Consequatur est illo accusamus. Ea commodi praesentium praesentium et.",
+      "distance_to_venue": "358 meters",
+      "rating": 3,
+      "price_category": "high",
+      "amenities": [" A/C", " Swimming Pool", " Pets Allowed"],
+      "address": "8653 Oral Ville",
+      "image": "../assets/hotel4.jpg",
+      "room1": {
+        "id": 19,
+        "name": "Lowe - Williamson Room",
+        "description": "Omnis nisi voluptatem libero. Maiores perspiciatis ut consequatur hic ratione nostrum eius quae. Repellat ipsa in enim dignissimos laboriosam numquam omnis pariatur. Voluptate voluptatem iure non. Libero dolorum et in. Sed et pariatur quia perferendis earum corrupti.",
+        "max_occupancy": 4,
+        "price_in_usd": 53.800000000000004
+      },
+      "room2": {
+        "id": 20,
+        "name": "Lesch Group Room",
+        "description": "Fugit ea eum placeat praesentium illum eum in. Explicabo a et ea itaque aliquid illo. Quia eum nostrum nostrum accusantium officia voluptas ducimus. Necessitatibus illum cumque sit unde tenetur iusto occaecati. Consequuntur placeat beatae aspernatur soluta. Nisi possimus recusandae.",
+        "max_occupancy": 4,
+        "price_in_usd": 65.28
+      },
+      "room3": {
+        "id": 21,
+        "name": "Lowe Inc Room",
+        "description": "Animi corporis distinctio voluptas veritatis. Et rerum sequi qui optio. Voluptas eveniet fugiat.",
+        "max_occupancy": 2,
+        "price_in_usd": 40.06
+      }
+    },
+    {
+      "id": 19,
+      "name": "Rogahn, Johns and Lockman Hotel",
+      "description": "Qui recusandae sed eveniet quam. Quod sapiente aut laborum aut consequatur officia velit. Nemo sed dicta sed. Autem velit doloremque dolore beatae.",
+      "distance_to_venue": "99 meters",
+      "rating": 5,
+      "price_category": "low",
+      "amenities": [" Breakfast Included", " Swimming Pool", " Gym"],
+      "address": "1000 Ora Rue",
+      "image": "../assets/hotel4.jpg",
+      "room1": {
+        "id": 20,
+        "name": "Cremin, Hilll and Klein Room",
+        "description": "Deserunt quam dolorem suscipit iusto rerum. Vel officia quod atque eos. Saepe et nostrum enim consectetur quisquam repudiandae debitis similique. Et maiores dolorum corrupti rerum vel vero recusandae quo. Perspiciatis odio qui perspiciatis accusamus ut maxime enim porro.",
+        "max_occupancy": 1,
+        "price_in_usd": 39.82
+      },
+      "room2": {
+        "id": 21,
+        "name": "Altenwerth - Torp Room",
+        "description": "Recusandae et magnam aliquam commodi provident voluptas excepturi quis. Ullam ex aperiam aut. Doloremque tempore voluptas nihil. Quis doloremque nobis id ducimus debitis porro mollitia quia accusamus.",
+        "max_occupancy": 3,
+        "price_in_usd": 8.11
+      },
+      "room3": {
+        "id": 22,
+        "name": "Murazik, Will and Schuster Room",
+        "description": "Sed facilis ad quo optio in facilis. Quis mollitia sapiente sit delectus eum provident ad odio inventore. Harum quia quidem qui quis voluptas. Officia consequatur veniam odit ad omnis nesciunt. Velit qui provident qui quibusdam natus delectus. Aut corrupti rem maiores ea laudantium dolore.",
+        "max_occupancy": 2,
+        "price_in_usd": 87.79
+      }
+    },
+    {
+      "id": 20,
+      "name": "Morissette - Nitzsche Hotel",
+      "description": "Qui repudiandae qui dolorem. Maiores aut ea tempora quaerat blanditiis veniam doloremque voluptas nobis. Aut reprehenderit repellat distinctio officia assumenda molestiae voluptas et. Sint culpa ratione aliquam quia dolores. Qui culpa ullam accusamus voluptate qui et quas animi. Voluptas quod ut est qui.",
+      "distance_to_venue": "154 meters",
+      "rating": 3,
+      "price_category": "high",
+      "amenities": [" A/C", " Spa", " Pets Allowed"],
+      "address": "440 Auer Key",
+      "image": "../assets/hotel5.jpg",
+      "room1": {
+        "id": 21,
+        "name": "Ferry - Ernser Room",
+        "description": "Ea incidunt quaerat. Totam aut consequatur temporibus ea odit officiis rerum et provident. Magnam magnam quaerat esse sint asperiores. Ratione accusamus quaerat totam ducimus nobis cumque quidem. Molestiae eligendi qui repellendus ad ea ut. Assumenda aut asperiores voluptas sit.",
+        "max_occupancy": 2,
+        "price_in_usd": 45.97
+      },
+      "room2": {
+        "id": 22,
+        "name": "Fadel and Sons Room",
+        "description": "Magnam qui architecto sit maiores quos. Ducimus aliquam vero similique fugiat officiis sed adipisci. Velit eaque fugit tenetur recusandae voluptates. In molestiae perspiciatis est id nemo. Dicta et sit ipsum amet natus fugit sit.",
+        "max_occupancy": 1,
+        "price_in_usd": 85.5
+      },
+      "room3": {
+        "id": 23,
+        "name": "Zieme Group Room",
+        "description": "Possimus similique dolores assumenda dicta reiciendis distinctio doloremque eligendi. Voluptate laboriosam voluptatibus amet cum. Corporis ut saepe. Est repudiandae et soluta quasi magnam vel.",
+        "max_occupancy": 3,
+        "price_in_usd": 33.72
+      }
+    },
+    {
+      "id": 21,
+      "name": "Moore, Kulas and Considine Hotel",
+      "description": "Repellat natus ipsa tempora laboriosam asperiores in ut. Ab cupiditate consequatur et error ad non distinctio nostrum qui. Eum sed voluptates libero repellat ipsam.",
+      "distance_to_venue": "18 meters",
+      "rating": 4,
+      "price_category": "medium",
+      "amenities": [" WIFI", " Spa", " Gym"],
+      "address": "63824 Sebastian Cove",
+      "image": "../assets/hotel4.jpg",
+      "room1": {
+        "id": 22,
+        "name": "Homenick Group Room",
+        "description": "Soluta possimus voluptatum. Tempora optio enim nesciunt numquam fugit dolores. Libero dicta voluptas commodi et. Aut recusandae repudiandae voluptate laborum autem minima laborum.",
+        "max_occupancy": 1,
+        "price_in_usd": 56.93
+      },
+      "room2": {
+        "id": 23,
+        "name": "Thompson LLC Room",
+        "description": "Est quibusdam corporis et est dolores eos. Et eveniet minima unde placeat aspernatur. Porro quia consequatur.",
+        "max_occupancy": 2,
+        "price_in_usd": 80.74
+      },
+      "room3": {
+        "id": 24,
+        "name": "Kozey, Waelchi and Schneider Room",
+        "description": "Sit error dolorem eius dolore. Asperiores maiores iste consequuntur quidem. Debitis ea quaerat doloribus eum. Animi libero rerum itaque quod. Vero eos consectetur. Quibusdam vero dolores cupiditate non ex qui ipsam similique et.",
+        "max_occupancy": 2,
+        "price_in_usd": 75.69
+      }
+    },
+    {
+      "id": 22,
+      "name": "Miller - Rau Hotel",
+      "description": "Necessitatibus totam natus itaque tempora. Qui asperiores vel nemo velit consectetur et ea ut. Corporis voluptatem et. Rerum tempora consequatur aperiam nemo dignissimos repellat.",
+      "distance_to_venue": "38 meters",
+      "rating": 5,
+      "price_category": "high",
+      "amenities": [" WIFI", " Free Parking", " Laundry Services"],
+      "address": "559 Arch Roads",
+      "image": "../assets/hotel2.jpg",
+      "room1": {
+        "id": 23,
+        "name": "Hammes and Sons Room",
+        "description": "Sint sit est in. Sit culpa qui sit temporibus aut vero. Dicta vel deserunt laborum labore blanditiis. Ipsum et sed sit eveniet repellendus.",
+        "max_occupancy": 4,
+        "price_in_usd": 85.9
+      },
+      "room2": {
+        "id": 24,
+        "name": "Hermiston - Parker Room",
+        "description": "Modi ex aliquam voluptatem et delectus alias nihil. Nostrum sit necessitatibus nesciunt. Et provident sit laudantium est unde.",
+        "max_occupancy": 2,
+        "price_in_usd": 84.29
+      },
+      "room3": {
+        "id": 25,
+        "name": "Treutel - Kihn Room",
+        "description": "Ut et et facilis fuga praesentium sapiente alias quo. Nostrum natus nemo ut labore eos. Expedita est nesciunt alias fugiat.",
+        "max_occupancy": 4,
+        "price_in_usd": 54.58
+      }
+    },
+    {
+      "id": 23,
+      "name": "Breitenberg, Gleichner and Ortiz Hotel",
+      "description": "Ut consequuntur maiores facere ratione reprehenderit velit ab. Maxime adipisci repudiandae sed nihil voluptatibus veniam. Sed ut modi delectus aut iusto error. Ea dignissimos voluptate qui autem eaque officia.",
+      "distance_to_venue": "237 meters",
+      "rating": 1,
+      "price_category": "low",
+      "amenities": [" A/C", " Swimming Pool", " Gym"],
+      "address": "959 Bahringer Junctions",
+      "image": "../assets/hotel5.jpg",
+      "room1": {
+        "id": 24,
+        "name": "Cremin, Hickle and Legros Room",
+        "description": "Et distinctio saepe atque laboriosam. Sequi molestiae amet non quis error debitis molestiae est dignissimos. Exercitationem aut repudiandae voluptas incidunt est qui et odio. Dolor qui exercitationem tempore reiciendis voluptas autem. Voluptates omnis nihil quia ratione.",
+        "max_occupancy": 3,
+        "price_in_usd": 45.57
+      },
+      "room2": {
+        "id": 25,
+        "name": "Haag LLC Room",
+        "description": "Quidem molestiae nemo tempore libero officia nihil et. A eum vero voluptatibus quisquam dolor tenetur velit aut. Id ipsam distinctio sint sint eos modi.",
+        "max_occupancy": 4,
+        "price_in_usd": 26.05
+      },
+      "room3": {
+        "id": 26,
+        "name": "Ankunding - Bradtke Room",
+        "description": "Quasi rerum nemo culpa facilis necessitatibus veritatis nulla et non. Nobis ratione explicabo dicta sit id voluptatem debitis. Perferendis ratione at id quis rem nam suscipit quis dolor. Ut enim est. Aspernatur nisi id consequuntur iusto enim minus ullam et iste. Voluptas ipsa sed debitis animi corporis nulla nemo dolorum qui.",
+        "max_occupancy": 4,
+        "price_in_usd": 45.300000000000004
+      }
+    },
+    {
+      "id": 24,
+      "name": "Torp Inc Hotel",
+      "description": "Fugit repellendus temporibus consectetur perferendis. Dolores ex aliquam voluptas rerum recusandae laudantium magnam. Autem ea recusandae velit sit quibusdam quos pariatur. Animi totam aut voluptas explicabo dolor aspernatur dolores. Quis dolor eos voluptas deleniti molestiae sunt error omnis vel. Et temporibus deleniti quaerat similique.",
+      "distance_to_venue": "90 meters",
+      "rating": 3,
+      "price_category": "low",
+      "amenities": [" Breakfast Included", " Swimming Pool", " Pets Allowed"],
+      "address": "7348 Jordane Branch",
+      "image": "../assets/hotel3.jpg",
+      "room1": {
+        "id": 25,
+        "name": "Paucek, Upton and Ankunding Room",
+        "description": "Illo est molestiae. Cumque et rerum fugit. Eum magnam magni saepe eligendi. Doloribus qui id nulla sunt necessitatibus nemo aspernatur voluptas. Recusandae qui voluptatum ea nisi laudantium blanditiis dicta.",
+        "max_occupancy": 4,
+        "price_in_usd": 69.25
+      },
+      "room2": {
+        "id": 26,
+        "name": "Fisher - Mann Room",
+        "description": "Et vero dolores consequatur. Amet labore et rerum necessitatibus vel cumque aut. Saepe eveniet officia. Eum doloremque et necessitatibus. Illo et cumque assumenda quis.",
+        "max_occupancy": 2,
+        "price_in_usd": 83.92
+      },
+      "room3": {
+        "id": 27,
+        "name": "Price - Monahan Room",
+        "description": "Maxime eaque non fuga qui. Qui eaque et. Numquam aut sint et distinctio in. Enim nesciunt quidem sed fugit velit cum consequuntur in minima. Cum iste molestiae inventore libero deserunt.",
+        "max_occupancy": 2,
+        "price_in_usd": 31.39
+      }
+    },
+    {
+      "id": 25,
+      "name": "Orn - Kulas Hotel",
+      "description": "Odit ex fugiat voluptatem iste est dignissimos soluta iste. Unde dolores eaque rerum vel rerum occaecati qui nam. Et rerum alias ex quas vel voluptatem alias a optio.",
+      "distance_to_venue": "274 meters",
+      "rating": 2,
+      "price_category": "low",
+      "amenities": [" Breakfast Included", " Free Parking", " Gym"],
+      "address": "312 Fay Meadow",
+      "image": "../assets/hotel2.jpg",
+      "room1": {
+        "id": 26,
+        "name": "Christiansen LLC Room",
+        "description": "Quis dolorem voluptas vel totam omnis. Non sed natus quo et odit asperiores voluptas. Saepe quia incidunt tenetur. Omnis inventore quidem quae aut doloremque ipsam. Et aut dolorem porro. Sit corrupti quo porro ut excepturi consequatur qui.",
+        "max_occupancy": 1,
+        "price_in_usd": 42.75
+      },
+      "room2": {
+        "id": 27,
+        "name": "Orn, Emard and Howe Room",
+        "description": "Rerum quis sapiente quasi illo. Facere eaque pariatur. Vero et earum incidunt. Ullam fugit non aut ut maxime velit.",
+        "max_occupancy": 2,
+        "price_in_usd": 30.970000000000002
+      },
+      "room3": {
+        "id": 28,
+        "name": "Howe, Hilpert and Bechtelar Room",
+        "description": "Voluptate dicta ad voluptatem corporis aut. Itaque sunt velit omnis. Temporibus natus cupiditate quo.",
+        "max_occupancy": 3,
+        "price_in_usd": 42.57
+      }
+    },
+    {
+      "id": 26,
+      "name": "Hagenes - O'Conner Hotel",
+      "description": "Amet magni excepturi quia commodi sint. Quam veniam accusantium quisquam voluptatem magni recusandae incidunt esse. Pariatur explicabo voluptatem eos dolor illum et. Sunt aspernatur perspiciatis ratione dolores illo repellat et.",
+      "distance_to_venue": "201 meters",
+      "rating": 1,
+      "price_category": "medium",
+      "amenities": [" WIFI", " Spa", " Pets Allowed"],
+      "address": "965 Nathaniel Cliff",
+      "image": "../assets/hotel1.jpg",
+      "room1": {
+        "id": 27,
+        "name": "Langosh - Strosin Room",
+        "description": "Consequuntur aut porro. Quia adipisci quidem aliquid officia odio cupiditate doloribus molestias ipsam. Nihil et nulla aut. Sit ea numquam vel in ipsum. Quisquam ea dolor. Assumenda enim et beatae incidunt.",
+        "max_occupancy": 2,
+        "price_in_usd": 47.35
+      },
+      "room2": {
+        "id": 28,
+        "name": "Buckridge Inc Room",
+        "description": "Voluptatem autem deleniti et provident. Et ut error esse autem dignissimos dignissimos velit officia odit. Odio et aut voluptas qui doloribus et sit. Corrupti velit eos enim amet. Corrupti adipisci ullam laboriosam dolorum modi maiores amet.",
+        "max_occupancy": 4,
+        "price_in_usd": 6.15
+      },
+      "room3": {
+        "id": 29,
+        "name": "Ritchie, Windler and Streich Room",
+        "description": "Velit repellat est. Voluptas molestiae esse. Quia quia dolorem enim necessitatibus. Dolorum inventore ut saepe qui dolores explicabo ad ex. Qui sed nemo eos earum recusandae eius cum temporibus id.",
+        "max_occupancy": 4,
+        "price_in_usd": 20.77
+      }
+    },
+    {
+      "id": 27,
+      "name": "Kulas - Jerde Hotel",
+      "description": "Non facere rerum eos qui repellat. Sunt ex possimus veniam et itaque quae. Magnam et modi reiciendis ut est. Ut quidem et. Rerum nemo dolore maxime.",
+      "distance_to_venue": "160 meters",
+      "rating": 3,
+      "price_category": "low",
+      "amenities": [" WIFI", " Free Parking", " Gym"],
+      "address": "0737 Keeling Throughway",
+      "image": "../assets/hotel7.jpg",
+      "room1": {
+        "id": 28,
+        "name": "Kling, Boyle and Baumbach Room",
+        "description": "Eius voluptatem totam in aut. Dignissimos pariatur sint qui accusamus odit et. Quo optio temporibus. Repudiandae laudantium molestiae ut qui ut itaque dolores. Quia velit voluptatum vel repellendus tenetur dolores eius cumque. Nemo dolor adipisci.",
+        "max_occupancy": 2,
+        "price_in_usd": 38.17
+      },
+      "room2": {
+        "id": 29,
+        "name": "Grady and Sons Room",
+        "description": "Ut error quidem ea. Qui voluptatem qui. Ut ut veritatis hic. Cupiditate soluta et fugiat porro autem voluptate. Illo consectetur animi et perspiciatis veritatis.",
+        "max_occupancy": 1,
+        "price_in_usd": 98.9
+      },
+      "room3": {
+        "id": 30,
+        "name": "Nikolaus - Little Room",
+        "description": "Rerum vel nemo. Id enim autem est rerum culpa rerum atque. Officiis doloribus sit molestias sed voluptatem recusandae vel.",
+        "max_occupancy": 2,
+        "price_in_usd": 52.04
+      }
+    },
+    {
+      "id": 28,
+      "name": "Herman Inc Hotel",
+      "description": "Qui doloribus voluptatem sequi. Voluptatem aut quae atque iusto consequuntur blanditiis dolorem autem quisquam. Reiciendis adipisci voluptate voluptatem magni cum ipsam repellendus. Aut autem placeat est ullam. Distinctio similique molestiae doloribus dolores sunt commodi nisi vel a.",
+      "distance_to_venue": "242 meters",
+      "rating": 4,
+      "price_category": "high",
+      "amenities": [" A/C", " Free Parking", " Pets Allowed"],
+      "address": "31227 Sauer Row",
+      "image": "../assets/hotel3.jpg",
+      "room1": {
+        "id": 29,
+        "name": "Gleason, Stoltenberg and Cremin Room",
+        "description": "Sed magnam odit impedit deleniti. Cumque asperiores rerum quia. Vitae rerum eos eos repellat reprehenderit magni doloremque.",
+        "max_occupancy": 1,
+        "price_in_usd": 41.51
+      },
+      "room2": {
+        "id": 30,
+        "name": "Runte, Moore and Borer Room",
+        "description": "Et sed saepe minima aspernatur quia quae. Tempore qui aspernatur illo est cumque nihil a. Qui eum itaque qui dolores ut consequatur. Libero qui veritatis rerum quo ullam. Reiciendis recusandae ullam ad est. Excepturi delectus nulla autem ut sint nihil deserunt unde.",
+        "max_occupancy": 1,
+        "price_in_usd": 39.27
+      },
+      "room3": {
+        "id": 31,
+        "name": "Fisher - Reinger Room",
+        "description": "Asperiores ut numquam enim soluta doloribus eum. Quibusdam eos sit sapiente voluptatem eum alias maiores. Et qui magnam.",
+        "max_occupancy": 2,
+        "price_in_usd": 32.230000000000004
+      }
+    },
+    {
+      "id": 29,
+      "name": "Okuneva - Grimes Hotel",
+      "description": "Delectus provident qui fugiat illum architecto tenetur voluptatem rerum. Blanditiis et voluptatem debitis officia. Quae dolores ipsa quaerat at autem dolor. Quo voluptatibus similique quia ullam.",
+      "distance_to_venue": "238 meters",
+      "rating": 4,
+      "price_category": "high",
+      "amenities": [" A/C", " Free Parking", " Gym"],
+      "address": "517 Elwin Knolls",
+      "image": "../assets/hotel4.jpg",
+      "room1": {
+        "id": 30,
+        "name": "Botsford Inc Room",
+        "description": "Sequi incidunt expedita aut veniam libero delectus. Sed laborum aut. Eligendi voluptatem veniam excepturi. Suscipit consequuntur tempore qui ut ut at quo. Vitae corrupti ipsam nihil qui pariatur inventore. Adipisci ea atque.",
+        "max_occupancy": 2,
+        "price_in_usd": 71.08
+      },
+      "room2": {
+        "id": 31,
+        "name": "Jerde - Goldner Room",
+        "description": "Officia iste nihil omnis. Magni dignissimos modi expedita quaerat qui autem. Eos dolores provident esse ex. Qui nesciunt sit harum dolores ad.",
+        "max_occupancy": 1,
+        "price_in_usd": 49.03
+      },
+      "room3": {
+        "id": 32,
+        "name": "Considine, Herman and Jaskolski Room",
+        "description": "Ut tenetur impedit dolore aliquid. Non libero hic qui dolore cupiditate. Eum voluptatibus occaecati iste sunt et sunt aspernatur. Voluptas eum minus. Modi est alias ut ducimus molestiae.",
+        "max_occupancy": 3,
+        "price_in_usd": 75.06
+      }
+    },
+    {
+      "id": 30,
+      "name": "Ankunding, Heidenreich and Heller Hotel",
+      "description": "Eveniet blanditiis odit et minus atque totam. Sapiente et vitae. Neque fuga harum veritatis. Officia nobis doloremque quos sed illum. In voluptatum veniam eveniet cum dolor quasi. Facere enim quam sint.",
+      "distance_to_venue": "109 meters",
+      "rating": 5,
+      "price_category": "medium",
+      "amenities": [
+        " Breakfast Included",
+        " Swimming Pool",
+        " Laundry Services"
+      ],
+      "address": "8834 Maude Crossing",
+      "image": "../assets/hotel5.jpg",
+      "room1": {
+        "id": 31,
+        "name": "Goyette Group Room",
+        "description": "Rerum voluptatem doloribus et in. Mollitia sit quia quo quidem mollitia dolore. Odit consequatur incidunt natus quia optio. Sed natus dolores sit incidunt consequatur qui fugiat. Non corrupti ab necessitatibus eos. Dolorem ut cumque quia adipisci eum quidem.",
+        "max_occupancy": 4,
+        "price_in_usd": 29.34
+      },
+      "room2": {
+        "id": 32,
+        "name": "Lebsack - Goodwin Room",
+        "description": "Sint temporibus quas. Et ea omnis sunt dolor. Ipsam impedit aspernatur ipsum porro. Ad officiis expedita cupiditate.",
+        "max_occupancy": 4,
+        "price_in_usd": 72.44
+      },
+      "room3": {
+        "id": 33,
+        "name": "Stroman, Ledner and O'Hara Room",
+        "description": "Quibusdam voluptas quis esse quo eum tempora porro. Quod placeat quisquam. Nisi in quo. Aut minus similique eum incidunt cum eum repellat et ab.",
+        "max_occupancy": 1,
+        "price_in_usd": 57.15
+      }
+    }
+  ]
+}
