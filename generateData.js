@@ -2,7 +2,7 @@ var faker = require("faker");
 
 var database = { hotels: [] };
 
-for (var i = 1; i <= 30; i++) {
+for (var i = 1; i <= 10; i++) {
   database.hotels.push({
     id: i,
     name: faker.company.companyName() + " Hotel",
@@ -25,27 +25,29 @@ for (var i = 1; i <= 30; i++) {
       "../assets/hotel6.jpg",
       "../assets/hotel7.jpg"
     ]),
-    room1: {
-      id: i + 1,
-      name: faker.company.companyName() + " Room",
-      description: faker.lorem.paragraph(),
-      max_occupancy: faker.random.number({ min: 1, max: 4 }),
-      price_in_usd: faker.random.number({ min: 1, max: 100, precision: 0.01 })
-    },
-    room2: {
-      id: i + 2,
-      name: faker.company.companyName() + " Room",
-      description: faker.lorem.paragraph(),
-      max_occupancy: faker.random.number({ min: 1, max: 4 }),
-      price_in_usd: faker.random.number({ min: 1, max: 100, precision: 0.01 })
-    },
-    room3: {
-      id: i + 3,
-      name: faker.company.companyName() + " Room",
-      description: faker.lorem.paragraph(),
-      max_occupancy: faker.random.number({ min: 1, max: 4 }),
-      price_in_usd: faker.random.number({ min: 1, max: 100, precision: 0.01 })
-    }
+    rooms: [
+      {
+        id: i + 100,
+        name: faker.company.companyName() + " Room",
+        description: faker.lorem.paragraph(),
+        max_occupancy: faker.random.number({ min: 1, max: 4 }),
+        price_in_usd: faker.random.number({ min: 1, max: 100, precision: 0.01 })
+      },
+      {
+        id: i + 200,
+        name: faker.company.companyName() + " Room",
+        description: faker.lorem.paragraph(),
+        max_occupancy: faker.random.number({ min: 1, max: 4 }),
+        price_in_usd: faker.random.number({ min: 1, max: 100, precision: 0.01 })
+      },
+      {
+        id: i + 300,
+        name: faker.company.companyName() + " Room",
+        description: faker.lorem.paragraph(),
+        max_occupancy: faker.random.number({ min: 1, max: 4 }),
+        price_in_usd: faker.random.number({ min: 1, max: 100, precision: 0.01 })
+      }
+    ]
   });
 }
 
