@@ -2,7 +2,7 @@ var faker = require("faker");
 
 var database = { hotels: [] };
 
-for (var i = 1; i <= 10; i++) {
+for (var i = 1; i <= 15; i++) {
   database.hotels.push({
     id: i,
     name: faker.company.companyName() + " Hotel",
@@ -23,7 +23,8 @@ for (var i = 1; i <= 10; i++) {
       "../assets/hotel4.jpg",
       "../assets/hotel5.jpg",
       "../assets/hotel6.jpg",
-      "../assets/hotel7.jpg"
+      "../assets/hotel7.jpg",
+      "../assets/confetti.jpg"
     ]),
     rooms: [
       {
