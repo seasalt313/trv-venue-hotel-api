@@ -9,11 +9,6 @@ const hoteldb = JSON.parse(fs.readFileSync("./db.json", "UTF-8"));
 
 server.use(jsonServer.defaults());
 
-function createHotel(data) {
-  let parsed = JSON.stringify(data);
-  hoteldb.hotels.push(parsed);
-}
-
 server.post("/hotels", (req, res) => {
   res.status(200).json(req.body);
 });

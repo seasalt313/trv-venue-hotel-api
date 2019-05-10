@@ -343,13 +343,28 @@
       ]
     },
     {
-      "name": "skyhouse",
-      "description": "asdf",
-      "address": "asdf",
-      "distance_to_venue": "23",
       "price_category": "medium",
       "rating": "2",
       "id": 11
+    },
+    {
+      "price_category": "medium",
+      "rating": "2",
+      "id": 12
+    },
+    {
+      "price_category": "medium",
+      "rating": "2",
+      "id": 13
+    },
+    {
+      "distance_to_venue": "khjlkjh",
+      "price_category": "medium",
+      "id": 14
+    },
+    {
+      "price_category": "medium",
+      "id": 15
     }
   ]
 }
